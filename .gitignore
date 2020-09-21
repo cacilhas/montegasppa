@@ -1,6 +1,6 @@
 *~
 .*
-*.js
+/*.js
 node_modules
 !.gitignore
 !.nojekyll
