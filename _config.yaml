@@ -1,11 +1,81 @@
+author: &author
+  name: Arĥimedeς Montegasppα Cacilhας
+  email: batalema@cacilhas.info
+  url: //montegasppa.cacilhas.info/author.html
+  contacts:
+    devto:
+      name: DEV Community
+      title: DEV Profile 👩‍💻👨‍💻
+      url: https://dev.to/cacilhas
+    twitter:
+      name: Twitter
+      title: Arĥimedeς ℳontegasppα
+      url: https://twitter.com/Montegasppa
+      image:
+        source: //cacilhas.info/img/twitter.png
+        style:
+          width: 24px
+          height: 24px
+    patreon:
+      name: Patreon
+      title: ℳontegasppα
+      url: https://www.patreon.com/cacilhas
+      image:
+        source: //cacilhas.info/img/patreon.png
+        style:
+          width: 24px
+          height: 24px
+    bandcamp:
+      name: Bandcamp
+      title: Le Obscur Essenteς
+      url: https://montegasppa.bandcamp.com/releases
+      image:
+        source: //cacilhas.info/img/le-obscur-essentes.jpg
+        style:
+          width: 24px
+          height: 24px
+    github:
+      name: Github
+      url: https://github.com/cacilhas/
+      image:
+        source: //cacilhas.info/img/github.png
+        style:
+          width: 24px
+          height: 20px
+    facebook:
+      name: Facebook
+      title: Archimedes Montegasppa
+      url: https://www.facebook.com/archimedes.montegasppa.3
+      image:
+        source: //cacilhas.info/img/facebook.png
+        style:
+          width: 24px
+          height: 24px
+    linkedin:
+      name: LinkedIn
+      title: Rodrigo Cacilhas
+      url: https://br.linkedin.com/in/rodrigocacilhas
+      image:
+        source: //cacilhas.info/img/linkedin.png
+        style:
+          width: 24px
+          height: 24px
 
-author: Arĥimedeς Montegasppα Cacilhας
-blogTitle: ℳontegasppα and Giulia C.’s Thoughts
-copyright: CC-BY 4.0
 description: A hippo in a flower field.
+favicon: //cacilhas.info/img/icons/montegasppa.ico
 lang: en
-site: //montegasppa.cacilhas.info
-title: ℳontegasppα and Giulia C.’s Thoughts
+site: &site //montegasppa.cacilhas.info
+title: &title ℳontegasppα and Giulia C.’s Thoughts
+
+license:
+  name: CC-BY 4.0
+  url: http://creativecommons.org/licenses/by/4.0/deed
+  image: https://i.creativecommons.org/l/by/4.0/80x15.png
+
+blog:
+  author: *author
+  url: *site
+  title: *title
 
 cacilhas:
   title: ℭacilhας.INFO
@@ -19,6 +89,18 @@ kodumaro:
   title: Kodumaro
   url: //kodumaro.cacilhas.info/
 
+mosaicolivre:
+  title: Mosaico Livre
+  url: https://claudiotorcato.wordpress.com/
+
+todasfridas:
+  title: Todas Fridas
+  url: https://www.todasfridas.com.br/
+
 vortaro:
   title: Konsulta Vortaro
   url: //vortaro.cacilhas.info/
+
+waltercruz:
+  title: Walter Cruz
+  url: https://waltercruz.com/
