@@ -38,3 +38,15 @@ body {
 #release {
   text-shadow: #000 1px 1px 1px;
 }
+.panel-body ul {
+  list-style: none;
+}
+.panel-body ul li:before {
+  color: #fff;
+  content: '\27a2';
+  display: inline-block;
+  font-weight: bold;
+  margin-left: -1em;
+  margin-right: 1ex;
+  width: 1em;
+}

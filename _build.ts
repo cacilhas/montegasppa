@@ -76,7 +76,9 @@ async function walk(directory: string, context: Context, layout: string): Promis
       } else if (cname.endsWith('.md')) {
         const converter = buildMdConverter()
         target = target.replace(/\.md$/, '.html')
-        const block = converter.makeHtml(fs.readFileSync(file, 'utf8'))
+        const block =
+          converter.makeHtml(fs.readFileSync(file, 'utf8'))
+          .replace(/<pre>/g, '<pre class="prettyprint prettyprinted">')
         const metadata = _.assign({}, currentContext, converter.getMetadata())
         if (metadata.date)
           metadata.isoDate = moment(metadata.date).format('MMM. DD, YYYY')

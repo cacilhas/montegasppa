@@ -9,6 +9,11 @@ permalink: /2020/09/test.html
 
 This is a test page.
 
-```sh
-echo 123
+```python
+def f():
+    return 'some value'
 ```
+
+- Line 1
+- Line 2
+- Line 3
