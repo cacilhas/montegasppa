@@ -26,9 +26,15 @@ const tags: Tags = {}
 const today = moment()
 
 showdown.setFlavor('github')
+showdown.extension('PreExtension', {
+  type: 'output',
+  regex: /<pre>/g,
+  replace: '<pre class="prettyprint prettyprinted">',
+})
 
 function buildMdConverter(): showdown.Converter {
-  const converter = new showdown.Converter
+  const converter = new showdown.Converter({extensions: ['PreExtension']})
+
   converter.setOption('completeHTMLDocument', false)
   converter.setOption('metadata', true)
   converter.setOption('parseImgDimensions', true)
@@ -36,6 +42,7 @@ function buildMdConverter(): showdown.Converter {
   converter.setOption('strikethrough', true)
   converter.setOption('tables', true)
   converter.setOption('tasklists', true)
+
   return converter
 }
 
@@ -76,9 +83,7 @@ async function walk(directory: string, context: Context, layout: string): Promis
       } else if (cname.endsWith('.md')) {
         const converter = buildMdConverter()
         target = target.replace(/\.md$/, '.html')
-        const block =
-          converter.makeHtml(fs.readFileSync(file, 'utf8'))
-          .replace(/<pre>/g, '<pre class="prettyprint prettyprinted">')
+        const block = converter.makeHtml(fs.readFileSync(file, 'utf8'))
         const metadata = _.assign({}, currentContext, converter.getMetadata())
         if (metadata.date)
           metadata.isoDate = moment(metadata.date).format('MMM. DD, YYYY')
