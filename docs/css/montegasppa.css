@@ -8,7 +8,7 @@ body {
 }
 .panel-heading {
   color: #fff !important;
-  background-image: url("//cacilhas.info/img/montegasppa-title-bg.jpg") !important;
+  background-image: url("/img/title-background.jpg") !important;
   background-repeat: no-repeat !important;
   background-position: center !important;
   -webkit-background-size: cover !important;
