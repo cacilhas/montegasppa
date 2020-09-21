@@ -143,19 +143,23 @@ function writeFile(file: string, content: string): Promise<void> {
   })
 }
 
+function loadYaml(file: string): Context {
+  return yaml.safeLoad(fs.readFileSync(file, 'utf8'))
+}
+
 function loadContext(directory: string, context: Context): Context {
   let res: Context = _.cloneDeep(context)
   const files = fs.readdirSync(directory).filter(e => e.startsWith('_') && e.endsWith('.yaml'))
   for (let cname of files) {
     const file = path.join(directory, cname)
-    res = _.assign(res, yaml.safeLoad(fs.readFileSync(file, 'utf8')))
+    res = _.assign(res, loadYaml(file))
   }
   return res
 }
 
 ;(async () => {
   console.log('loading context')
-  const context: Context = require('./_config.json')
+  const context: Context = loadYaml('./_config.yaml')
 
   console.log('clean up previous compilation')
   rimraf.sync('./docs')

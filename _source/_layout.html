@@ -23,9 +23,77 @@
     <link rel="stylesheet" href="//cacilhas.info/css/bootstrap-theme.min.css" />
     <link rel="stylesheet" href="//cacilhas.info/css/theme.css" />
     <link rel="stylesheet" href="//cacilhas.info/css/cacilhas.css" />
+    <link rel="openid.server" href="https://openid.indieauth.com/openid" />
+    <script src="//cacilhas.info/js/ie-emulation-modes-warning.js"></script>
+    <script src="//cacilhas.info/js/jquery.min.js"></script>
+    <script src="//cacilhas.info/js/bootstrap-dropdownhover.min.js"></script>
+    <script src="//cacilhas.info/js/handle-old-url.js"></script>
+    <script src="//cacilhas.info/js/alt-title.js"></script>
+    <script src="//cacilhas.info/js/anchors.js"></script>
+    <script async="async" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
     <title>{{ title }}</title>
+    <script>
+      (adsbygoogle = window.adsbygoogle || []).push({
+        google_ad_client: "ca-pub-5741846017654057",
+        enable_page_level_ads: true,
+      })
+    </script>
+    <script>
+      (function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date;a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m) })(window,document,"script","https://www.google-analytics.com/analytics.js","ga") ga("create", "UA-99357497-1", "auto") ga("send", "pageview")
+    </script>
   </head>
   <body>
-    {% yield %}
+    <nav class="navbar navbar-inverse navbar-fixed-top">
+      <div class="container"><div class="navbar-header">
+        <button class="navbar-toggle collapsed" type="button" data-togge="collapse" data-target="#navbar" aria-controls="navbar">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <div class="dropdown">
+          <span class="navbar-brand dropdown-toggle" data-toggle="dropdown" data-hover="dropdown">ℭacilhας.INFO</span>
+          <ul class="dropdown-menu">
+            <li><a href="{{{ cacilhas.url }}}/"><i class="glyphicon glyphicon-home"></i>&nbsp;{{ cacilhas.title }}</a></li>
+            <li><a href="{{{ site }}}/"><i class="licon icon-montegasppa"></i>&nbsp;{{ blogTitle }}</a></li>
+            <li><a href="{{{ kodumaro.url }}}"><i class="licon icon-kodumaro"></i>&nbsp;{{ kodumaro.title }}</a></li>
+            <li><hr/></li>
+            <li><a href="https://www.educaedu-brasil.com/" target="_blank"><i class="licon icon-educaedu"></i>&nbsp;Educaedu Brasil</a></li>
+            <li><a href="{{{ hondaj.url }}}" target="_blank"><i class="licon icon-hondaj"></i>&nbsp;{{ hondaj.title }}</a></li>
+            <li><a href="{{{ vortaro.url }}}" target="_blank"><i class="glyphicon glyphicon-link"></i>&nbsp;{{ vortaro.url }}</a></li>
+            <li><a href="{{{ cacilhas.url }}}/maven" target="_blank"><i class="licon icon-maven"></i>&nbsp;Kodumaro Maven Repository</a></li>
+            <li><a href="https://claudiotorcato.wordpress.com/" target="_blank"><i class="licon icon-wordpress"></i>&nbsp;Mosaico Livre</a></li>
+            <li><a href="https://www.patreon.com/cacilhas" target="_blank"><i class="licon icon-patreon"></i>&nbsp;ℳontegasppα</a></li>
+            <li><a href="https://montegasppa.bandcamp.com/releases" target="_blank"><i class="licon icon-le-obscur-essentes"></i>&nbsp;Le Obscur Essenteς</a></li>
+            <li><a href="https://www.todasfridas.com.br/" target="_blank"><i class="licon icon-fridas"></i>&nbsp;Todas Fridas</a></li>
+            <li><a href="https://waltercruz.com/" target="_blank"><i class="glyphicon glyphicon-link"></i>&nbsp;Walter Cruz</a></li>
+            <li><a href="https://dev.to/cacilhas" target="_blank"><i class="licon icon-dev-to"></i>&nbsp;DEV Profile 👩‍💻👨‍💻</a></li>
+            <li><a href="https://medium.com/@cacilhas" target="_blank"><i class="licon icon-medium"></i>&nbsp;Medium.com/@cacilhas</a></li>
+          </ul>
+        </div>
+      </div>
+        <div class="collapse navbar-collapse" id="navbar">
+          <ul class="nav navbar-nav">
+            <li><a href="{{{ cacilhas.url }}}"><i class="glyphicon glyphicon-home"></i>&nbsp;Home</a></li>
+            <li><a href="{{{ cacilhas.url }}}/about.html">About</a></li>
+            <li class="active"><a href="{{ site }}">Prologue</a></li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    <div class="container">
+      <div class="panel panel-default">
+        <div class="panel-heading"><h2 class="mg-title">{{ title }}</h2>
+        <h6>{{ description }}</h6>
+      </div>
+      <div class="panel-body">
+        {% yield %}
+      </div>
+    </div>
+    <script src="//cacilhas.info/js/bootstrap.min.js"></script>
+    <script src="//cacilhas.info/js/ie10-viewport-bug-workaround.js"></script>
+    <script language="javascript">$(document).ready(function() {
+      $('[title]').tooltip();
+    })</script>
   </body>
 </html>
