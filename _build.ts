@@ -221,6 +221,7 @@ async function ordenateTags(output): Promise<void> {
   console.log('clean up previous compilation')
   rimraf.sync('./docs')
   fs.mkdirSync('./docs')
+  fs.writeFileSync('./docs/.nojekyll', '')
 
   await Promise.all([walk('./_legacy', context, ''), walk('./_source', context, '')])
   await ordenateTags('./docs')
