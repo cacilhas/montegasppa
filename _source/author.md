@@ -1,5 +1,5 @@
 ---
-title: About the Author
+title: About the author
 type: page
 ---
 [archimedes]: https://en.wikipedia.org/wiki/Archimedes

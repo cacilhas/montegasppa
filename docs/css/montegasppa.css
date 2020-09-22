@@ -18,6 +18,7 @@ body {
 }
 .panel-heading h2 {
   text-shadow: #4b5964 2px 2px 2px;
+  text-transform: capitalize;
 }
 .panel-heading h6 {
   text-shadow: #4b5964 1px 1px 1px;
