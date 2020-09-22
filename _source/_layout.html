@@ -51,32 +51,33 @@
   </head>
   <body>
     <nav class="navbar navbar-inverse navbar-fixed-top">
-      <div class="container"><div class="navbar-header">
-        <button class="navbar-toggle collapsed" type="button" data-togge="collapse" data-target="#navbar" aria-controls="navbar">
-          <span class="sr-only">Toggle navigation</span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-        </button>
-        <div class="dropdown">
-          <span class="navbar-brand dropdown-toggle" data-toggle="dropdown" data-hover="dropdown">ℭacilhας.INFO</span>
-          <ul class="dropdown-menu">
-            <li><a href="{{{ cacilhas.url }}}/"><i class="glyphicon glyphicon-home"></i>&nbsp;{{ cacilhas.title }}</a></li>
-            <li><a href="{{{ site }}}/"><i class="licon icon-montegasppa"></i>&nbsp;{{ blog.title }}</a></li>
-            <li><a href="{{{ kodumaro.url }}}"><i class="licon icon-kodumaro"></i>&nbsp;{{ kodumaro.title }}</a></li>
-            <li><hr/></li>
-            <li><a href="{{{ hondaj.url }}}" target="_blank"><i class="licon icon-hondaj"></i>&nbsp;{{ hondaj.title }}</a></li>
-            <li><a href="{{{ vortaro.url }}}" target="_blank"><i class="glyphicon glyphicon-link"></i>&nbsp;{{ vortaro.url }}</a></li>
-            <li><a href="{{{ cacilhas.url }}}/maven" target="_blank"><i class="licon icon-maven"></i>&nbsp;Kodumaro Maven Repository</a></li>
-            <li><a href="{{{ mosaicolivre.url }}}" target="_blank"><i class="licon icon-wordpress"></i>&nbsp;{{ mosaicolivre.title }}</a></li>
-            <li><a href="{{{ blog.author.contacts.patreon.url }}}" target="_blank"><i class="licon icon-patreon"></i>&nbsp;{{ blog.author.contacts.patreon.title }}</a></li>
-            <li><a href="{{{ blog.author.contacts.bandcamp.url }}}" target="_blank"><i class="licon icon-le-obscur-essentes"></i>&nbsp;{{ blog.author.contacts.bandcamp.title }}</a></li>
-            <li><a href="{{{ todasfridas.url }}}" target="_blank"><i class="licon icon-fridas"></i>&nbsp;{{ todasfridas.title }}</a></li>
-            <li><a href="{{{ waltercruz.url }}}" target="_blank"><i class="glyphicon glyphicon-link"></i>&nbsp;{{ waltercruz.title }}</a></li>
-            <li><a href="{{{ blog.author.contacts.devto.url }}}" target="_blank"><i class="licon icon-dev-to"></i>&nbsp;{{ blog.author.contacts.devto.title }}</a></li>
-          </ul>
+      <div class="container">
+        <div class="navbar-header">
+          <button class="navbar-toggle collapsed" type="button" data-togge="collapse" data-target="#navbar" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <div class="dropdown">
+            <span class="navbar-brand dropdown-toggle" data-toggle="dropdown" data-hover="dropdown">ℭacilhας.INFO</span>
+            <ul class="dropdown-menu">
+              <li><a href="{{{ cacilhas.url }}}/"><i class="glyphicon glyphicon-home"></i>&nbsp;{{ cacilhas.title }}</a></li>
+              <li><a href="{{{ site }}}/"><i class="licon icon-montegasppa"></i>&nbsp;{{ blog.title }}</a></li>
+              <li><a href="{{{ kodumaro.url }}}"><i class="licon icon-kodumaro"></i>&nbsp;{{ kodumaro.title }}</a></li>
+              <li><hr/></li>
+              <li><a href="{{{ hondaj.url }}}" target="_blank"><i class="licon icon-hondaj"></i>&nbsp;{{ hondaj.title }}</a></li>
+              <li><a href="{{{ vortaro.url }}}" target="_blank"><i class="glyphicon glyphicon-link"></i>&nbsp;{{ vortaro.url }}</a></li>
+              <li><a href="{{{ cacilhas.url }}}/maven" target="_blank"><i class="licon icon-maven"></i>&nbsp;Kodumaro Maven Repository</a></li>
+              <li><a href="{{{ mosaicolivre.url }}}" target="_blank"><i class="licon icon-wordpress"></i>&nbsp;{{ mosaicolivre.title }}</a></li>
+              <li><a href="{{{ blog.author.contacts.patreon.url }}}" target="_blank"><i class="licon icon-patreon"></i>&nbsp;{{ blog.author.contacts.patreon.title }}</a></li>
+              <li><a href="{{{ blog.author.contacts.bandcamp.url }}}" target="_blank"><i class="licon icon-le-obscur-essentes"></i>&nbsp;{{ blog.author.contacts.bandcamp.title }}</a></li>
+              <li><a href="{{{ todasfridas.url }}}" target="_blank"><i class="licon icon-fridas"></i>&nbsp;{{ todasfridas.title }}</a></li>
+              <li><a href="{{{ waltercruz.url }}}" target="_blank"><i class="glyphicon glyphicon-link"></i>&nbsp;{{ waltercruz.title }}</a></li>
+              <li><a href="{{{ blog.author.contacts.devto.url }}}" target="_blank"><i class="licon icon-dev-to"></i>&nbsp;{{ blog.author.contacts.devto.title }}</a></li>
+            </ul>
+          </div>
         </div>
-      </div>
         <div class="collapse navbar-collapse" id="navbar">
           <ul class="nav navbar-nav">
             <li><a href="{{{ site }}}"><i class="glyphicon glyphicon-home"></i>&nbsp;Home</a></li>
@@ -122,7 +123,7 @@
         <a href="{{{ author.url }}}">{{ author.name }}</a> personal website
         &nbsp;
         <a ref="license" href="{{{ license.url }}}">
-          <img alt="{{ license.name }}" src="{{{ license.image }}}"/>
+          <img rel="license" alt="{{ license.name }}" src="{{{ license.image }}}" style="border: none;" />
         </a>
       </p>
     </div>
