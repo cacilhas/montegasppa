@@ -111,11 +111,13 @@
             }
           }
         </script>
+        <noscript>Please enable JavaScript to view to tags.</noscript>
       </div>
       <div id="player" class="text-center">
         <script>
           $('#player').append(Math.random() < 0.7 ? `{{{ bandcamp.le-obscur-essentes }}}` : `{{{ bandcamp.nimbo }}}`)
         </script>
+        <noscript><a href="{{{ author.contacts.bandcamp.url }}}">{{ author.contacts.bandcamp.title }}</a></noscript>
       </div>
     </div>
     <div class="panel-footer" id="footer">

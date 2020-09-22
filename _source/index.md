@@ -21,11 +21,15 @@ my **personal** blog.
 
 ### Posts
 
-<ul id="postsList"></ul>
+<ul id="postsList">
+  <noscript>Please enable Javascript to view the posts.</noscript>
+</ul>
 
 ### Tags
 
-<ul id="tagsList"></ul>
+<ul id="tagsList">
+  <noscript>Please enable Javascript to view the posts.</noscript>
+</ul>
 
 ### Previous posts
 
