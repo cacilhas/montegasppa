@@ -29,15 +29,34 @@ my **personal** blog.
 <ul id="tagsList"></ul>
 
 <script>
-  $.getJSON('/posts.json', function(posts) {
-    for (var post of posts) {
-      $('#postsList').append('<li><a href="' + post.url + '">' + post.title + '</a></li>')
-    }
-  })
+  var urlParams = new URLSearchParams(window.location.search)
+  var currentTag = urlParams.get('tag')
+
+  if (currentTag) {
+    $('#posts').text('Posts at ')
+    $('#posts').append('<code>' + currentTag + '</code>')
+    $('#postsList').append('<li><a href="/">Back home</a></li>')
+    $.getJSON('/tags/' + currentTag + '.json', function(posts) {
+      for (var post of posts) {
+        $('#postsList').append(
+          '<li><small>[' + post.date + ']</small> <a href="' + post.url + '">' + post.title + '</a></li>'
+        )
+      }
+    })
+
+  } else {
+    $.getJSON('/posts.json', function(posts) {
+      for (var post of posts) {
+        $('#postsList').append(
+          '<li><small>[' + post.date + ']</small> <a href="' + post.url + '">' + post.title + '</a></li>'
+        )
+      }
+    })
+  }
 
   $.getJSON('/tags.json', function(tags) {
     for (var tag of tags) {
-      $('#tagsList').append('<li><a href="/?tag=' + tag + '">' + tag + '</a></li>')
+      $('#tagsList').append('<li><a href="/?tag=' + tag + '"><code>' + tag + '</code></a></li>')
     }
   })
 </script>
