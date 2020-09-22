@@ -14,6 +14,7 @@ interface Context {
 }
 
 interface Tag {
+  date: string,
   title: string
   url: string
 }
@@ -22,7 +23,7 @@ interface Tags {
   [key: string]: Tag[]
 }
 
-const tags: Tags = {}
+const tags: Tags = {'': []}
 const today = moment()
 
 showdown.setFlavor('github')
@@ -39,6 +40,7 @@ function buildMdConverter(): showdown.Converter {
   converter.setOption('metadata', true)
   converter.setOption('parseImgDimensions', true)
   converter.setOption('simplifiedAutoLink', true)
+  converter.setOption('simpleLineBreaks', false)
   converter.setOption('strikethrough', true)
   converter.setOption('tables', true)
   converter.setOption('tasklists', true)
@@ -85,6 +87,7 @@ async function walk(directory: string, context: Context, layout: string): Promis
         target = target.replace(/\.md$/, '.html')
         const block = converter.makeHtml(fs.readFileSync(file, 'utf8'))
         const metadata = _.assign({}, currentContext, converter.getMetadata())
+        metadata.type = metadata.type ? metadata.type : 'post'
         if (metadata.date)
           metadata.isoDate = moment(metadata.date).format('MMM. DD, YYYY')
         else {
@@ -103,14 +106,17 @@ async function walk(directory: string, context: Context, layout: string): Promis
           metadata,
         )
 
-        if (metadata.tags) {
+        if (metadata.type === 'post') {
           const current: Tag = {
+            date: metadata.date,
             title: metadata.title,
             url: metadata.url,
           }
-          for (let tag of metadata.tags.split(/\s+/).filter(e => !!e))
-            if (tags[tag]) tags[tag].push(current)
-            else tags[tag] = [current]
+          tags[''].push(current)
+          if (metadata.tags)
+            for (let tag of metadata.tags.split(/\s+/).filter(e => !!e))
+              if (tags[tag]) tags[tag].push(current)
+              else tags[tag] = [current]
         }
 
       } else
@@ -164,6 +170,27 @@ function loadContext(directory: string, context: Context): Context {
   return res
 }
 
+async function ordenateTags(output): Promise<void> {
+  await Promise.all(_.map(tags, value => Promise.resolve(value.sort((a, b) => a > b ? -1 : 1))))
+  const postsFile = path.join(output, 'posts.json')
+  console.log(`writing ${postsFile}`)
+  fs.writeFileSync(postsFile, JSON.stringify(tags[''].slice(0, 3)))
+
+  const tagDir = path.join(output, 'tags')
+  fs.mkdirSync(tagDir)
+
+  await Promise.all(_.toPairs(tags).filter(([key, _v]) => !!key).map(([key, value]) =>
+    new Promise((resolve, reject) => {
+      console.log(`writing ${key} tag`)
+      fs.writeFile(`${path.join(tagDir, key)}.json`, JSON.stringify(value), err => err ? reject(err) : resolve())
+    })
+  ))
+
+  const tagsFile = path.join(output, 'tags.json')
+  console.log(`writing ${tagsFile}`)
+  fs.writeFileSync(tagsFile, JSON.stringify(_.keys(tags).filter(e => !!e).sort()))
+}
+
 ;(async () => {
   console.log('loading context')
   const context: Context = loadYaml('./_config.yaml')
@@ -173,6 +200,7 @@ function loadContext(directory: string, context: Context): Context {
   fs.mkdirSync('./docs')
 
   await Promise.all([walk('./_legacy', context, ''), walk('./_source', context, '')])
+  await ordenateTags('./docs')
 
 })()
   .then(() => console.log("built"))
