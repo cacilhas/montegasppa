@@ -4,7 +4,7 @@ type: page
 [original]: http://montegasppa.blogspot.in/2006/07/prlogo.html
 
 {:class="mg-first"} Everytime I was talking to a friend blogger, he proposed me
-to write a blog. I never thought seriously until [July 2006][original], when I
+to write a blog. I’d never thought seriously until [July 2006][original], when I
 wrote the first **{{ blog.title }}** post.
 
 
