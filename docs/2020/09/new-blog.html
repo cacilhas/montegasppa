@@ -8,13 +8,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="language" content="en" />
     <meta name="copyright" content="CC-BY 4.0" />
-    <meta name="url" content="//montegasppa.cacilhas.info//index.html" />
+    <meta name="url" content="//montegasppa.cacilhas.info/2020/09/new-blog.html" />
     <meta name="date" content="Sep. 21, 2020" />
     <meta name="search_date" content="2020-09-21" />
     <meta name="author" content="Arĥimedeς Montegasppα Cacilhας" />
     <meta property="og:site_name" content="ℳontegasppα and Giulia C.’s Thoughts" />
-    <meta property="og:title" content="ℳontegasppα and Giulia C.’s Thoughts" />
-    <meta property="og:url" content="//montegasppa.cacilhas.info//index.html" />
+    <meta property="og:title" content="Stating Over" />
+    <meta property="og:url" content="//montegasppa.cacilhas.info/2020/09/new-blog.html" />
     <meta property="article:author" content="Arĥimedeς Montegasppα Cacilhας" />
     <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Kavivanar" />
     <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto&amp;subset=latin-ext" />
@@ -38,7 +38,7 @@
     <script src="/js/alt-title.js"></script>
     <script src="/js/anchors.js"></script>
     <script async="async" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-    <title>ℳontegasppα and Giulia C.’s Thoughts</title>
+    <title>Stating Over</title>
     <script>
       (adsbygoogle = window.adsbygoogle || []).push({
         google_ad_client: "ca-pub-5741846017654057",
@@ -80,70 +80,39 @@
         <div class="collapse navbar-collapse" id="navbar">
           <ul class="nav navbar-nav">
             <li><a href="//montegasppa.cacilhas.info"><i class="glyphicon glyphicon-home"></i>&nbsp;Home</a></li>
-            <li class="active"><a href="//montegasppa.cacilhas.info//index.html">ℳontegasppα and Giulia C.’s Thoughts</a></li>
+            <li class="active"><a href="//montegasppa.cacilhas.info/2020/09/new-blog.html">Stating Over</a></li>
           </ul>
         </div>
       </div>
     </nav>
     <div class="container">
       <div class="panel panel-default">
-        <div class="panel-heading"><h2 class="mg-title">ℳontegasppα and Giulia C.’s Thoughts</h2>
+        <div class="panel-heading"><h2 class="mg-title">Stating Over</h2>
         <h6>A hippo in a flower field.</h6>
       </div>
       <div class="panel-body">
-        <p class="mg-first">Everytime I was talking to a friend blogger, he proposed me
-  to write a blog. I never thought seriously until
-  <a href="http://montegasppa.blogspot.in/2006/07/prlogo.html">July 2006</a>,
-  when I wrote the first <strong>ℳontegasppα and Giulia C.’s Thoughts</strong> post.
+        <div class="pull-right">
+  <img src="//cacilhas.info/img/lamp.png" alt="lamp" />
+</div>
+<p class="mg-first">
+  Sorry, I just get tired of my
+  <a href="//cacilhas.info/montegasppa/">old platform</a> and started over.
 </p>
-<p>That blog was about Computing, Free Software and programming, but eventually
-became a political blog, strongly because I have moved the programming’s
-responsability to <a href="//kodumaro.cacilhas.info/">Kodumaro</a>.</p>
-<p>Later ℳontegasppα and Giulia C.’s Thoughts turned into my personal blog, where I throw up everything
-affects me, from religion to music, from Computing to Politics.</p>
-<p>It was reborn under my <a href="//montegasppa.cacilhas.info/">personal website</a>, slightly
-renamed, once I’ve changed “Monte Gasppa” to “ℳontegasppα”, but more and more
-my <strong>personal</strong> blog.</p>
-<h3 id="posts">Posts</h3>
-<ul id="postsList"></ul>
-<h3 id="tags">Tags</h3>
-<ul id="tagsList"></ul>
-<script>
-  var urlParams = new URLSearchParams(window.location.search)
-  var currentTag = urlParams.get('tag')
-
-  if (currentTag) {
-    $('#posts').text('Posts at ')
-    $('#posts').append('<code>' + currentTag + '</code>')
-    $('#postsList').append('<li><a href="/">Back home</a></li>')
-    $.getJSON('/tags/' + currentTag + '.json', function(posts) {
-      for (var post of posts) {
-        $('#postsList').append(
-          '<li><small>[' + post.date + ']</small> <a href="' + post.url + '">' + post.title + '</a></li>'
-        )
-      }
-    })
-
-  } else {
-    $.getJSON('/posts.json', function(posts) {
-      for (var post of posts) {
-        $('#postsList').append(
-          '<li><small>[' + post.date + ']</small> <a href="' + post.url + '">' + post.title + '</a></li>'
-        )
-      }
-    })
-  }
-
-  $.getJSON('/tags.json', function(tags) {
-    for (var tag of tags) {
-      $('#tagsList').append('<li><a href="/?tag=' + tag + '"><code>' + tag + '</code></a></li>')
-    }
-  })
-</script>
+<p>What annoyed me the most was the <a href="https://pugjs.org/">Pug</a> notation. Don’t take me wrong, I
+really like Pug, but every single content transport was a translation to
+<a href="https://www.markdownguide.org/">Markdown</a>, and I’m pissed off of it.</p>
+<p>So, I decided set my blogs apart and use Markdown to write the posts.</p>
+<p>I just couldn’t find a barely useful platform to use (please don’t come with
+that shit called Jekyll.)</p>
+<p>After a lot of researching, I throwed it all up and started to code my own
+software.</p>
+<p>I’m using <a href="https://typescript.org/">TypeScript</a>, <a href="https://coffeescript.org/">CoffeeScript</a>,
+<a href="https://mustache.github.io/">Mustache</a>, <a href="http://showdownjs.com/">Showdown</a>, <a href="https://stylus-lang.com/">Stylus</a>, and <a href="https://yaml.org/">YAML</a>.</p>
+<p>Let’s see how long it goes.</p>
       </div>
       <div id="tags" class="tags"></div>
       <script>
-        var tags = ''
+        var tags = 'development personal reblog'
         if (tags) {
           for (var tag of tags.split(" ")) {
             $('#tags').append(

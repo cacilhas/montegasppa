@@ -23,6 +23,8 @@ interface Tags {
   [key: string]: Tag[]
 }
 
+const postsLimit = 5
+
 const tags: Tags = {'': []}
 const today = moment()
 
@@ -174,7 +176,7 @@ async function ordenateTags(output): Promise<void> {
   await Promise.all(_.map(tags, value => Promise.resolve(value.sort((a, b) => a > b ? -1 : 1))))
   const postsFile = path.join(output, 'posts.json')
   console.log(`writing ${postsFile}`)
-  fs.writeFileSync(postsFile, JSON.stringify(tags[''].slice(0, 3)))
+  fs.writeFileSync(postsFile, JSON.stringify(tags[''].slice(0, postsLimit)))
 
   const tagDir = path.join(output, 'tags')
   fs.mkdirSync(tagDir)

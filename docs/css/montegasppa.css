@@ -5,6 +5,10 @@
 }
 body {
   background-color: #97b3c9 !important;
+  font-family: "Roboto", Helvetica, Arial, sans-serif !important;
+}
+code {
+  font-family: "Roboto Mono", Monaco, "Courier New", monospace !important;
 }
 .panel-heading {
   color: #fff !important;
@@ -20,11 +24,18 @@ body {
   text-shadow: #4b5964 2px 2px 2px;
 }
 .tag {
-  color: #fff !important;
   background-color: #97b3c9 !important;
+  color: #fff !important;
+  font-family: "Roboto Mono", Monaco, "Courier New", monospace !important;
+  padding-left: 1ex;
+  padding-right: 1ex;
 }
 .tag a {
   color: #fff;
+}
+.tags {
+  width: 100%;
+  text-align: right;
 }
 .badge {
   background-color: #97b3c9 !important;

@@ -79,9 +79,8 @@
       </div>
         <div class="collapse navbar-collapse" id="navbar">
           <ul class="nav navbar-nav">
-            <li><a href="{{{ cacilhas.url }}}"><i class="glyphicon glyphicon-home"></i>&nbsp;Home</a></li>
-            <li><a href="{{{ cacilhas.url }}}/about.html">About</a></li>
-            <li class="active"><a href="{{ site }}">Prologue</a></li>
+            <li><a href="{{{ site }}}"><i class="glyphicon glyphicon-home"></i>&nbsp;Home</a></li>
+            <li class="active"><a href="{{{ url }}}">{{ title }}</a></li>
           </ul>
         </div>
       </div>
@@ -94,6 +93,26 @@
       <div class="panel-body">
         {% yield %}
       </div>
+      <div id="tags" class="tags"></div>
+      <script>
+        var tags = '{{{ tags }}}'
+        if (tags) {
+          for (var tag of tags.split(" ")) {
+            $('#tags').append(
+              '<a href="/?tag=' + tag + '" class="tag">' + tag + '</a>'
+            )
+          }
+        }
+      </script>
+    </div>
+    <div class="panel-footer" id="footer">
+      <p class="small">
+        <a href="{{{ author.url }}}">{{ author.name }}</a> personal website
+        &nbsp;
+        <a ref="license" href="{{{ license.url }}}">
+          <img alt="{{ license.name }}" src="{{{ license.image }}}"/>
+        </a>
+      </p>
     </div>
     <script src="/js/bootstrap.min.js"></script>
     <script src="/js/ie10-viewport-bug-workaround.js"></script>
