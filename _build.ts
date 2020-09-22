@@ -200,7 +200,6 @@ async function ordenateTags(output): Promise<void> {
   console.log('clean up previous compilation')
   rimraf.sync('./docs')
   fs.mkdirSync('./docs')
-  copyFile('./CNAME', './docs/CNAME')
 
   await Promise.all([walk('./_legacy', context, ''), walk('./_source', context, '')])
   await ordenateTags('./docs')
