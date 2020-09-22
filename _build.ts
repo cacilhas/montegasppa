@@ -114,10 +114,10 @@ async function walk(directory: string, context: Context, layout: string): Promis
         metadata.type = metadata.type ? metadata.type : 'post'
         metadata.post = metadata.type === 'post'
         if (metadata.date)
-          metadata.isoDate = moment(metadata.date).format('MMM. DD, YYYY')
+          metadata.isoDate = moment(metadata.date).format('MMM. Do, YYYY')
         else {
           metadata.date = today.format('YYYY-MM-DD')
-          metadata.isoDate = today.format('MMM. DD, YYYY')
+          metadata.isoDate = today.format('MMM. Do, YYYY')
         }
         if (metadata.permalink) {
           metadata.url = `${metadata.site}${metadata.permalink}`
