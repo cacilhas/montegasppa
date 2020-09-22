@@ -9,13 +9,8 @@ $shadow = #4b5964
   .panel-body
     font-size 18px
 
-
 body
   background-color $bg_color !important
-  font-family "Roboto", Helvetica, Arial, sans-serif !important
-
-code
-  font-family "Roboto Mono", Monaco, "Courier New", monospace !important
 
 .panel-heading
   color white !important
@@ -24,10 +19,12 @@ code
   background-position center !important
   bg-size cover !important
 
+.panel-heading
+  h2
+    text-shadow $shadow 2px 2px 2px
 
-.panel-heading > h2
-  text-shadow $shadow 2px 2px 2px
-
+  h6
+    text-shadow $shadow 1px 1px 1px
 
 .tag
   background-color $bg_color !important
@@ -42,14 +39,11 @@ code
 .badge
   background-color $badge_color !important
 
-
 .hidden
   display none !important
 
-
 .label-default
   background-color $badge_color !important
-
 
 #release
   text-shadow black 1px 1px 1px

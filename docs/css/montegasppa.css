@@ -5,10 +5,6 @@
 }
 body {
   background-color: #97b3c9 !important;
-  font-family: "Roboto", Helvetica, Arial, sans-serif !important;
-}
-code {
-  font-family: "Roboto Mono", Monaco, "Courier New", monospace !important;
 }
 .panel-heading {
   color: #fff !important;
@@ -20,8 +16,11 @@ code {
   -o-background-size: cover !important;
   background-size: cover !important;
 }
-.panel-heading > h2 {
+.panel-heading h2 {
   text-shadow: #4b5964 2px 2px 2px;
+}
+.panel-heading h6 {
+  text-shadow: #4b5964 1px 1px 1px;
 }
 .tag {
   background-color: #97b3c9 !important;
