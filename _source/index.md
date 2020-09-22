@@ -27,7 +27,7 @@ my **personal** blog.
 
 <ul id="tagsList"></ul>
 
-### Legacy
+### Previous posts
 
 You can find older posts in the [legacy page](/legacy.html).
 
