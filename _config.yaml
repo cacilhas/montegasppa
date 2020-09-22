@@ -62,7 +62,7 @@ author: &author
           height: 24px
 
 description: A hippo in a flower field.
-favicon: //cacilhas.info/img/icons/montegasppa.ico
+favicon: /img/favicon.ico
 lang: en
 site: &site //montegasppa.cacilhas.info
 title: &title ℳontegasppα and Giulia C.’s Thoughts
