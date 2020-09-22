@@ -109,6 +109,8 @@ my <strong>personal</strong> blog.</p>
 <ul id="postsList"></ul>
 <h3 id="tags">Tags</h3>
 <ul id="tagsList"></ul>
+<h3 id="legacy">Legacy</h3>
+<p>You can find older posts in the <a href="/legacy.html">legacy page</a>.</p>
 <script>
   var urlParams = new URLSearchParams(window.location.search)
   var currentTag = urlParams.get('tag')
@@ -126,6 +128,7 @@ my <strong>personal</strong> blog.</p>
     })
 
   } else {
+    $('#posts').text('Latter posts')
     $.getJSON('/posts.json', function(posts) {
       for (var post of posts) {
         $('#postsList').append(
