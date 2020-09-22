@@ -9,8 +9,8 @@
     <meta name="language" content="en" />
     <meta name="copyright" content="CC-BY 4.0" />
     <meta name="url" content="//montegasppa.cacilhas.info//author.html" />
-    <meta name="date" content="Sep. 21, 2020" />
-    <meta name="search_date" content="2020-09-21" />
+    <meta name="date" content="Sep. 22, 2020" />
+    <meta name="search_date" content="2020-09-22" />
     <meta name="author" content="Arĥimedeς Montegasppα Cacilhας" />
     <meta property="og:site_name" content="ℳontegasppα and Giulia C.’s Thoughts" />
     <meta property="og:title" content="About the Author" />
@@ -87,26 +87,25 @@
     </nav>
     <div class="container">
       <div class="panel panel-default">
-        <div class="panel-heading"><h2 class="mg-title">About the Author</h2>
-        <h6>A hippo in a flower field.</h6>
+        <div class="panel-heading">
+          <h2 class="mg-title">About the Author</h2>
+          
+          <h6>A hippo in a flower field.</h6>
+        </div>
       </div>
-      <div class="panel-body">
-        <p><img class="pull-right" src="//cacilhas.info/img/cacilhas.jpg"
-     width="150pt" heigh="150pt" alt="Arĥimedeς Montegasppα Cacilhας" /></p>
-<p class="text-center">
-  <span class="glyphicon glyphicon-hand-right"></span>&nbsp;&nbsp;
-  <strong>Arĥimedeς Montegasppα Cacilhας</strong>, A hippo in a flower field.
-  &nbsp;&nbsp; <span class="glyphicon glyphicon-hand-left"></span>
-</p>
-<p><br /></p>
-<p><p class="mg-first"> I was born <strong>Rodrigo M. Cacilhas</strong> at
-Petrópolis/RJ, Brazil, at 1975’s end, I got the nickname
-<a href="https://en.wikipedia.org/wiki/Archimedes">Archimedes</a>
-when I whas 10, for math sciences are usually easy to me – and for bullying too,
-since some fellow students wanted to make fun of the gold crown incident. Later,
-I changed the spelling to <strong>Arĥimedeς</strong> when I became
-<a href="http://www.esperantio.net/">esperantist</a> (the final greek sigma has
-nothing to do with the Esperanto).</p>
+      <div class="panel panel-body">
+        <p><img src="//cacilhas.info/img/cacilhas-150x113.jpg" alt="Arĥimedeς Montegasppα Cacilhας"  class="pull-right" /></p>
+<p class="text-center" >
+    <i class="glyphicon glyphicon-hand-right" ></i>
+    &nbsp;&nbsp;<strong>Arĥimedeς Montegasppα Cacilhας</strong>, A hippo in a flower field.&nbsp;&nbsp;
+    <i class="glyphicon glyphicon-hand-left" ></i>
+<br /></p>
+<p class="mg-first" > I was born <strong>Rodrigo M. Cacilhas</strong> at Petrópolis/RJ, Brazil,
+at 1975’s end, I got the nickname <a href="https://en.wikipedia.org/wiki/Archimedes">Archimedes</a> when I whas 10, for
+math sciences are usually easy to me – and for bullying too, since some fellow
+students wanted to make fun of the gold crown incident. Later, I changed the
+spelling to <strong>Arĥimedeς</strong> when I became <a href="http://www.esperantio.net/">esperantist</a> (the final
+greek sigma has nothing to do with the Esperanto).</p>
 <p>I’m autistic, high gifted and musician, I was learning music from an early age
 from my mother, who had been singer. I can play a lot of musical instruments –
 strings, fife, and some keyboard ones.</p>
@@ -146,19 +145,29 @@ Giulia Campimori, renamed to Julia Monte.</p>
 <li><a href="https://www.facebook.com/archimedes.montegasppa.3">Facebook</a></li>
 </ul>
       </div>
-      <div id="tags" class="tags"></div>
-      <script>
-        var tags = ''
-        if (tags) {
-          for (var tag of tags.split(" ")) {
-            $('#tags').append(
-              '<a href="/?tag=' + tag + '" class="tag">' + tag + '</a>'
-            )
+      <div id="tags" class="pull-right tags">
+        <script>
+          var tags = ''
+          if (tags) {
+            var first = true
+            for (var tag of tags.split(" ")) {
+              if (first) { first = false }
+              else $('#tags').append('&nbsp;|&nbsp;')
+              $('#tags').append(
+                '<a href="/?tag=' + tag + '" class="tag">' + tag + '</a>'
+              )
+            }
           }
-        }
-      </script>
+        </script>
+      </div>
+      <div id="player" class="text-center">
+        <script>
+          $('#player').append(Math.random() < 0.7 ? `<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1353428037/size=small/bgcol=333333/linkcol=0f91ff/transparent=true/" seamless><a href="https://montegasppa.bandcamp.com/album/le-obscur-essente">Le Obscur Essenteς by Montegasppα</a></iframe>
+` : `<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=581709135/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://montegasppa.bandcamp.com/album/o-nimbo">O Nimbo by Montegasppα feat. Sækla</a></iframe>
+`)
+        </script>
+      </div>
     </div>
-    <div id="player" class="text-center"></div>
     <div class="panel-footer" id="footer">
       <p class="small">
         <a href="//montegasppa.cacilhas.info/author.html">Arĥimedeς Montegasppα Cacilhας</a> personal website
@@ -168,12 +177,6 @@ Giulia Campimori, renamed to Julia Monte.</p>
         </a>
       </p>
     </div>
-    <script>
-      $('#player').append(Math.random() < 0.7
-        ? '<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1353428037/size=small/bgcol=333333/linkcol=0f91ff/transparent=true/" seamless><a href="https://montegasppa.bandcamp.com/album/le-obscur-essente">Le Obscur Essenteς by Montegasppα</a></iframe>'
-        : '<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=581709135/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://montegasppa.bandcamp.com/album/o-nimbo">O Nimbo by Montegasppα feat. Sækla</a></iframe>'
-      )
-    </script>
     <script src="/js/bootstrap.min.js"></script>
     <script src="/js/ie10-viewport-bug-workaround.js"></script>
     <script src="https://cdn.rawgit.com/google/code-prettify/master/loader/run_prettify.js"></script>

@@ -13,7 +13,7 @@
     <meta name="search_date" content="2020-09-21" />
     <meta name="author" content="Arĥimedeς Montegasppα Cacilhας" />
     <meta property="og:site_name" content="ℳontegasppα and Giulia C.’s Thoughts" />
-    <meta property="og:title" content="Stating Over" />
+    <meta property="og:title" content="Starting Over" />
     <meta property="og:url" content="//montegasppa.cacilhas.info/2020/09/new-blog.html" />
     <meta property="article:author" content="Arĥimedeς Montegasppα Cacilhας" />
     <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Kavivanar" />
@@ -38,7 +38,7 @@
     <script src="/js/alt-title.js"></script>
     <script src="/js/anchors.js"></script>
     <script async="async" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-    <title>Stating Over</title>
+    <title>Starting Over</title>
     <script>
       (adsbygoogle = window.adsbygoogle || []).push({
         google_ad_client: "ca-pub-5741846017654057",
@@ -80,27 +80,26 @@
         <div class="collapse navbar-collapse" id="navbar">
           <ul class="nav navbar-nav">
             <li><a href="//montegasppa.cacilhas.info"><i class="glyphicon glyphicon-home"></i>&nbsp;Home</a></li>
-            <li class="active"><a href="//montegasppa.cacilhas.info/2020/09/new-blog.html">Stating Over</a></li>
+            <li class="active"><a href="//montegasppa.cacilhas.info/2020/09/new-blog.html">Starting Over</a></li>
           </ul>
         </div>
       </div>
     </nav>
     <div class="container">
       <div class="panel panel-default">
-        <div class="panel-heading"><h2 class="mg-title">Stating Over</h2>
-        <h6>A hippo in a flower field.</h6>
+        <div class="panel-heading">
+          <h2 class="mg-title">Starting Over</h2>
+          <h6 class="pull-right">2020-09-21</h6>
+          <h6>A hippo in a flower field.</h6>
+        </div>
       </div>
-      <div class="panel-body">
-        <div class="pull-right">
-  <img src="//cacilhas.info/img/lamp.png" alt="lamp" />
-</div>
-<p class="mg-first">
-  Sorry, I just get tired of my
-  <a href="//cacilhas.info/montegasppa/">old platform</a> and started over.
-</p>
+      <div class="panel panel-body">
+        <p><img src="//cacilhas.info/img/lamp.png" class="pull-right" /></p>
+<p class="mg-first" > Sorry, I just get tired of my
+<a href="//cacilhas.info/montegasppa/">old platform</a> and started over.</p>
 <p>What annoyed me the most was the <a href="https://pugjs.org/">Pug</a> notation. Don’t take me wrong, I
-really like Pug, but every single content transport was a translation to
-<a href="https://www.markdownguide.org/">Markdown</a>, and I’m pissed off of it.</p>
+really like Pug, but every single content transport required a translation to
+<a href="https://www.markdownguide.org/">Markdown</a>, and I’m pissed off.</p>
 <p>So, I decided set my blogs apart and use Markdown to write the posts.</p>
 <p>I just couldn’t find a barely useful platform to use (please don’t come with
 that shit called Jekyll.)</p>
@@ -110,19 +109,29 @@ software.</p>
 <a href="https://mustache.github.io/">Mustache</a>, <a href="http://showdownjs.com/">Showdown</a>, <a href="https://stylus-lang.com/">Stylus</a>, and <a href="https://yaml.org/">YAML</a>.</p>
 <p>Let’s see how long it goes.</p>
       </div>
-      <div id="tags" class="tags"></div>
-      <script>
-        var tags = 'development personal reblog'
-        if (tags) {
-          for (var tag of tags.split(" ")) {
-            $('#tags').append(
-              '<a href="/?tag=' + tag + '" class="tag">' + tag + '</a>'
-            )
+      <div id="tags" class="pull-right tags">
+        <script>
+          var tags = 'development personal reblog'
+          if (tags) {
+            var first = true
+            for (var tag of tags.split(" ")) {
+              if (first) { first = false }
+              else $('#tags').append('&nbsp;|&nbsp;')
+              $('#tags').append(
+                '<a href="/?tag=' + tag + '" class="tag">' + tag + '</a>'
+              )
+            }
           }
-        }
-      </script>
+        </script>
+      </div>
+      <div id="player" class="text-center">
+        <script>
+          $('#player').append(Math.random() < 0.7 ? `<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1353428037/size=small/bgcol=333333/linkcol=0f91ff/transparent=true/" seamless><a href="https://montegasppa.bandcamp.com/album/le-obscur-essente">Le Obscur Essenteς by Montegasppα</a></iframe>
+` : `<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=581709135/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://montegasppa.bandcamp.com/album/o-nimbo">O Nimbo by Montegasppα feat. Sækla</a></iframe>
+`)
+        </script>
+      </div>
     </div>
-    <div id="player" class="text-center"></div>
     <div class="panel-footer" id="footer">
       <p class="small">
         <a href="//montegasppa.cacilhas.info/author.html">Arĥimedeς Montegasppα Cacilhας</a> personal website
@@ -132,12 +141,6 @@ software.</p>
         </a>
       </p>
     </div>
-    <script>
-      $('#player').append(Math.random() < 0.7
-        ? '<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1353428037/size=small/bgcol=333333/linkcol=0f91ff/transparent=true/" seamless><a href="https://montegasppa.bandcamp.com/album/le-obscur-essente">Le Obscur Essenteς by Montegasppα</a></iframe>'
-        : '<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=581709135/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://montegasppa.bandcamp.com/album/o-nimbo">O Nimbo by Montegasppα feat. Sækla</a></iframe>'
-      )
-    </script>
     <script src="/js/bootstrap.min.js"></script>
     <script src="/js/ie10-viewport-bug-workaround.js"></script>
     <script src="https://cdn.rawgit.com/google/code-prettify/master/loader/run_prettify.js"></script>

@@ -17,6 +17,7 @@
   "dependencies": {
     "@types/showdown": "^1.9.3",
     "coffeescript": "^2.5.1",
+    "indented-filter": "^0.1.1",
     "js-yaml": "^3.14.0",
     "lodash": "^4.17.20",
     "mustache": "^4.0.1",

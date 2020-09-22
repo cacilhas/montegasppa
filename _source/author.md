@@ -2,12 +2,14 @@
 title: About the Author
 type: page
 ---
+[archimedes]: https://en.wikipedia.org/wiki/Archimedes
 [c]: http://www.open-std.org/jtc1/sc22/wg14/
 [c++]: http://www.cplusplus.com/
 [cincom]: http://www.cincomsmalltalk.com/main/
 [cython]: http://cython.org/
 [ecma6]: http://es6-features.org/
 [erlang]: http://www.erlang.org/
+[esperanto]: http://www.esperantio.net/
 [f#]: http://fsharp.org/
 [go]: https://golang.org/
 [hotbit]: http://www.mci.org.br/micro/outros/hotbit.html
@@ -28,24 +30,20 @@ type: page
 [typescript]: https://www.typescriptlang.org/
 [ufrj-iq]: https://www.iq.ufrj.br/
 
-<img class="pull-right" src="//cacilhas.info/img/cacilhas.jpg"
-     width="150pt" heigh="150pt" alt="{{ author.name }}" />
+![{{ author.name }}](//cacilhas.info/img/cacilhas-150x113.jpg){:class="pull-right"}
 
-<p class="text-center">
-  <span class="glyphicon glyphicon-hand-right"></span>&nbsp;&nbsp;
-  <strong>{{ author.name }}</strong>, {{ description }}
-  &nbsp;&nbsp; <span class="glyphicon glyphicon-hand-left"></span>
-</p>
+{:class="text-center"}
+    ^^i{:class="glyphicon glyphicon-hand-right"}
+    &nbsp;&nbsp;**{{ author.name }}**, {{ description }}&nbsp;&nbsp;
+    ^^i{:class="glyphicon glyphicon-hand-left"}
 <br />
 
-<p class="mg-first"> I was born <strong>Rodrigo M. Cacilhas</strong> at
-Petrópolis/RJ, Brazil, at 1975’s end, I got the nickname
-<a href="https://en.wikipedia.org/wiki/Archimedes">Archimedes</a>
-when I whas 10, for math sciences are usually easy to me – and for bullying too,
-since some fellow students wanted to make fun of the gold crown incident. Later,
-I changed the spelling to <strong>Arĥimedeς</strong> when I became
-<a href="http://www.esperantio.net/">esperantist</a> (the final greek sigma has
-nothing to do with the Esperanto).
+{:class="mg-first"} I was born **Rodrigo M. Cacilhas** at Petrópolis/RJ, Brazil,
+at 1975’s end, I got the nickname [Archimedes][archimedes] when I whas 10, for
+math sciences are usually easy to me – and for bullying too, since some fellow
+students wanted to make fun of the gold crown incident. Later, I changed the
+spelling to **Arĥimedeς** when I became [esperantist][esperanto] (the final
+greek sigma has nothing to do with the Esperanto).
 
 I’m autistic, high gifted and musician, I was learning music from an early age
 from my mother, who had been singer. I can play a lot of musical instruments –

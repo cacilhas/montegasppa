@@ -1,6 +1,7 @@
 import _ from 'lodash'
 import CoffeeScript from 'coffeescript'
 import fs from 'fs'
+import { createIndentedFilter } from 'indented-filter'
 import moment from 'moment'
 import mustache from 'mustache'
 import path from 'path'
@@ -29,6 +30,23 @@ const tags: Tags = {'': []}
 const today = moment()
 
 showdown.setFlavor('github')
+showdown.extension('ClassExtension', {
+  type: 'output',
+  regex: /([/]?>){ *:(class=".*?") *}/g,
+  replace: ' $2 $1',
+})
+showdown.extension('DivExtension', {
+  type: 'lang',
+  filter: createIndentedFilter('^^div', str => `<div>${str.trim()}</div>`),
+})
+showdown.extension('IExtension', {
+  type: 'lang',
+  filter: createIndentedFilter('^^i', str => `<i>${str.trim()}</i>`),
+})
+showdown.extension('SpanExtension', {
+  type: 'lang',
+  filter: createIndentedFilter('^^span', str => `<span>${str.trim()}</span>`),
+})
 showdown.extension('PreExtension', {
   type: 'output',
   regex: /<pre>/g,
@@ -36,7 +54,9 @@ showdown.extension('PreExtension', {
 })
 
 function buildMdConverter(): showdown.Converter {
-  const converter = new showdown.Converter({extensions: ['PreExtension']})
+  const converter = new showdown.Converter({extensions: [
+    'ClassExtension', 'DivExtension', 'IExtension', 'SpanExtension', 'PreExtension',
+  ]})
 
   converter.setOption('completeHTMLDocument', false)
   converter.setOption('metadata', true)
@@ -90,6 +110,7 @@ async function walk(directory: string, context: Context, layout: string): Promis
         const block = converter.makeHtml(fs.readFileSync(file, 'utf8'))
         const metadata = _.assign({}, currentContext, converter.getMetadata())
         metadata.type = metadata.type ? metadata.type : 'post'
+        metadata.post = metadata.type === 'post'
         if (metadata.date)
           metadata.isoDate = moment(metadata.date).format('MMM. DD, YYYY')
         else {
@@ -108,7 +129,7 @@ async function walk(directory: string, context: Context, layout: string): Promis
           metadata,
         )
 
-        if (metadata.type === 'post') {
+        if (metadata.post) {
           const current: Tag = {
             date: metadata.date,
             title: metadata.title,

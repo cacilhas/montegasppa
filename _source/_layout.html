@@ -41,12 +41,12 @@
     <title>{{ title }}</title>
     <script>
       (adsbygoogle = window.adsbygoogle || []).push({
-        google_ad_client: "ca-pub-5741846017654057",
+        google_ad_client: "{{ googlead.client }}",
         enable_page_level_ads: true,
       })
     </script>
     <script>
-      (function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date;a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m) })(window,document,"script","https://www.google-analytics.com/analytics.js","ga") ga("create", "UA-99357497-1", "auto") ga("send", "pageview")
+      (function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date;a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m) })(window,document,"script","https://www.google-analytics.com/analytics.js","ga") ga("create", "{{ googlead.id }}", "auto") ga("send", "pageview")
     </script>
   </head>
   <body>
@@ -87,25 +87,36 @@
     </nav>
     <div class="container">
       <div class="panel panel-default">
-        <div class="panel-heading"><h2 class="mg-title">{{ title }}</h2>
-        <h6>{{ description }}</h6>
+        <div class="panel-heading">
+          <h2 class="mg-title">{{ title }}</h2>
+          {{#post}}<h6 class="pull-right">{{ date }}</h6>{{/post}}
+          <h6>{{ description }}</h6>
+        </div>
       </div>
-      <div class="panel-body">
+      <div class="panel panel-body">
         {% yield %}
       </div>
-      <div id="tags" class="tags"></div>
-      <script>
-        var tags = '{{{ tags }}}'
-        if (tags) {
-          for (var tag of tags.split(" ")) {
-            $('#tags').append(
-              '<a href="/?tag=' + tag + '" class="tag">' + tag + '</a>'
-            )
+      <div id="tags" class="pull-right tags">
+        <script>
+          var tags = '{{{ tags }}}'
+          if (tags) {
+            var first = true
+            for (var tag of tags.split(" ")) {
+              if (first) { first = false }
+              else $('#tags').append('&nbsp;|&nbsp;')
+              $('#tags').append(
+                '<a href="/?tag=' + tag + '" class="tag">' + tag + '</a>'
+              )
+            }
           }
-        }
-      </script>
+        </script>
+      </div>
+      <div id="player" class="text-center">
+        <script>
+          $('#player').append(Math.random() < 0.7 ? `{{{ bandcamp.le-obscur-essentes }}}` : `{{{ bandcamp.nimbo }}}`)
+        </script>
+      </div>
     </div>
-    <div id="player" class="text-center"></div>
     <div class="panel-footer" id="footer">
       <p class="small">
         <a href="{{{ author.url }}}">{{ author.name }}</a> personal website
@@ -115,12 +126,6 @@
         </a>
       </p>
     </div>
-    <script>
-      $('#player').append(Math.random() < 0.7
-        ? '<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1353428037/size=small/bgcol=333333/linkcol=0f91ff/transparent=true/" seamless><a href="https://montegasppa.bandcamp.com/album/le-obscur-essente">Le Obscur Essenteς by Montegasppα</a></iframe>'
-        : '<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=581709135/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://montegasppa.bandcamp.com/album/o-nimbo">O Nimbo by Montegasppα feat. Sækla</a></iframe>'
-      )
-    </script>
     <script src="/js/bootstrap.min.js"></script>
     <script src="/js/ie10-viewport-bug-workaround.js"></script>
     <script src="https://cdn.rawgit.com/google/code-prettify/master/loader/run_prettify.js"></script>

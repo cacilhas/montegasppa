@@ -33,10 +33,6 @@ code {
 .tag a {
   color: #fff;
 }
-.tags {
-  width: 100%;
-  text-align: right;
-}
 .badge {
   background-color: #97b3c9 !important;
 }

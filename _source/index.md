@@ -1,12 +1,11 @@
 ---
 type: page
-original: http://montegasppa.blogspot.in/2006/07/prlogo.html
 ---
-<p class="mg-first">Everytime I was talking to a friend blogger, he proposed me
-  to write a blog. I never thought seriously until
-  <a href="{{{ original }}}">July 2006</a>,
-  when I wrote the first <strong>{{ blog.title }}</strong> post.
-</p>
+[original]: http://montegasppa.blogspot.in/2006/07/prlogo.html
+
+{:class="mg-first"} Everytime I was talking to a friend blogger, he proposed me
+to write a blog. I never thought seriously until [July 2006][original], when I
+wrote the first **{{ blog.title }}** post.
 
 
 That blog was about Computing, Free Software and programming, but eventually
