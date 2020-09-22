@@ -207,7 +207,7 @@ function loadContext(directory: string, context: Context): Context {
 }
 
 async function ordenateTags(output): Promise<void> {
-  await Promise.all(_.map(tags, value => Promise.resolve(value.sort((a, b) => a > b ? -1 : 1))))
+  await Promise.all(_.map(tags, value => Promise.resolve(value.sort((a, b) => a.date > b.date ? -1 : 1))))
   const postsFile = path.join(output, 'posts.json')
   console.log(`writing ${postsFile}`)
   fs.writeFileSync(postsFile, JSON.stringify(tags[''].slice(0, postsLimit)), {encoding: 'utf8'})
