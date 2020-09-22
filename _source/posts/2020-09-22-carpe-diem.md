@@ -13,7 +13,7 @@ interviewee: “Where do you see yourself in five years?”
 
 Really? I cannot even tell if I’ll be alive in five years!
 
-People live their lives always planning the future (not to mention soffering
+People live their lives always planning for the future (not to mention soffering
 for the past), prospecting, **controlling**.
 
 Let me tell you a secret: **there’s no such thing as *control***.
