@@ -24,6 +24,7 @@
     "rimraf": "^3.0.2",
     "showdown": "^1.9.1",
     "stylus": "^0.54.8",
+    "turndown": "^6.0.0",
     "typescript": "^4.0.3"
   }
 }

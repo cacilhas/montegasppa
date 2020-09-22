@@ -8,6 +8,7 @@ import path from 'path'
 import rimraf from 'rimraf'
 import showdown from 'showdown'
 import stylus from 'stylus'
+import Turndown from 'turndown'
 import yaml from 'js-yaml'
 
 interface Context {
@@ -141,6 +142,8 @@ async function walk(directory: string, context: Context, layout: string): Promis
             for (let tag of metadata.tags.split(/\s+/).filter(e => !!e))
               if (tags[tag]) tags[tag].push(current)
               else tags[tag] = [current]
+
+          buildAlternative(block, metadata, target.replace(/\.html$/, '.md'))
         }
 
       } else
@@ -152,6 +155,15 @@ async function walk(directory: string, context: Context, layout: string): Promis
   }
 
   await Promise.all(promises)
+}
+
+function buildAlternative(block: string, metadata: Context, target: string): void {
+  const converter = new Turndown
+  fs.writeFileSync(
+    target,
+    converter.turndown(mustache.render(block, metadata)),
+    {encoding: 'utf8'},
+  )
 }
 
 function createDirSync(dirname: string): void {
@@ -198,7 +210,7 @@ async function ordenateTags(output): Promise<void> {
   await Promise.all(_.map(tags, value => Promise.resolve(value.sort((a, b) => a > b ? -1 : 1))))
   const postsFile = path.join(output, 'posts.json')
   console.log(`writing ${postsFile}`)
-  fs.writeFileSync(postsFile, JSON.stringify(tags[''].slice(0, postsLimit)))
+  fs.writeFileSync(postsFile, JSON.stringify(tags[''].slice(0, postsLimit)), {encoding: 'utf8'})
 
   const tagDir = path.join(output, 'tags')
   fs.mkdirSync(tagDir)
@@ -212,7 +224,7 @@ async function ordenateTags(output): Promise<void> {
 
   const tagsFile = path.join(output, 'tags.json')
   console.log(`writing ${tagsFile}`)
-  fs.writeFileSync(tagsFile, JSON.stringify(_.keys(tags).filter(e => !!e).sort()))
+  fs.writeFileSync(tagsFile, JSON.stringify(_.keys(tags).filter(e => !!e).sort()), {encoding: 'utf8'})
 }
 
 ;(async () => {
