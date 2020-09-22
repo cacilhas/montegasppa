@@ -16,7 +16,7 @@ Later {{ title }} turned into my personal blog, where I throw up everything
 affects me, from religion to music, from Computing to Politics.
 
 It was reborn under my <a href="{{{ site }}}/">personal website</a>, slightly
-renamed, once I’ve changed “Monte Gasppa” to “ℳontegasppα”, but more and more
+renamed, once I’ve changed “Monte Gasppa” to “ℳontegasppα,” but more and more
 my **personal** blog.
 
 ### Posts
