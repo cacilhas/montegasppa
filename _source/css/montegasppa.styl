@@ -19,7 +19,6 @@ body
   background-position center !important
   bg-size cover !important
 
-.panel-heading
   h2
     text-shadow $shadow 2px 2px 2px
     text-transform capitalize
@@ -30,12 +29,12 @@ body
 .tag
   background-color $bg_color !important
   color white !important
-  font-family "Roboto Mono", Monaco, "Courier New", monospace !important
+  font-family "Roboto Mono", Monaco, monospace !important
   padding-left 1ex
   padding-right 1ex
 
-.tag a
-  color white
+  a
+    color white
 
 .badge
   background-color $badge_color !important
@@ -53,12 +52,11 @@ body
   ul
     list-style none
 
-    li
-      &:before
-        color white
-        content '\27a2'
-        display inline-block
-        font-weight bold
-        margin-left -1em
-        margin-right 1ex
-        width 1em
+    li:before
+      color white
+      content '\27a2'
+      display inline-block
+      font-weight bold
+      margin-left -1em
+      margin-right 1ex
+      width 1em
