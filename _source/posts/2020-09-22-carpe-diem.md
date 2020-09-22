@@ -1,6 +1,7 @@
 ---
 title: Carpe diem
 date: 2020-09-22
+description: Hic et nunc.
 tags: personal education-and-culture
 permalink: /2020/09/carpe-diem.html
 ---
