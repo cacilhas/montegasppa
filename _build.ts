@@ -51,7 +51,7 @@ showdown.extension('SpanExtension', {
 showdown.extension('PreExtension', {
   type: 'output',
   regex: /<pre>/g,
-  replace: '<pre class="prettyprint prettyprinted">',
+  replace: '<pre class="prettyprint">',
 })
 
 function buildMdConverter(): showdown.Converter {
