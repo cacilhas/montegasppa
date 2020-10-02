@@ -1,6 +1,7 @@
 ---
 title: About the author
 type: page
+date: 2020-09-30
 ---
 [archimedes]: https://en.wikipedia.org/wiki/Archimedes
 [c]: http://www.open-std.org/jtc1/sc22/wg14/

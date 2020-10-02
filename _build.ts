@@ -111,6 +111,9 @@ async function walk(directory: string, context: Context, layout: string): Promis
         const block = converter.makeHtml(fs.readFileSync(file, 'utf8'))
         const metadata = _.assign({}, currentContext, converter.getMetadata())
         metadata.source = file
+        metadata.identifier = metadata.identifier
+          ? metadata.identifier
+          : file.replace(/\.[^.]+$/, '').replace(/\//g, '.')
         metadata.type = metadata.type ? metadata.type : 'post'
         metadata.post = metadata.type === 'post'
         if (metadata.date)
