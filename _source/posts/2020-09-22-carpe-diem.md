@@ -3,11 +3,12 @@ title: Carpe diem
 date: 2020-09-22
 description: Hic et nunc.
 tags: personal education-and-culture
+image: //cacilhas.info/img/lamp.png
 permalink: /2020/09/carpe-diem.html
 ---
 [midnight-gospel]: https://www.youtube.com/watch?v=0kQWAqjFJS0
 
-{:class="pull-right"} <img src="{{{ cacilhas.url }}}/img/lamp.png" />
+{:class="pull-right"} <img src="{{{ image }}}" />
 
 {:class="mg-first"} In most job interviews, the interviewer ask to the
 interviewee: “Where do you see yourself in five years?”
