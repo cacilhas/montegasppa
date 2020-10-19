@@ -22,5 +22,6 @@ Let me tell you a secret: **there’s no such thing as *control***.
 A relative asked me about my hair, how long it “goes.” I answered I didn’t know
 my hair was going anywhere. The honest answer would be “I don’t care.”
 
-I used to live for the plans yet, when I was young. As the time goes on, I’ve
-realised there’s no time for prospecting. [Just be here now][midnight-gospel].
+I used to live for the plans yet, when I was young. As the time has gone pass,
+I’ve realised there’s no time for prospecting.
+[Just be here now][midnight-gospel].
