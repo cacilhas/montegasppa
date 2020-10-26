@@ -8,7 +8,7 @@ There are three ways to handle the shadow, the most common is choking it under t
 
 The overcomming cannot be good. That’s what happens when the family guy betrails his wife, when the young rapes, when white people shoot a black people crowd driven by fear.
 
-Have you ever heard of respectable people that’s dirty in privacy? That’s the choky shadow digging for some air.
+Have you ever heard of respectable people that’s dirty in privacy? That’s the choked shadow digging for some air.
 
 The second approach can be even worst; that’s when one surrenders to the shadow, letting it take control.
 
