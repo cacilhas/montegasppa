@@ -8,9 +8,9 @@ Why is evil so bound to religion and morality? ’Cause it’s side effects of t
 
 The religion and morality are the remaining of the society proto-norms, born from the prestige bias in many ways. So the evil is.
 
-The prestige bias creates a distorted right-vs-wrong principle, undetachably bound to the first impressions (_principia_). It gives birth to an indissuadable collective superego, ready to kill in its biliefs’ sake.
+The prestige bias creates a distorted right-vs-wrong principle, nondetachably bound to the first impressions (_principia_). It gives birth to an indissuadable collective superego, ready to kill in its beliefs’ sake.
 
-So, in self-defense the superego is capable of everything, fighting back ideas or even facts that might put it in check.
+So, in self-defence the superego is capable of everything, fighting back ideas or even facts that might put it in check.
 
 That’s the chance the shadow was waiting for in order to get abroad. Now, like a flogged wild beast, it jumps over the target, driven by the fury of all the pique it has fed against the superego, controlled by the very same superego, that focuses it against the potential menace.
 
@@ -27,3 +27,7 @@ The only way to defeat the evil is by killing the collective superego, creating 
 > ([Diderot](https://dicocitations.lemonde.fr/citations/citation-5488.php))
 
 This is a fierce quote, but if nonetheless taken symbolically, there’s no other way to set human free.
+
+* * *
+
+Also in [Medium](https://cacilhas.medium.com/the-evil-we-know-db3272664b93).
