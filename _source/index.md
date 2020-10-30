@@ -53,7 +53,7 @@ You can find older posts in the [legacy page](/legacy.html).
     })
 
   } else {
-    $('#posts').text('Latter posts')
+    $('#posts').text('Latest posts')
     $.getJSON('/posts.json', function(posts) {
       for (var post of posts) {
         $('#postsList').append(

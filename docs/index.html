@@ -139,7 +139,7 @@ my <strong>personal</strong> blog.</p>
     })
 
   } else {
-    $('#posts').text('Latter posts')
+    $('#posts').text('Latest posts')
     $.getJSON('/posts.json', function(posts) {
       for (var post of posts) {
         $('#postsList').append(
