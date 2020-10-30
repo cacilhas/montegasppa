@@ -53,10 +53,16 @@ showdown.extension('PreExtension', {
   regex: /<pre>/g,
   replace: '<pre class="prettyprint">',
 })
+showdown.extension('TableExtension', {
+  type: 'output',
+  regex: /<table>/g,
+  replace: '<table class="table">',
+})
 
 function buildMdConverter(): showdown.Converter {
   const converter = new showdown.Converter({extensions: [
-    'ClassExtension', 'DivExtension', 'IExtension', 'SpanExtension', 'PreExtension',
+    'ClassExtension', 'DivExtension', 'IExtension', 'SpanExtension',
+    'PreExtension', 'TableExtension',
   ]})
 
   converter.setOption('completeHTMLDocument', false)
