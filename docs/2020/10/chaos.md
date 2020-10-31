@@ -21,3 +21,7 @@ If you stop throwing the angels, they stop falling. If you make peace with the d
 And the evil ceases to exist.
 
 That’s why I can be chaos, ’cause I know my demons.
+
+* * *
+
+Also in [Medium](https://cacilhas.medium.com/chaos-70f3b1ed6c77).
