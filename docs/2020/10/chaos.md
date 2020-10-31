@@ -12,7 +12,7 @@ That sentence enables bad people to do bad things. But that’s okay! Everything
 
 The evil is evil, even under order.
 
-The only way to defeat the evil is making peace with one’s inner demons. Remember demons are fallen angels – well… not exactly. They’re closer to _falling_ angels.
+The only way to defeat the evil is making peace with one’s inner demons. Remember demons are fallen angels – well… not exactly. They’re more to _falling_ angels.
 
 It’s because the fall of angels isn’t passed, it happens everyday inside us. All the time.
 
