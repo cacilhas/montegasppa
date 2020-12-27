@@ -6,6 +6,7 @@ date: 2020-09-30
 [archimedes]: https://en.wikipedia.org/wiki/Archimedes
 [c]: http://www.open-std.org/jtc1/sc22/wg14/
 [c++]: http://www.cplusplus.com/
+[cas]: https://www.chop.edu/conditions-diseases/childhood-apraxia-speech
 [cincom]: http://www.cincomsmalltalk.com/main/
 [cython]: http://cython.org/
 [ecma6]: http://es6-features.org/
@@ -40,7 +41,7 @@ date: 2020-09-30
 <br />
 
 {:class="mg-first"} I was born **Rodrigo M. Cacilhas** at Petrópolis/RJ, Brazil,
-at 1975’s end, I got the nickname [Archimedes][archimedes] when I whas 10, for
+at 1975’s end, I got the nickname [Archimedes][archimedes] when I was 10, for
 math sciences are usually easy to me – and for bullying too, since some fellow
 students wanted to make fun of the gold crown incident. Later, I changed the
 spelling to **Arĥimedeς** when I became [esperantist][esperanto] (the final
@@ -56,8 +57,8 @@ graduate.
 I’ve learned how to deal with computers since very early on, I began using a
 [TK85][tk85]. I was 12 when started programming on a
 [MSX-1.1 Hotbit HB-8000][hotbit], using MS XColour BASIC programming language.
-Later I switched to [Perl 5][perl], [C][c], [Python][python],at that time in the
-version 1.5, which became my main programming language. I’ve also developed
+Later I switched to [Perl 5][perl], [C][c], [Python][python], at that time in
+the version 1.5, which became my main programming language. I’ve also developed
 professionaly in [Lua][lua], [Java][java], [C++][c++], [Cython][cython], and
 about 2016 [ECMAScript 2015 / Javascript][ecma6], [TypeScript][typescript], and
 [Go][go]. Currently I’m working in [Scala][scala].
@@ -67,20 +68,20 @@ them [Scheme][racket], [MoonScript][moonscript], [Erlang][erlang],
 [Prolog][swi], [Standard ML][sml], [OCaml][ocaml], [F♯][f#],
 [Smalltalk][cincom], [Objective-C][objc], [Tcl/Tk][tcl].
 
-I went to FAETERJ IT Tecnological college, completing the course with 9.5
-achievement. I was removed by political persecution. Later I was reintegrated,
-and I graduated at the end of 2018.
+I went to FAETERJ BTech college, completing the course with 9.5 achievement, and
+was removed by political persecution. Later I was reintegrated, and I graduated
+at the end of 2018.
 
 I worked as hodman, tent loader, even storyteller, network administrator, IT
 consultant and software developer.
 
-Due to my Apraxia of Speech, it’s easy to me learning new languages’ structure,
-but pronounciation and vocabulary are hard.
+Due to my [Apraxia of Speech][cas], it’s easy to me learning new languages’
+structure, but pronounciation and vocabulary are tough.
 
 My great-grandfather was called Gasppar Montini at [San Marino][sanmarino], but
-but he changed his name to Monte Gasppa in Brazil, whence I take my
-**ℳontegasppα**, completing my public name. my great-grandmather’s name was
-Giulia Campimori, renamed to Julia Monte.
+he changed his name to Monte Gasppa in Brazil, whence I take my **ℳontegasppα**,
+completing my public name. my great-grandmather’s name was Giulia Campimori,
+renamed to Julia Monte.
 
 ### Contacts
 
