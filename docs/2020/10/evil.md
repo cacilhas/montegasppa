@@ -18,7 +18,7 @@ This that I just described as “evil” is a constituent part of the human bein
 
 And the religion? The morality?
 
-This “evil” is the religion/morality’s core engine: the morality (and the religion as morality’s fenomena) is the proto-norms’ consolidation, accusing the “other” – _them_ – of evil, heading the rage-blind shadow demon hound, which is the very evil, to the other.
+This “evil” is the religion/morality’s core engine: the morality (and the religion as morality’s fenomena) is the proto-norms’ consolidation, accusing the “other” – _them_ – of evil, heading to the other the rage-blind shadow demon hound, which is the very evil itself.
 
 The only way to defeat the evil is by killing the collective superego, creating an individual one, companion of the shadow, in peace with it.
 
