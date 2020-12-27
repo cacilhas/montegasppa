@@ -1,0 +1,19 @@
+![thoughtful](//cacilhas.info/img/lamp.png)
+
+People have contested whether the altruism is intrinsicly human or cultural, something learned; the idea is that the altruism diminishes the individual survival chances. However the natural evolution isn’t so shallow.
+
+Straight computer simulations have demonstrated that egoist populations keep low count and, even so, exhaust their resources, leading to their own extinction. Meanwhile, altruist populations grow strong and large preserving the resources anyway.
+
+Yet, when you blend a population, it evolves to a weaker and smaller group, but the egoist individuals grow to a number larger than a solely egoist population.
+
+It can lead to a single conclusion: **the egoists play a parasite role**.
+
+We don’t have a subject-driven society, we have a collective-driven society guesting parasites.
+
+Take the cancer example: our body is a single organism made by a lotta different living being classes. Every cell in our body is programmed to die when it’s sued – and the cell simply dies.
+
+When a cell’s DNA is compromised to behave egoistly, it refuses to die and keeps reproducing despide other system health. It’s called **tumor**.
+
+The same manner, egoist people are a tumor in society, not its engine as they try to convince you they are.
+
+Get aware that I’m not raising my voice against individualism and free market, I’m warning that individualism and free market aren’t viable in a sick society. We need to cure ourselves from parasites and tumors before getting into those pathes.
