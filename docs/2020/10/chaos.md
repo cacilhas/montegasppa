@@ -2,13 +2,13 @@
 
 I’ve been chaotic my whole life, everything I’ve done wrong was trying to put some order in it.
 
-Until I got an epiphany: **I am** the **chaos**, ’cause the universe is chaos.
+Until I got an epiphany: **I am the chaos**, ’cause the universe is chaos.
 
-People are afraid of the the chaos ’cause they are evil, thereat they need rules (order) to keep’em in line. What they don’t known (or pretend not to know) is that the order is just an excuse for them to be evil.
+People are afraid of the the chaos ’cause they are evil, thereat they need rules (order) to keep’em in line. What they duno (or pretend notta know) is that the order‘s just an excuse for them to be evil.
 
 — Not my fault, only following orders.
 
-That sentence enables bad people to do bad things. But that’s okay! Everything is gonna be alright as long as we follow the rules – or maybe not.
+That sentence enables bad people to do bad things. Like that’s okay! Everything is gonna be alright as long as we follow the rules – or maybe not.
 
 The evil is evil, even under order.
 
@@ -16,7 +16,7 @@ The only way to defeat the evil is making peace with one’s inner demons. Remem
 
 It’s because the fall of angels isn’t passed, it happens everyday inside us. All the time.
 
-If you stop throwing the angels, they stop falling. If you make peace with the demons, they stop haunting you.
+If you stop throwing angels, they stop falling. If you make peace with the demons, they stop haunting you.
 
 And the evil ceases to exist.
 
