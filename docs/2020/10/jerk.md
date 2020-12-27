@@ -4,7 +4,7 @@ I’ve just read a very interesting article called [La Fabrique du crétin digit
 
 The _fact_ that supports that conclusion is that, for the first time in human history, the current generation presents an I.Q. lower than the previous.
 
-Seems logical, doesn’t?
+Seems logical, doesn’t it?
 
 But there’s a (convenently) left-out fact: my generation was parented by an electronic babysitter called **TV**. We had an **extremely high** screen exposure time, and our generation has an average I.Q. higher than the our parents’.
 
