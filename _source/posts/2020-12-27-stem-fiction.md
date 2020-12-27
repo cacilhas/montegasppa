@@ -6,6 +6,7 @@ image: //cacilhas.info/img/building.png
 permalink: /2020/12/stem-fiction.html
 ---
 [arthur-clarke]: http://lab.cccb.org/en/arthur-c-clarke-any-sufficiently-advanced-technology-is-indistinguishable-from-magic/
+[stem]: https://www.livescience.com/43296-what-is-stem-education.html
 
 {:class="pull-right"} <img style="width: 200px; height: 127px;" src="{{{ image }}}" alt="buildings" />
 
@@ -35,7 +36,7 @@ as *scientific* fiction.
 
 I think (again enphasis on “I”) there should be a new move class called
 “technological fiction”, where the science behind is not relevant; or we could
-take off the “Science” and the “Math” from STEM e create a “TEM fiction” –
-Technology, Engineering, and Magic.
+take off the “Science” and the “Math” from [STEM][stem] e create a “TEM fiction”
+– Technology, Engineering, and Magic.
 
 Think about it.
