@@ -14,6 +14,6 @@ Take the cancer example: our body is a single organism made by a lotta different
 
 When a cell’s DNA is compromised to behave egoistly, it refuses to die and keeps reproducing despide other system health. It’s called **tumor**.
 
-The same manner, egoist people are a tumor in society, not its engine as they try to convince you they are.
+The same manner, egoist people are a tumor in society, not its cogs as they’ve been tryin’ to convince you they are.
 
-Get aware that I’m not raising my voice against individualism and free market, I’m warning that individualism and free market aren’t viable in a sick society. We need to cure ourselves from parasites and tumors before getting into those pathes.
+Get aware that I’m not raising my voice against individualism and free market; I’m warning that individualism and free market aren’t viable in a sick society. We need to cure ourselves from parasites and tumors before getting into those pathes.

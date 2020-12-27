@@ -18,6 +18,6 @@ So there’s not even a minimal effort to provide a narrowed explanation, the fi
 
 There’s no problem in doing that, the problem is doing that and classifying it as _scientific_ fiction.
 
-I think (again enphasis on “I”) there should be a new move class called “technological fiction” (“tech-fi” for short), where the science behind is not relevant; or we could take off the “Science” and the “Math” from [STEM](https://www.livescience.com/43296-what-is-stem-education.html) and create a “TEM fiction” – Technology, Engineering, and Magic.
+I think (again enphasis on “I”) there should be a new move class called “technological fiction” (“tech-fi” for short), where the science behind the tech is not relevant; or we could take off the “Science” and the “Math” from [STEM](https://www.livescience.com/43296-what-is-stem-education.html) and create a “TEM fiction” – Technology, Engineering, and Magic.
 
 Think about it.
