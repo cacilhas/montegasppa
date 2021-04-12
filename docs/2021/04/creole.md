@@ -1,6 +1,6 @@
 ![Iwa](//cacilhas.info/img/iwa.png)
 
-Who’s used to read my posts might have noted I use terms like _lotta_, _getta_, _gotta_, _gonna_, _’cause_, _kinda_, _æsthetics_, _resumé_, _naïve_, _to be got_ (instead of _to have_), _façade_, _ain’t_ (usually in place of _haven’t_ or _hasn’t_), _ad eterno_, _persona_, _et cetera_, a lot.
+Who’s used to read my posts might have noted I use terms like _lotta_, _getta_, _gotta_, _gonna_, _’cause_, _kinda_, _æsthetics_, _resumé_, _naïve_, _to be got_ (instead of _to have_), _façade_, _ain’t_ (usually in place of _haven’t_ or _hasn’t_), _dunno_ (instead of _don’t know_), _ad eterno_, _persona_, _et cetera_, a lot.
 
 This kind of informal wordbook is called [**Creole**](https://en.wikipedia.org/wiki/Creole_language).
 
