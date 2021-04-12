@@ -5,7 +5,7 @@
   "main": "docs/index.html",
   "scripts": {
     "build": "rm -f _build.js && tsc -p . && node _build.js",
-    "start": "npm run build && (cd docs/ && python -mSimpleHTTPServer 8000)",
+    "start": "npm run build && python3 -mhttp.server 8000 --directory docs",
     "test": "npm start"
   },
   "author": "Arĥimedeς Montegasppα Cacilhας",
