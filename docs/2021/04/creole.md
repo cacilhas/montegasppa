@@ -15,3 +15,5 @@ So I’m very proud of speaking a Creole language and of using a Creole English 
 * * *
 
 PS: I began to think about this topic reading the [Belter Creole page](https://expanse.fandom.com/wiki/Belter_Creole).
+
+Also in [Medium](https://cacilhas.medium.com/using-a-creole-idiom-28ef23281668).
