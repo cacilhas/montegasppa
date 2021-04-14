@@ -39,3 +39,7 @@ Four equals to the product of its own isometric sum elements (2 + 2 = 2 × 2). B
 Sphenic numbers have eight divisors.
 
 Have you gotten any interesting natural number fact?
+
+* * *
+
+Also in [Medium](https://cacilhas.medium.com/the-beauty-of-small-natural-numbers-3732f1571fdd).

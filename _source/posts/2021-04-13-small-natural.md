@@ -5,7 +5,7 @@ tags: concept education-and-culture
 image: //cacilhas.info/img/glider.png
 permalink: /2021/04/small-natural.html
 ---
-
+[medium]: https://cacilhas.medium.com/the-beauty-of-small-natural-numbers-3732f1571fdd
 
 {:class="pull-right"} <img src="{{{ image }}}" alt="Glider" />
 
@@ -61,3 +61,7 @@ power.
 Sphenic numbers have eight divisors.
 
 Have you gotten any interesting natural number fact?
+
+-----
+
+{:class="small"} Also in [Medium][medium].
