@@ -33,7 +33,7 @@ const today = moment()
 showdown.setFlavor('github')
 showdown.extension('ClassExtension', {
   type: 'output',
-  regex: /([/]?>){ *:(class=".*?") *}/g,
+  regex: /([/]?>){ *:(\w*=".*?") *}/g,
   replace: ' $2 $1',
 })
 showdown.extension('DivExtension', {
