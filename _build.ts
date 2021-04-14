@@ -6,7 +6,7 @@ import moment from 'moment'
 import mustache from 'mustache'
 import path from 'path'
 import rimraf from 'rimraf'
-import showdown from 'showdown'
+import showdown, { Converter } from 'showdown'
 import stylus from 'stylus'
 import Turndown from 'turndown'
 import yaml from 'js-yaml'
@@ -33,20 +33,14 @@ const today = moment()
 showdown.setFlavor('github')
 showdown.extension('ClassExtension', {
   type: 'output',
-  regex: /([/]?>){ *:(\w+=".*?") *}/g,
-  replace: ' $2 $1',
-})
-showdown.extension('DivExtension', {
-  type: 'lang',
-  filter: createIndentedFilter('^^div', str => `<div>${str.trim()}</div>`),
+  filter: (text: string) =>
+    text
+      .replace(/([/]?>) *{\s*((:\w+=".*?")(\s*:\w+=".*?")*)\s*}/g, ' $2 $1')
+      .replace(/:(\w+=".*?")/g, '$1'),
 })
 showdown.extension('IExtension', {
   type: 'lang',
   filter: createIndentedFilter('^^i', str => `<i>${str.trim()}</i>`),
-})
-showdown.extension('SpanExtension', {
-  type: 'lang',
-  filter: createIndentedFilter('^^span', str => `<span>${str.trim()}</span>`),
 })
 showdown.extension('PreExtension', {
   type: 'output',
@@ -59,15 +53,16 @@ showdown.extension('TableExtension', {
   replace: '<table class="table">',
 })
 
-function buildMdConverter(): showdown.Converter {
-  const converter = new showdown.Converter({extensions: [
-    'ClassExtension', 'DivExtension', 'IExtension', 'SpanExtension',
-    'PreExtension', 'TableExtension',
+function buildMdConverter(): Converter {
+  const converter = new Converter({extensions: [
+    'ClassExtension', 'IExtension', 'PreExtension', 'TableExtension',
   ]})
 
   converter.setOption('completeHTMLDocument', false)
+  converter.setOption('literalMidWordUnderscores', true)
   converter.setOption('metadata', true)
   converter.setOption('parseImgDimensions', true)
+  converter.setOption('requireSpaceBeforeHeadingText', true)
   converter.setOption('simplifiedAutoLink', true)
   converter.setOption('simpleLineBreaks', false)
   converter.setOption('strikethrough', true)
