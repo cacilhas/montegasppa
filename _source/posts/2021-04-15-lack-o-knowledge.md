@@ -6,6 +6,7 @@ image: //cacilhas.info/img/hein.png
 permalink: /2021/04/lack-o-knownledge.html
 ---
 [adt]: http://foldoc.org/algebraic+data+type
+[dev.to]: https://dev.to/cacilhas/the-surprising-technicians-lack-o-knowledge-19ao
 [ted]: https://www.ted.com/
 [teded]: https://ed.ted.com/
 [tedx]: https://www.ted.com/about/programs-initiatives/tedx-program
@@ -60,5 +61,9 @@ Please…
 
 -----
 
-{:id="panelist" :class="small"} I’m using the word *panelist* as pejorative for
+{:id="panelist" :class="small"} ¹I’m using the word *panelist* as pejorative for
 “stage speaker”.
+
+-----
+
+{:class="small"} Also in [DEV Community 👩‍💻👨‍💻][dev.to].

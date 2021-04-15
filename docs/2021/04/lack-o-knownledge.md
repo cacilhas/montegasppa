@@ -28,4 +28,8 @@ Please…
 
 * * *
 
-I’m using the word _panelist_ as pejorative for “stage speaker”.
+¹I’m using the word _panelist_ as pejorative for “stage speaker”.
+
+* * *
+
+Also in [DEV Community 👩‍💻👨‍💻](https://dev.to/cacilhas/the-surprising-technicians-lack-o-knowledge-19ao).
