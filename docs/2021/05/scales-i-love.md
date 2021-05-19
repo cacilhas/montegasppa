@@ -100,7 +100,7 @@ It’s got the minor mediant, but the major submediant. The adjunct modal degree
 
 The Phrygian mode is **The Dark Mode** by definition, it still respects the tonal requirements, but every modal degree is minor.
 
-I recommend [this video](https://www.youtube.com/watch?v=ZxQWbyaMzfg) if you want to see how hard is making Phrygian sounds _not-dark_.
+I recommend [this video](https://www.youtube.com/watch?v=ZxQWbyaMzfg) if you want to see how hard is making Phrygian sound _not-dark_.
 
 *   Its main tonal degrees are the tonic and the dominant;
 *   The adjunct tonal ones are the subdominant and the subtonic;
