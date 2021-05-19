@@ -18,7 +18,7 @@ From brighter to darker they are:
 
 ![Lydian ♭7](//cacilhas.info/img/loved-scales/lydian-b7.png)
 
-Also called Brazilian Northeastern scale, Lydian ♭7 is a very bright scale, most present in the Brazilian Northeastern Music.
+Also called Brazilian Northeastern scale, Lydian ♭7 is a very bright scale, mostly present in the Brazilian Northeastern Music.
 
 *   Its main tonal degrees are the tonic and the dominant;
 *   The adjunct tonal ones are the tritone and the subtonic;
