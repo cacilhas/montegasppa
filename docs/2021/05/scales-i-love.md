@@ -51,7 +51,7 @@ Its tonal and modal functions are granted by the same Mixolydian structure:
 
 ![Mixolydian ♭9♭13](//cacilhas.info/img/loved-scales/mixolydian-b9b13.png)
 
-This scale has an arabic atmosphere, adding some darkness to the previous one, but it’s still quite bright.
+This scale has an Arabic atmosphere, adding some darkness to the previous one, but it’s still quite bright.
 
 Its functions:
 
@@ -61,7 +61,7 @@ Its functions:
 *   The minor supertonic is the adjunct modal;
 *   And the leading degree adds gravity.
 
-There’s a peculiar sesquitonal interval between the minor subtonic and the major mediant that, when accurately explored, gives that arabic atmosphere I said before.
+There’s a peculiar sesquitonal interval between the minor subtonic and the major mediant that, when accurately explored, gives that Arabic atmosphere I said before.
 
 ### Overlaid Diminished
 
@@ -114,9 +114,9 @@ I recommend [this video](https://www.youtube.com/watch?v=ZxQWbyaMzfg) if you wan
 
 This scale is so gravity-lacking, that it only works if made Bebop.
 
-Superlocrian is an exotic scale, an extrapolation from the Locrian mode (which is an artifical mode yet). Basically you got a scale, but raise the tonic a half tone.
+Superlocrian is an exotic scale, an extrapolation from the Locrian mode (which is an artificial mode yet). Basically you got a scale, but raise the tonic a half tone.
 
-It’s dark; it’s tough; it’s ungrounded.
+It’s dark; it’s tough; it’s _ungrounded_.
 
 *   The problems begin with the main tonal function: tonic and tritone;
 *   The adjunct tonal degrees don’t help: the major mediant and the subtonic;
@@ -124,7 +124,7 @@ It’s dark; it’s tough; it’s ungrounded.
 *   The adjunct modal one doesn’t help either: it’s the minor supertonic;
 *   The only help you can get is making it Bebop: add the leading degree.
 
-However you can play with the two mediants and the minor supertonic, it allows some aethereal gigs.
+However you can play with the two mediants and the minor supertonic, it allows some ethereal gigs.
 
 ### Epilogue
 
@@ -301,3 +301,7 @@ T
 *   M: main modal function
 *   m: adjunct modal function
 *   †: makes the scale Bebop
+
+* * *
+
+Also in [Medium](https://cacilhas.medium.com/some-scales-i-love-665c59919275).
