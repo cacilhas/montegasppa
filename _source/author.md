@@ -87,6 +87,7 @@ renamed to Julia Monte.
 
 - <a href="{{{ author.contacts.devto.url }}}">{{ author.contacts.devto.name }}</a>
 - <a href="{{{ author.contacts.github.url }}}">{{ author.contacts.github.name }}</a>
+- <a href="{{{ author.contacts.itch.url }}}">{{ author.contacts.itch.name }}</a>
 - <a href="{{{ author.contacts.linkedin.url }}}">{{ author.contacts.linkedin.name }}</a>
 - <a href="{{{ author.contacts.twitter.url }}}">{{ author.contacts.twitter.name }}</a>
 - <a href="{{{ author.contacts.patreon.url }}}">{{ author.contacts.patreon.name }}</a>
