@@ -12,9 +12,9 @@ We insisted in seeing the records, and the principal called us to the school for
 
 Meanwhile we told the autistic girl’s mother what was happening.
 
-When we got to the school, the principal said that there was **no camera record** for we to see, and call my wife hysterical, a clear mysogyne.
+When we got to the school, the principal said that there was **no camera record** for we to see, and call my wife hysterical, a clear misogyne.
 
-But I’m a man, and our mysogynist society doesn’t call men hysterical. So I said I saw the same as my wife. The principal replied the teachers was _too busy_ to _act properly_.
+But I’m a man, and our misogynist society doesn’t call men hysterical. So I said I saw the same as my wife. The principal replied the teachers was _too busy_ to _act properly_.
 
 I responded therefore the school staff is insufficient.
 
@@ -30,8 +30,12 @@ Take heed: leaving an autistic child helpless on the yard **isn’t** reason to 
 
 In other words: the principal has no emotional condition to deal with the reality, her particular truth cannot be confronted, and the facts must be discarded.
 
-It looks like I’m complaining in vain, assaulting a single person’s honor. Contrariwise I’m drawing a **culture scenery**.
+It looks like I’m complaining in vain, assaulting a single person’s honour. Contrariwise I’m drawing a **culture scenery**.
 
 In Brazil, social inclusion is taken as **welfarism**; expertise is synonymous with hiding facts and evidences; children are left by themselves… it’s important to make money and _be normal_.
 
 > …Be normal…
+
+* * *
+
+Originally published in [Medium](https://cacilhas.medium.com/an-atypical-school-ddc429f3bb3f).

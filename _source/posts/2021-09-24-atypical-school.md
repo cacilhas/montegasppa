@@ -5,6 +5,7 @@ tags: education-and-culture personal politics
 image: //cacilhas.info/img/autistic.png
 permalink: /2021/09/atypical-school.html
 ---
+[medium]: https://cacilhas.medium.com/an-atypical-school-ddc429f3bb3f
 
 {:class="pull-right"} <img src="{{{ image }}}" alt="Atypical mind, typical world" />
 
@@ -26,9 +27,9 @@ Meanwhile we told the autistic girl’s mother what was happening.
 
 When we got to the school, the principal said that there was
 **no camera record** for we to see, and call my wife hysterical, a clear
-mysogyne.
+misogyne.
 
-But I’m a man, and our mysogynist society doesn’t call men hysterical. So I said
+But I’m a man, and our misogynist society doesn’t call men hysterical. So I said
 I saw the same as my wife. The principal replied the teachers was *too busy* to
 *act properly*.
 
@@ -56,7 +57,7 @@ In other words: the principal has no emotional condition to deal with the
 reality, her particular truth cannot be confronted, and the facts must be
 discarded.
 
-It looks like I’m complaining in vain, assaulting a single person’s honor.
+It looks like I’m complaining in vain, assaulting a single person’s honour.
 Contrariwise I’m drawing a **culture scenery**.
 
 In Brazil, social inclusion is taken as **welfarism**; expertise is synonymous
@@ -64,3 +65,7 @@ with hiding facts and evidences; children are left by themselves… it’s impor
 to make money and *be normal*.
 
 > …Be normal…
+
+-----
+
+{:class="small"} Originally published in [Medium][medium].
