@@ -65,7 +65,7 @@ You can find older posts in the [legacy page](/legacy.html).
 
   $.getJSON('/tags.json', function(tags) {
     for (var tag of tags) {
-      $('#tagsList').append('<li><a href="/?tag=' + tag + '"><code>' + tag + '</code></a></li>')
+      $('#tagsList').append('<li><a href="/?tag=' + tag + '"><code>' + tag.replace(/-/g, ' ') + '</code></a></li>')
     }
   })
 </script>
