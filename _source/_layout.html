@@ -111,7 +111,7 @@
               if (first) { first = false }
               else $('#tags').append('&nbsp;|&nbsp;')
               $('#tags').append(
-                '<a href="/?tag=' + tag + '" class="tag">' + tag + '</a>'
+                '<a href="/?tag=' + tag + '" class="tag">' + tag.replace(/-/g, ' ') + '</a>'
               )
             }
           }
@@ -120,7 +120,12 @@
       </div>
       <div id="player" class="text-center">
         <script>
-          $('#player').append(Math.random() < 0.7 ? `{{{ bandcamp.le-obscur-essentes }}}` : `{{{ bandcamp.nimbo }}}`)
+          if (Math.random() < 0.2)
+            $('#player').append(`{{{ bandcamp.nimbo }}}`)
+          else if (Math.random() < 0.5)
+            $('#player').append(`{{{ bandcamp.le-obscur-essentes }}}`)
+          else
+            $('#player').append(`{{{ bandcamp.the-revaning-crow }}}`)
         </script>
         <noscript><a href="{{{ author.contacts.bandcamp.url }}}">{{ author.contacts.bandcamp.title }}</a></noscript>
       </div>
