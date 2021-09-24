@@ -2,7 +2,7 @@
 
 I’m telling you a personal fresh case.
 
-This week I and my wife were looking at the school camera images, and we caught a teacher grabbing our son’s arm fiercely.
+This week I and my wife were looking at the school camera images, and we saw a teacher grabbing our son’s arm fiercely.
 
 We also saw an autistic girl left helpless on the yard.
 
@@ -32,6 +32,6 @@ In other words: the principal has no emotional condition to deal with the realit
 
 It looks like I’m complaining in vain, assaulting a single person’s honor. Contrariwise I’m drawing a **culture scenery**.
 
-In Brazil, social inclusion is taken as **welfarism**; expertise is synonymous with hiding facts and evidences; children are left by themselves, it’s important to make money and _be normal_.
+In Brazil, social inclusion is taken as **welfarism**; expertise is synonymous with hiding facts and evidences; children are left by themselves… it’s important to make money and _be normal_.
 
 > …Be normal…
