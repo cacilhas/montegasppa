@@ -37,7 +37,7 @@ This is a variant from the Ionian mode – basically it‘s the Ionian with adde
 
 Everything you do with the Ionian mode, you can do with this scale, plus the tonic’s dominant chord (⁷).
 
-The trick is avoid the leading degree, always preferring the subtonic, leaving the leading only to the termination to gain gravity in the end.
+The trick is avoid the leading degree, always preferring the subtonic, leaving the leading only for termination to gain gravity in the end.
 
 Its tonal and modal functions are granted by the same Mixolydian structure:
 
@@ -114,7 +114,7 @@ I recommend [this video](https://www.youtube.com/watch?v=ZxQWbyaMzfg) if you wan
 
 This scale is so gravity-lacking, that it only works if made Bebop.
 
-Superlocrian is an exotic scale, an extrapolation from the Locrian mode (which is an artificial mode yet). Basically you got a scale, but raise the tonic a half tone.
+Superlocrian is an exotic scale, an extrapolation from the Locrian mode (which is an artificial mode itself). Basically you got a scale, but raise the tonic a half tone.
 
 It’s dark; it’s tough; it’s _ungrounded_.
 
