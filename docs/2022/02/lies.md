@@ -13,3 +13,7 @@ Therefore neurotypical people treat me as I’d be _less people_ ’cause I’m 
 You neurotypical have been lying to me, and you’ve been lying to each other, and you consider yourselves _better_ for lying!
 
 I’m not okay with that.
+
+* * *
+
+Also published on [Medium](https://cacilhas.medium.com/youve-been-lying-to-me-d6847a0be4c0).
