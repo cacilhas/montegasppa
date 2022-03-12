@@ -14,14 +14,14 @@ permalink: /2021/04/lack-o-knownledge.html
 {:class="pull-right"} <img src="{{{ image }}}" alt="Hein?" />
 
 {:class="mg-first"} I’ve been really astonished by an unexpected fact: Computer
-technicians are afraid of knownledge. 😱
+technicians are afraid of knowledge. 😱
 
 I’m telling you something happened with my team with no fear of diminishing
 anyone, ’cause the behaviour I’m describing isn’t an isolated case, but common
 to many technicians, if not to most of us.
 
 I brought to my team
-<u title="I’m looking for that paper now, but I can’t found it. 😞">a paper</u>
+<abbr title="I’m looking for that paper now, but I can’t found it. 😞">a paper</abbr>
 about [algebraic data types][adt] that was relevant to a project we was
 designing. The team reactions were since unbelief and repudiation to pure
 **horror**.

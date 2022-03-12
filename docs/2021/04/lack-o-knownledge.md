@@ -1,6 +1,6 @@
 ![Hein?](//cacilhas.info/img/hein.png)
 
-I’ve been really astonished by an unexpected fact: Computer technicians are afraid of knownledge. 😱
+I’ve been really astonished by an unexpected fact: Computer technicians are afraid of knowledge. 😱
 
 I’m telling you something happened with my team with no fear of diminishing anyone, ’cause the behaviour I’m describing isn’t an isolated case, but common to many technicians, if not to most of us.
 
