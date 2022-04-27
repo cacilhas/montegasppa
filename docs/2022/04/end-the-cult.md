@@ -1,0 +1,25 @@
+![Light](//cacilhas.info/img/lamp.png)
+
+**Christianism** doesn’t need to be oppressing, but, unfortunately, things aren’t like you and I would like it were.
+
+And Christianism, like most religions, looks more like a psychological disorder, leading people to group hallucinations and confirmation biases of every manichæist idea.
+
+We cannot simply deal with things as they were like we think they should be – we need to deal with things **as they really are**.
+
+And religion unfortunately has brought only disgrace and misery to the world. It has always been the case, it will always be. There’s not a single moment in the history of mankind when institutional religion had been constructive for society.
+
+I still think Jesus Christ’s words are very beautiful, an example in many aspects, however any gathering around it, or around Bible, or around any “sacred” book – Koran, Torah, Baghavad Gita, _et cetera_ – should be **banished** by good souls.
+
+There’s a quote attributed sometimes to Voltaire, sometimes to Diderot, that puts that in perspective:
+
+— Man will never be free until the last king is strangled with the entrails of the last priest.
+
+I would like to update it:
+
+— Piece is unreachable until the last military is strangled with the entrails of the last religious leader.
+
+It’s necessary to make it clear that this is a hyperbole, an overstatement, I’m not claiming for murdering.
+
+* * *
+
+Also published on [Medium](https://cacilhas.medium.com/end-the-cult-8176736bd607).
