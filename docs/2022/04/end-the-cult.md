@@ -1,8 +1,8 @@
 ![Light](//cacilhas.info/img/lamp.png)
 
-The **Christianism** doesn’t need to be oppressor, but, unfortunately, things aren’t like you and I would like it were.
+**Christianism** doesn’t need to be oppressing, but, unfortunately, things aren’t like you and I would like it were.
 
-And the Christianism, like most religions, looks more like a psychological disorder, leading people to group hallucinations and confirmation biases of every manichæist idea.
+And Christianism, like most religions, looks more like a psychological disorder, leading people to group hallucinations and confirmation biases of every manichæist idea.
 
 We cannot simply deal with things as they were like we think they should be – we need to deal with things **as they really are**.
 
@@ -19,3 +19,7 @@ I would like to update it:
 — Piece is unreachable until the last military is strangled with the entrails of the last religious leader.
 
 It’s necessary to make it clear that this is a hyperbole, an overstatement, I’m not claiming for murdering.
+
+* * *
+
+Also published on [Medium](https://cacilhas.medium.com/end-the-cult-8176736bd607).
