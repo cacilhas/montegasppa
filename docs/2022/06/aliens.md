@@ -10,7 +10,7 @@ I lived in the countryside in my early thirties, a wooded and muddy place. The h
 
 The whole place was dimly lit, and some nights I used to get home really late.
 
-One night I got home around 3:00 AM, and there was a “little guy” bent over the stump, looking down at the house. “It” must be around 1.20m to 1.40m, humanoid-shaped, very thin, grey-skinned, no clothes (or at least looked like), two big rounded deeply-black eyes. Of course, I got frozen! But it seemed not to notice me, so I kept going on and walked down the stairs on the ravine slope until I reached the house; it was up there looking down at the house (or at me), so I got in. Nothing else happened that night.
+One night I got home around 3:00 AM, and there was that “little guy” bent over the stump, looking down at the house. “It” must be around 1.20m to 1.40m, humanoid-shaped, very thin, grey-skinned, no clothes (or at least looked like), two big rounded deeply-black eyes. Of course, I got frozen! But it seemed not to notice me, so I kept going on and walked down the stairs on the ravine slope until I reached the house; it was up there looking down at the house (or at me), so I got in. Nothing else happened that night.
 
 The next night, having not learnt my lesson, I got home late again, at about the same time. Then there was not only one, but **four** of those guys waiting: one in the same position as the previous night, and three a little further, in a circle near an old water tank.
 
