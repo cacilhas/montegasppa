@@ -19,3 +19,7 @@ When I noticed them, the three beside the tank turned in my direction and starte
 I really don’t know what they were or wanted, but I know I saw them, and I know there’s no clue about their origin; saying they were unworldly is an extremely rough assumption.
 
 I hope it’s clear why I avoid telling those stories: all it takes is an astrologer, ufologist, or a conspiracy theorist to turn it into crazy sensationalist news. On the other hand, there are pseudo-skeptics that, instead of doubting, strongly believe it’s fake, mocking anything can’t explain.
+
+* * *
+
+Also published on [Medium](https://cacilhas.medium.com/aliens-4fc040b78dd0).
