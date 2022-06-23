@@ -14,7 +14,7 @@ One night I got home around 3:00 AM, and there was that “little guy” bent ov
 
 The next night, having not learnt my lesson, I got home late again, at about the same time. Then there was not only one, but **four** of those guys waiting: one in the same position as the previous night, and three a little further, in a circle near an old water tank.
 
-When I noticed them, the three beside the tank turned in my direction and started to walk slowly toward me. I think I haven’t ever come down those stairs so fast before or since! I got inside as soon as I got the key in the lock – not an easy task when you’re panicking.
+When I noticed them, the three beside the tank turned in my direction and started to walk slowly toward me. I think ain’t never come down those stairs so fast before or since! I got inside as soon as I got the key in the lock – not an easy task when you’re panicking.
 
 I really don’t know what they were or wanted, but I know I saw them, and I know there’s no clue about their origin; saying they were unworldly is an extremely rough assumption.
 
