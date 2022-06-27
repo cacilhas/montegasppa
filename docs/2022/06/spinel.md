@@ -1,4 +1,4 @@
-![Light](//cacilhas.info/img/autistic.png)
+![Autistic mind](//cacilhas.info/img/autistic.png)
 
 I’ve been watching [Steven Universe: The Movie](https://steven-universe.fandom.com/wiki/Steven_Universe:_The_Movie) over and over again (my son is autistic and likes repetition), and there’s something in that movie that caught my attention.
 
