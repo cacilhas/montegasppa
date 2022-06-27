@@ -20,7 +20,7 @@ Put yourself in an atypical place of mind: she was **built** to play, knowing no
 
 When the love of her life asked her to “stand very still” in order to “play a game,” she wasn’t able to question, trust was in her very inner nature.
 
-If you can take her place, feel it, you’ll see that it’s the cruellest harm anyone could’ve done to another. It was betrayal of trust.
+If you can take her place, feel it, you’ll see that it’s the cruellest harm anyone could’ve done to another. It was a betrayal of trust.
 
 Now take it for three times her lifetime in the Garden – or more… _Happily listen, happy to stay, happily watching her drift away._
 
@@ -28,8 +28,12 @@ It’s easier for us autistics to get it than for allists. Why?
 
 That’s the gotcha:
 
-Allists live in a world made for their own, where feelings and rules match their expectations. Anything outside the box is “alien,” odd. So for an allist is too hard to take a different point of view.
+Allists live in a world made for their own, where feelings and rules match their expectations. Anything outside the box is “alien,” odd. So, for an allist, it’s too hard to take a different point of view.
 
 But autistic people already live in a strange and confusing world, we gotta figure out how other people feel all the time. So, for us, putting on someone else’s sandals is an everyday task.
 
-In other words, for us, autistics, an alien point of view isn’t that _alien_, or at least, it’s not that much weirder than the neurotypical.
+In other words, for us, autistics, an alien point of view isn’t that _alien_, or at least, it’s not so much weirder than the neurotypical.
+
+* * *
+
+Also published on [Medium](https://cacilhas.medium.com/how-a-steven-universe-character-has-been-teaching-me-about-autistic-empathy-bf2da980834a).
