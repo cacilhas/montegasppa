@@ -34,6 +34,8 @@ But autistic people already live in a strange and confusing world, we gotta figu
 
 In other words, for us, autistics, an alien point of view isn’t that _alien_, or at least, it’s not so much weirder than the neurotypical.
 
+![Steven Universe](//cacilhas.info/img/steven-universe.jpg)
+
 * * *
 
 Also published on [Medium](https://cacilhas.medium.com/how-a-steven-universe-character-has-been-teaching-me-about-autistic-empathy-bf2da980834a).
