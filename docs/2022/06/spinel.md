@@ -18,7 +18,7 @@ Okay, “normal” people would get it and go on, but that thought disregards th
 
 ![Pink Diamond and Spinel](//cacilhas.info/img/steven-universe/pink-diamond-spinel.jpg)
 
-Put yourself in an atypical place of mind: she was **built** to play, knowing nothing else, and she trusted [Pink Diamond](https://steven-universe.fandom.com/wiki/Pink_Diamond) with no doubt in her mind. She spent her entire nearly-2,000-year life mostly in the same place, the Garden, with the same person, not knowing anything else.
+Put yourself in an atypical place of mind: she was **built** to play, knowing nothing else, and she trusted [Pink Diamond](https://steven-universe.fandom.com/wiki/Pink_Diamond) with no shade of doubt on her mind. She spent her entire nearly-2,000-year life mostly in the same place, the Garden, with the same person, not knowing anything else.
 
 When the love of her life asked her to “stand very still” in order to “play a game,” she wasn’t able to question, trust was in her very inner nature.
 
