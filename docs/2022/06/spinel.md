@@ -16,6 +16,8 @@ They say:
 
 Okay, “normal” people would get it and go on, but that thought disregards the character’s personality.
 
+![Pink Diamond and Spinel](//cacilhas.info/img/steven-universe/pink-diamond-spinel.jpg)
+
 Put yourself in an atypical place of mind: she was **built** to play, knowing nothing else, and she trusted [Pink Diamond](https://steven-universe.fandom.com/wiki/Pink_Diamond) with no doubt in her mind. She spent her entire nearly-2,000-year life mostly in the same place, the Garden, with the same person, not knowing anything else.
 
 When the love of her life asked her to “stand very still” in order to “play a game,” she wasn’t able to question, trust was in her very inner nature.
@@ -26,6 +28,8 @@ Now take it for three times her lifetime in the Garden – or more… _Happily l
 
 It’s easier for us autistics to get it than for allists. Why?
 
+![Steven Universe](//cacilhas.info/img/steven-universe/fly.jpg)
+
 That’s the gotcha:
 
 Allists live in a world made for their own, where feelings and rules match their expectations. Anything outside the box is “alien,” odd. So, for an allist, it’s too hard to take a different point of view.
@@ -33,8 +37,6 @@ Allists live in a world made for their own, where feelings and rules match their
 But autistic people already live in a strange and confusing world, we gotta figure out how other people feel all the time. So, for us, putting on someone else’s sandals is an everyday task.
 
 In other words, for us, autistics, an alien point of view isn’t that _alien_, or at least, it’s not so much weirder than the neurotypical.
-
-![Steven Universe](//cacilhas.info/img/steven-universe.jpg)
 
 * * *
 
