@@ -4,7 +4,7 @@ I’ve been watching [Steven Universe: The Movie](https://steven-universe.fandom
 
 It’s [Spinel](https://steven-universe.fandom.com/wiki/Spinel)’s arc. It touches me deeply, and I can’t help but cry thinking about it.
 
-Talking with allist people about it, they often find it silly and childish, unable to understand the suffering behind it.
+Talking with neurotypical people about it, they often find it silly and childish, unable to understand the suffering behind it.
 
 After a lotta thinking about it, I finally came to an understanding:
 
@@ -26,13 +26,13 @@ If you can take her place, feel it, you’ll see that it’s the cruellest harm 
 
 Now take it for three times her lifetime in the Garden – or more… _Happily listen, happy to stay, happily watching her drift away._
 
-It’s easier for us autistics to get it than for allists. Why?
+It’s easier for us autistics to get it than for neurotypical people. Why?
 
 ![Steven Universe](//cacilhas.info/img/steven-universe/fly.jpg)
 
 That’s the gotcha:
 
-Allists live in a world made for their own, where feelings and rules match their expectations. Anything outside the box is “alien,” odd. So, for an allist, it’s too hard to take a different point of view.
+Neurotypical people live in a world made for their own, where feelings and rules match their expectations. Anything outside the box is “alien,” odd. So, for a typical person, it’s too hard to take a different point of view.
 
 But autistic people already live in a strange and confusing world, we gotta figure out how other people feel all the time. So, for us, putting on someone else’s sandals is an everyday task.
 
@@ -41,3 +41,5 @@ In other words, for us, autistics, an alien point of view isn’t that _alien_, 
 * * *
 
 Also published on [Medium](https://cacilhas.medium.com/how-a-steven-universe-character-has-been-teaching-me-about-autistic-empathy-bf2da980834a).
+
+> I replaced “allist” with “neurotypical” ’cause, on reflection, it seems not fair to other neurodiverse people. I’m talking about a [neurotypical disorder](https://www.thestonkingsteps.com/thoughts-on-autism/neurotypical-syndrome-a-live-long-disorder/).
