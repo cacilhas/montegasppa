@@ -1,0 +1,60 @@
+![Imbecil](//cacilhas.info/img/hein.png)
+
+*   [English version](#brazilian-national-men’s-day)
+
+Geralmente escrevo em inglês, não para favorecer o público angófono nativo, mas para atingir um público maior do que apenas o lusófono.
+
+Porém este artigo tem como público alvo os brasileiros, então faz sentido escrever em português.
+
+O [Dia Internacional dos Homens](https://internationalmensday.com/) celebra os valores masculinos positivos, não-tóxicos, igualdade entre gêneros e o cultivo de relações mais saldáveis.
+
+Porém a cultura fascista do Brasil desde muito nunca comungou de nenhum desses valores, por isso decidiu em 1992 instituir o [Dia Nacional do Homem](https://www.calendarr.com/brasil/dia-do-homem/) para comemorar os valores “masculinos” do patriarcado e do machismo, ora aclamados pelo governo.
+
+O texto oficial é uma mentira leve para evitar ataques diretos, falando em cuidados com a saúde, mas a verdade é totalmente outra.
+
+O [Dia Internacional das Mulheres](https://www.internationalwomensday.com/) comemora as conquistas sociais das mulheres numa sociedade patriarcal e misógina, a luta por igualdade.
+
+O [Mês e o Dia do Orgulho LGBTQIA+](http://www.interpride.org/) comemoram o orgulho em afirmar a própria identidade em uma sociedade opressora e assassina.
+
+O Dia Nacional do Homem comemora que conquista mesmo?
+
+A conquista do homem ao oprimir as mulheres, ou ao subjulgar homossexuais? Ou os feminicídios e crimes de ódio contra LGBTQIA+?
+
+Alguém mais atento pode dizer que o Dia Nacional do Homem existe em contraponto aos dias internacionais das mulheres e do _orgulho_ – o que deixa tudo mais fácil de ser colocado em perspectiva!
+
+Se o Dia Internacional das Mulheres comemora as conquistas sociais das mulheres em uma sociedade opressora e assassina, por ser uma contraparte deste dia, **o Dia Nacional do Homem comemora a opressão à mulher, a misoginia e o feminicídio**.
+
+Se o Mês do Orgulho comemora a afirmação da própria identidade, **o Dia Nacional do Homem ataca a identidade alheia**.
+
+Espero ter deixado claro para além de qualquer sombra de dúvida.
+
+A polarização é entre os que querem o direito de viver e os que querem o direito de matar.
+
+* * *
+
+Brazilian National Men’s Day
+----------------------------
+
+[International Men’s Day](https://internationalmensday.com/) celebrates positive, non-toxic men’s values, equality not only for men but also for women, nurturing healthier relationships.
+
+However, the Brazilian fascist culture for long time has never shared those values, so [National Men’s Day](https://www.calendarr.com/brasil/dia-do-homem/) was created in 1992 to celebrate the male values of patriarchy and misogyny, now acclaimed by the government.
+
+The official text is a slight lie to avoid straight attacks and talks about health care, but the truth is entirely another.
+
+[International Women’s Day](https://www.internationalwomensday.com/) celebrates the women’s social achievements in a patriarchal and misogynist society, a fight for equality.
+
+[Pride Day and Month](http://www.interpride.org/) celebrate the pride of holding on own identity in an oppressor and murderous society.
+
+Which achievement does National Men’s Day really celebrate?
+
+The power of men to oppress women, or to subdue homosexuals? Or does it celebrate femicides and LGBTQIA+ hatred?
+
+Some observers might say that National Men’s Day was created as a counterpoint to international women’s and _pride_ days – what makes perspective easier!
+
+If International Women’s Day celebrates social achievements of women in an oppressor and murderous society, in the other hand, **National Men’s Day celebrates oppression of women, misogyny and femicide**.
+
+If Pride Month celebrates self-affirmation of identity, **National Men’s Day fights against other’s identity**.
+
+I hope I’ve been clear beyond any doubt.
+
+The (Brazilian) polarisation is between who claims the right to live, and who claims the right to kill.
