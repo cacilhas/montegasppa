@@ -1,6 +1,6 @@
 ![Iwa](//cacilhas.info/img/iwa.png)
 
-Yesterday we were at a parent a meeting from my son’s previous school. (Actually I was the only “father,” there were only mothers besides me.)
+Yesterday we were at a parent meeting from my son’s previous school. (Actually, I was the only “father,” there were only mothers beside me.)
 
 The aftermath of that meeting was that we found we no longer fit that group, perhaps we never did.
 
@@ -15,3 +15,7 @@ The kid’s mother told him that my son is “different,” so he couldn’t act
 In other words, according to those people, violent behaviour is not an issue; the issue is my son’s Autism.
 
 I don’t know what to do but keep us away and never go back there.
+
+* * *
+
+Also published on [Medium](https://cacilhas.medium.com/we-dont-fit-9edf7584c29b).
