@@ -1,0 +1,21 @@
+![Iwa](//cacilhas.info/img/iwa.png)
+
+Yesterday we were at a parent meeting from my son’s previous school. (Actually, I was the only “father,” there were only mothers beside me.)
+
+The aftermath of that meeting was that we found we no longer fit that group, perhaps we never did.
+
+Those people think the solution to hunger is selling bones and whey to poor humble people. They also said that the problem with the world today is that the bad news comes to us – they don’t care whether bad things happen to others, they just want not to know.
+
+And my wife and I were listening to those abominable ideas.
+
+But the icing on the cake was when another kid simply punched my son in the face! Everyone came in defence of… the kid who punched!
+
+The kid’s mother told him that my son is “different,” so he couldn’t act like my son is “normal.”
+
+In other words, according to those people, violent behaviour is not an issue; the issue is my son’s Autism.
+
+I don’t know what to do but keep us away and never go back there.
+
+* * *
+
+Also published on [Medium](https://cacilhas.medium.com/we-dont-fit-9edf7584c29b).
