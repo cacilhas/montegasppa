@@ -2,7 +2,7 @@
 
 *   [English version](#english-version)
 
-[Três Rios](https://www.openstreetmap.org/relation/2215565) é a terceira cidade onde estabeleci endereço permanente; não é nem a melhor, nem a pior cidade onde já morei ou que eu conheça, mas tem lá suas peculiaridades.
+[Três Rios](https://www.openstreetmap.org/relation/2215565) é a quarta cidade onde estabeleci endereço permanente; não é nem a melhor, nem a pior cidade onde já morei ou que eu conheça, mas tem lá suas peculiaridades.
 
 Vou contar alguns _causos_.
 
@@ -87,7 +87,7 @@ Não, eles não esperaram até as 16:00 para responder, a resposta veio em pouco
 English version
 ---------------
 
-[Três Rios](https://www.openstreetmap.org/relation/2215565) is the third Brazilian city where I have lived. The stories I’m telling here don’t represents Brazilia cities, they are peculiarities of this city.
+[Três Rios](https://www.openstreetmap.org/relation/2215565) is the fourth Brazilian city where I have lived. The stories I’m telling here don’t represents Brazilia cities, they are peculiarities of this city.
 
 ### Electrical installation
 
