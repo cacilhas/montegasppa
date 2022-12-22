@@ -131,11 +131,16 @@
       </div>
     </div>
     <div class="panel-footer" id="footer">
-      <p class="small">
+      <p class="pull-left small">
         <a rel="me" href="{{{ author.contacts.mastodon.url }}}">
           <img src="{{{ author.contacts.mastodon.image.source }}}"
-               style="width: {{{ author.contacts.mastodon.image.style.swidth }}}; height: {{{ author.contacts.mastodon.image.style.sheight }}};" />
+               alt="Mastodon"
+               height="{{{ author.contacts.mastodon.image.style.sheight }}}"
+               width="{{{ author.contacts.mastodon.image.style.swidth }}}"
+               style="vertical-align: middle; border: none;" />
         </a>
+      </p>
+      <p class="small">
         <a href="{{{ author.url }}}">{{ author.name }}</a>’ personal website
         &nbsp;
         <a ref="license" href="{{{ license.url }}}">
