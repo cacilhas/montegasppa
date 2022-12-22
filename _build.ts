@@ -222,7 +222,7 @@ async function ordenateTags(output): Promise<void> {
   await Promise.all(_.toPairs(tags).filter(([key, _v]) => !!key).map(([key, value]) =>
     new Promise((resolve, reject) => {
       console.log(`writing ${key} tag`)
-      fs.writeFile(`${path.join(tagDir, key)}.json`, JSON.stringify(value), err => err ? reject(err) : resolve())
+      fs.writeFile(`${path.join(tagDir, key)}.json`, JSON.stringify(value), err => err ? reject(err) : resolve(null))
     })
   ))
 

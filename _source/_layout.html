@@ -132,7 +132,11 @@
     </div>
     <div class="panel-footer" id="footer">
       <p class="small">
-        <a href="{{{ author.url }}}">{{ author.name }}</a> personal website
+        <a rel="me" href="{{{ author.contacts.mastodon.url }}}">
+          <img src="{{{ author.contacts.mastodon.image.source }}}"
+               style="width: {{{ author.contacts.mastodon.image.style.swidth }}}; height: {{{ author.contacts.mastodon.image.style.sheight }}};" />
+        </a>
+        <a href="{{{ author.url }}}">{{ author.name }}</a>’ personal website
         &nbsp;
         <a ref="license" href="{{{ license.url }}}">
           <img rel="license" alt="{{ license.name }}" src="{{{ license.image }}}" style="border: none;" />

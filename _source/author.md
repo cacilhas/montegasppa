@@ -92,4 +92,5 @@ renamed to Julia Monte.
 - <a href="{{{ author.contacts.twitter.url }}}">{{ author.contacts.twitter.name }}</a>
 - <a href="{{{ author.contacts.patreon.url }}}">{{ author.contacts.patreon.name }}</a>
 - <a href="{{{ author.contacts.bandcamp.url }}}">{{ author.contacts.bandcamp.name }}</a>
+- <a rel="me" href="{{{ author.contacts.mastodon.url }}}">{{ author.contacts.mastodon.name }}</a>
 - <a href="{{{ author.contacts.facebook.url }}}">{{ author.contacts.facebook.name }}</a>
