@@ -5,9 +5,10 @@ tags: concept education-and-culture
 image: //cacilhas.info/img/glider.png
 permalink: /2021/04/small-natural.html
 ---
-[medium]: https://cacilhas.medium.com/the-beauty-of-small-natural-numbers-3732f1571fdd
+[image]: {{{image}}}
+[Medium]: https://cacilhas.medium.com/the-beauty-of-small-natural-numbers-3732f1571fdd
 
-{:class="pull-right"} <img src="{{{ image }}}" alt="Glider" />
+{:class="pull-right"} ![Glider][image]
 
 {:class="mg-first"} There’s something beautiful about small natural numbers,
 mainly about their relation to the human psyché.
@@ -64,4 +65,4 @@ Have you gotten any interesting natural number fact?
 
 -----
 
-{:class="small"} Also in [Medium][medium].
+{:class="small"} Also in [Medium][].

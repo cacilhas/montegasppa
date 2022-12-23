@@ -32,4 +32,4 @@ Please…
 
 * * *
 
-Also in [DEV Community 👩‍💻👨‍💻](https://dev.to/cacilhas/the-surprising-technicians-lack-o-knowledge-19ao).
+Also in [DEV.to](https://dev.to/cacilhas/the-surprising-technicians-lack-o-knowledge-19ao).

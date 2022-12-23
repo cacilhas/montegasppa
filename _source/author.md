@@ -3,34 +3,34 @@ title: About the author
 type: page
 date: 2020-09-30
 ---
-[archimedes]: https://en.wikipedia.org/wiki/Archimedes
-[c]: http://www.open-std.org/jtc1/sc22/wg14/
-[c++]: http://www.cplusplus.com/
-[cas]: https://www.chop.edu/conditions-diseases/childhood-apraxia-speech
-[cincom]: http://www.cincomsmalltalk.com/main/
-[cython]: http://cython.org/
-[ecma6]: http://es6-features.org/
-[erlang]: http://www.erlang.org/
-[esperanto]: http://www.esperantio.net/
-[f#]: http://fsharp.org/
-[go]: https://golang.org/
-[hotbit]: http://www.mci.org.br/micro/outros/hotbit.html
-[java]: https://www.oracle.com/java/
-[lua]: http://www.lua.org/
-[moonscript]: http://moonscript.org/
-[objc]: https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html
-[ocaml]: https://ocaml.org/
-[perl]: https://www.perl.org/
-[python]: https://www.python.org/
-[racket]: http://racket-lang.org/
-[sanmarino]: https://en.wikipedia.org/wiki/San_Marino
-[scala]: https://www.scala-lang.org/
-[sml]: http://sml-family.org/
-[swi]: http://www.swi-prolog.org/
-[tcl]: http://tcl.tk/
-[tk85]: http://www.mci.org.br/micro/microdigital/tk85.html
-[typescript]: https://www.typescriptlang.org/
-[ufrj-iq]: https://www.iq.ufrj.br/
+[Apraxia of Speech]: https://www.chop.edu/conditions-diseases/childhood-apraxia-speech
+[Archimedes]: https://en.wikipedia.org/wiki/Archimedes
+[C]: http://www.open-std.org/jtc1/sc22/wg14/
+[C++]: http://www.cplusplus.com/
+[Cython]: http://cython.org/
+[ECMAScript 2015 / Javascript]: http://es6-features.org/
+[Erlang]: http://www.erlang.org/
+[esperantist]: http://www.esperantio.net/
+[F♯]: http://fsharp.org/
+[Go]: https://golang.org/
+[Java]: https://www.oracle.com/java/
+[Lua]: http://www.lua.org/
+[MoonScript]: http://moonscript.org/
+[MSX-1.1 Hotbit HB-8000]: http://www.mci.org.br/micro/outros/hotbit.html
+[Objective-C]: https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html
+[OCaml]: https://ocaml.org/
+[Perl 5]: https://www.perl.org/
+[Prolog]: http://www.swi-prolog.org/
+[Python]: https://www.python.org/
+[San Marino]: https://en.wikipedia.org/wiki/San_Marino
+[Scala]: https://www.scala-lang.org/
+[Scheme]: http://racket-lang.org/
+[Smalltalk]: http://www.cincomsmalltalk.com/main/
+[Standard ML]: http://sml-family.org/
+[Tcl/Tk]: http://tcl.tk/
+[TK85]: http://www.mci.org.br/micro/microdigital/tk85.html
+[TypeScript]: https://www.typescriptlang.org/
+[UFRJ’s Chemistry Institute]: https://www.iq.ufrj.br/
 
 ![{{ author.name }}](//cacilhas.info/img/cacilhas-150x113.jpg){:class="pull-right"}
 
@@ -41,32 +41,30 @@ date: 2020-09-30
 <br />
 
 {:class="mg-first"} I was born **Rodrigo M. Cacilhas** at Petrópolis/RJ, Brazil,
-at 1975’s end, I got the nickname [Archimedes][archimedes] when I was 10, for
-math sciences are usually easy to me – and for bullying too, since some fellow
+at 1975’s end, I got the nickname [Archimedes][] when I was 10, for math
+sciences are usually easy to me – and for bullying too, since some fellow
 students wanted to make fun of the gold crown incident. Later, I changed the
-spelling to **Arĥimedeς** when I became [esperantist][esperanto] (the final
-greek sigma has nothing to do with the Esperanto).
+spelling to **Arĥimedeς** when I became [esperantist][] (the final greek sigma
+has nothing to do with the Esperanto).
 
 I’m autistic, high gifted and musician, I was learning music from an early age
 from my mother, who had been singer. I can play a lot of musical instruments –
 strings, fife, and some keyboard ones.
 
-I studied Chemistry at [UFRJ’s Chemistry Institute][ufrj-iq], but I didn’t
-graduate.
+I studied Chemistry at [UFRJ’s Chemistry Institute][], but I didn’t graduate.
 
 I’ve learned how to deal with computers since very early on, I began using a
-[TK85][tk85]. I was 12 when started programming on a
-[MSX-1.1 Hotbit HB-8000][hotbit], using MS XColour BASIC programming language.
-Later I switched to [Perl 5][perl], [C][c], [Python][python], at that time in
-the version 1.5, which became my main programming language. I’ve also developed
-professionaly in [Lua][lua], [Java][java], [C++][c++], [Cython][cython], and
-about 2016 [ECMAScript 2015 / Javascript][ecma6], [TypeScript][typescript], and
-[Go][go]. Currently I’m working in [Scala][scala].
+[TK85][]. I was 12 when started programming on a [MSX-1.1 Hotbit HB-8000][],
+using MS XColour BASIC programming language.
+Later I switched to [Perl 5][], [C][], [Python][], at that time in the version
+1.5, which became my main programming language. I’ve also developed
+professionaly in [Lua][], [Java][], [C++][], [Cython][], and about 2016
+[ECMAScript 2015 / Javascript][], [TypeScript][], and [Go][]. Currently I’m
+working in [Scala][].
 
 I’ve learned a lot of programming languages just for self-improvement, among
-them [Scheme][racket], [MoonScript][moonscript], [Erlang][erlang],
-[Prolog][swi], [Standard ML][sml], [OCaml][ocaml], [F♯][f#],
-[Smalltalk][cincom], [Objective-C][objc], [Tcl/Tk][tcl].
+them [Scheme][], [MoonScript][], [Erlang][], [Prolog][], [Standard ML][],
+[OCaml][], [F♯][], [Smalltalk][], [Objective-C][], [Tcl/Tk][].
 
 I went to FAETERJ BTech college, completing the course with 9.5 achievement, and
 was removed by political persecution. Later I was reintegrated, and I graduated
@@ -75,11 +73,11 @@ at the end of 2018.
 I worked as hodman, tent loader, even storyteller, network administrator, IT
 consultant and software developer.
 
-Due to my [Apraxia of Speech][cas], it’s easy to me learning new languages’
+Due to my [Apraxia of Speech][], it’s easy to me learning new languages’
 structure, but pronounciation and vocabulary are tough.
 
-My great-grandfather was called Gasppar Montini at [San Marino][sanmarino], but
-he changed his name to Monte Gasppa in Brazil, whence I take my **ℳontegasppα**,
+My great-grandfather was called Gasppar Montini at [San Marino][], but he
+changed his name to Monte Gasppa in Brazil, whence I take my **ℳontegasppα**,
 completing my public name. my great-grandmather’s name was Giulia Campimori,
 renamed to Julia Monte.
 

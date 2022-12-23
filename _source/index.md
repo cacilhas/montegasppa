@@ -2,23 +2,25 @@
 type: page
 date: 2020-09-30
 ---
-[original]: http://montegasppa.blogspot.com/2006/07/prlogo.html
+[July 2006]: http://montegasppa.blogspot.com/2006/07/prlogo.html
+[kodumaro]: {{{kodumaro.url}}}
+[legacy page]: /legacy.html
+[personal websile]: {{{site}}}
 
 {:class="mg-first"} Everytime I was talking to a friend blogger, he proposed me
-to write a blog. I’d never thought seriously until [July 2006][original], when I
-wrote the first **{{ blog.title }}** post.
+to write a blog. I’d never thought seriously until [July 2006][], when I wrote
+the first **{{ blog.title }}** post.
 
 
 That blog was about Computing, Free Software and programming, but eventually
 became a political blog, strongly because I have moved the programming’s
-responsability to <a href="{{{ kodumaro.url }}}">{{ kodumaro.title }}</a>.
+responsability to [{{ kodumaro.title }}][kodumaro].
 
 Later {{ title }} turned into my personal blog, where I throw up everything
 affects me, from religion to music, from Computing to Politics.
 
-It was reborn under my <a href="{{{ site }}}/">personal website</a>, slightly
-renamed, once I’ve changed “Monte Gasppa” to “ℳontegasppα,” but more and more
-my **personal** blog.
+It was reborn under my [personal website][], slightly renamed, once I’ve changed
+“Monte Gasppa” to “ℳontegasppα,” but more and more my **personal** blog.
 
 ### Posts
 
@@ -34,7 +36,7 @@ my **personal** blog.
 
 ### Previous posts
 
-You can find older posts in the [legacy page](/legacy.html).
+You can find older posts in the [legacy page][].
 
 <script>
   var urlParams = new URLSearchParams(window.location.search)

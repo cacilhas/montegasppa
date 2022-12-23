@@ -1,4 +1,4 @@
-![](//cacilhas.info/img/heaven-hell.jpg)
+![Heaven 𝑣𝑠 Hell](//cacilhas.info/img/heaven-hell.jpg)
 
 Everybody has an aware self, a superego, and an _id_, an inner shadow, our own monster.
 

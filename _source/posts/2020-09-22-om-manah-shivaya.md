@@ -6,7 +6,11 @@ tags: education-and-culture religion
 image: //cacilhas.info/img/shiva-back.jpg
 permalink: /2020/09/on-manah-shivaya.html
 ---
-{:class="text-center"} <img src="{{{ image }}}" alt="Oṁ Namah Shivaya!" />
+[2016-05-31]: https://montegasppa.cacilhas.info/2016/05/om-namah-shivaya.html
+[2012-07-01]: https://montegasppa.blogspot.com.br/2012/07/om-namah-shivaya.html
+[image]: {{{image}}}
 
-- {:class="small"} [2016-05-31](https://montegasppa.cacilhas.info/2016/05/om-namah-shivaya.html)
-- {:class="small"} [2012-07-01](https://montegasppa.blogspot.com.br/2012/07/om-namah-shivaya.html)
+{:class="text-center"} ![Oṁ Namah Shivaya!][image]
+
+- {:class="small"} [2016-05-31][]
+- {:class="small"} [2012-07-01][]

@@ -15,8 +15,6 @@
   },
   "homepage": "https://montegasppa.cacilhas.info/",
   "dependencies": {
-    "@types/node": "^14.11.2",
-    "@types/showdown": "^1.9.3",
     "coffeescript": "^2.5.1",
     "indented-filter": "^0.1.1",
     "js-yaml": "^3.14.0",
@@ -29,6 +27,15 @@
     "turndown": "^6.0.0"
   },
   "devDependencies": {
+    "@types/coffeescript": "^2.5.2",
+    "@types/js-yaml": "^4.0.5",
+    "@types/lodash": "^4.14.191",
+    "@types/mustache": "^4.2.2",
+    "@types/node": "^14.11.2",
+    "@types/rimraf": "^3.0.2",
+    "@types/showdown": "^1.9.3",
+    "@types/stylus": "^0.48.38",
+    "@types/turndown": "^5.0.1",
     "typescript": "^4.9.4"
   }
 }

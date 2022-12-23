@@ -1,4 +1,4 @@
-![](//cacilhas.info/img/hein.png)
+![Hein?](//cacilhas.info/img/hein.png)
 
 I’ve just read a very interesting article called [La Fabrique du crétin digital](https://www.seuil.com/ouvrage/la-fabrique-du-cretin-digital-michel-desmurget/9782021423310), and the logical and virtually factual conclusion is the screen exposure time has a magical effect on the neurological development.
 

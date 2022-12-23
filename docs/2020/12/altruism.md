@@ -1,4 +1,4 @@
-![thoughtful](//cacilhas.info/img/lamp.png)
+![Thoughtful](//cacilhas.info/img/lamp.png)
 
 People have contested whether the altruism is intrinsicly human or cultural, something learned; the idea is that the altruism diminishes the individual survival chances. However the natural evolution isn’t so shallow.
 

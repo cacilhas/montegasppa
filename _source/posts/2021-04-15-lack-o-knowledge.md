@@ -5,13 +5,14 @@ tags: career education-and-culture technology
 image: //cacilhas.info/img/hein.png
 permalink: /2021/04/lack-o-knownledge.html
 ---
-[adt]: http://foldoc.org/algebraic+data+type
-[dev.to]: https://dev.to/cacilhas/the-surprising-technicians-lack-o-knowledge-19ao
-[ted]: https://www.ted.com/
-[teded]: https://ed.ted.com/
-[tedx]: https://www.ted.com/about/programs-initiatives/tedx-program
+[image]: {{{image}}}
+[algebraic data types]: http://foldoc.org/algebraic+data+type
+[DEV.to]: https://dev.to/cacilhas/the-surprising-technicians-lack-o-knowledge-19ao
+[TED]: https://www.ted.com/
+[TEDEd]: https://ed.ted.com/
+[TEDx]: https://www.ted.com/about/programs-initiatives/tedx-program
 
-{:class="pull-right"} <img src="{{{ image }}}" alt="Hein?" />
+{:class="pull-right"} ![Hein?][image]
 
 {:class="mg-first"} I’ve been really astonished by an unexpected fact: Computer
 technicians are afraid of knowledge. 😱
@@ -22,9 +23,8 @@ to many technicians, if not to most of us.
 
 I brought to my team
 <abbr title="I’m looking for that paper now, but I can’t found it. 😞">a paper</abbr>
-about [algebraic data types][adt] that was relevant to a project we was
-designing. The team reactions were since unbelief and repudiation to pure
-**horror**.
+about [algebraic data types][] that was relevant to a project we was designing.
+The team reactions were since unbelief and repudiation to pure **horror**.
 
 And it was nothing but a trivial academic paper on Technology!!
 
@@ -54,8 +54,8 @@ I’m here **begging you** to get out of panelists and gurudons, and rather info
 yourselves from proper sources; use communities to share your experience, not
 in search of education.
 
-If you wanna watch some good tech videos, refer to academic ones, [TED][ted],
-[TEDEd][teded], and [TEDx][tedx], **not** stage developers and showman speakers.
+If you wanna watch some good tech videos, refer to academic ones, [TED][],
+[TEDEd][], and [TEDx][], **not** stage developers and showman speakers.
 
 Please…
 
@@ -66,4 +66,4 @@ Please…
 
 -----
 
-{:class="small"} Also in [DEV Community 👩‍💻👨‍💻][dev.to].
+{:class="small"} Also in [DEV.to][].
