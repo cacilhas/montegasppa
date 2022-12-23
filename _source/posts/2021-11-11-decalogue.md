@@ -5,9 +5,10 @@ tags: education-and-culture personal religion
 image: //cacilhas.info/img/heaven-hell.jpg
 permalink: /2021/11/decalogue.html
 ---
-[medium]: https://cacilhas.medium.com/the-modern-christian-decalogue-f98b42a83baf
+[image]: {{{image}}}
+[Medium]: https://cacilhas.medium.com/the-modern-christian-decalogue-f98b42a83baf
 
-{:class="pull-right"} <img alt="Heaven / Hell" src="{{{ image }}}" />
+{:class="pull-right"} ![Heaven 𝑣𝑠 Hell][image]
 
 {:class="mg-first"} The Ten Commandments:
 
@@ -29,4 +30,4 @@ permalink: /2021/11/decalogue.html
 
 -----
 
-{:class="small"} Also published on [Medium][medium].
+{:class="small"} Also published on [Medium][].

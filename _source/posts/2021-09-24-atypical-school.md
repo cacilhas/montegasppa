@@ -5,9 +5,10 @@ tags: education-and-culture personal politics
 image: //cacilhas.info/img/autistic.png
 permalink: /2021/09/atypical-school.html
 ---
-[medium]: https://cacilhas.medium.com/an-atypical-school-ddc429f3bb3f
+[image]: {{{image}}}
+[Medium]: https://cacilhas.medium.com/an-atypical-school-ddc429f3bb3f
 
-{:class="pull-right"} <img src="{{{ image }}}" alt="Atypical mind, typical world" />
+{:class="pull-right"} ![Atypical mind, typical world][image]
 
 {:class="mg-first"} I’m telling you a personal fresh case.
 
@@ -68,4 +69,4 @@ to make money and *be normal*.
 
 -----
 
-{:class="small"} Originally published in [Medium][medium].
+{:class="small"} Originally published in [Medium][].

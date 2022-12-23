@@ -5,9 +5,10 @@ tags: concept logical reblog
 image: //cacilhas.info/img/zeta.png
 permalink: /2020/05/complex-world.html
 ---
-[medium]: https://cacilhas.medium.com/a-complex-world-b22e18f2147f
+[image]: {{{image}}}
+[Medium]: https://cacilhas.medium.com/a-complex-world-b22e18f2147f
 
-{:class="pull-right"} <img src="{{{ image }}}" alt="ζ(½+yi)" />
+{:class="pull-right"} ![ζ(½+yi)][image]
 
 {:class="mg-first"} I’ve just seen a TV show named “Magic Number.” In the first
 episode, it tries to prove the Mathematics doesn’t exist itself, instead, it’s
@@ -64,4 +65,4 @@ it.
 
 -----
 
-{:class="small"} Originally published in [Medium][medium].
+{:class="small"} Originally published in [Medium][].

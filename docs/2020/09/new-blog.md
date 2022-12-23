@@ -1,4 +1,4 @@
-![](//cacilhas.info/img/lamp.png)
+![Lamp](//cacilhas.info/img/lamp.png)
 
 Sorry, I just get tired of my [old platform](//cacilhas.info/montegasppa/) and started over.
 

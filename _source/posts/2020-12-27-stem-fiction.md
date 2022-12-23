@@ -5,10 +5,11 @@ tags: movies personal
 image: //cacilhas.info/img/building.png
 permalink: /2020/12/stem-fiction.html
 ---
-[arthur-clarke]: http://lab.cccb.org/en/arthur-c-clarke-any-sufficiently-advanced-technology-is-indistinguishable-from-magic/
-[stem]: https://www.livescience.com/43296-what-is-stem-education.html
+[image]: {{{image}}} =200x127
+[Any sufficiently advanced technology is indistinguishable from magic.]: http://lab.cccb.org/en/arthur-c-clarke-any-sufficiently-advanced-technology-is-indistinguishable-from-magic/
+[STEM]: https://www.livescience.com/43296-what-is-stem-education.html
 
-{:class="pull-right"} <img style="width: 200px; height: 127px;" src="{{{ image }}}" alt="buildings" />
+{:class="pull-right"} ![buildings][image]
 
 {:class="mg-first"} I’m a Marvel movies’ fan; in fact, I’m a Disney movies’ fan.
 
@@ -26,7 +27,7 @@ doesn’t it?
 
 But those adventure movies takes use of a very lazy approach:
 
-> [Any sufficiently advanced technology is indistinguishable from magic.][arthur-clarke]
+> [Any sufficiently advanced technology is indistinguishable from magic.][]
 
 So there’s not even a minimal effort to provide a narrowed explanation, the
 fictional technology is just dropped in the movie like magic.
@@ -36,7 +37,7 @@ as *scientific* fiction.
 
 I think (again enphasis on “I”) there should be a new move class called
 “technological fiction” (“tech-fi” for short), where the science behind the tech
-is not relevant; or we could take off the “Science” and the “Math” from
-[STEM][stem] and create a “TEM fiction” – Technology, Engineering, and Magic.
+is not relevant; or we could take off the “Science” and the “Math” from [STEM][]
+and create a “TEM fiction” – Technology, Engineering, and Magic.
 
 Think about it.

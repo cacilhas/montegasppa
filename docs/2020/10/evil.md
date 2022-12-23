@@ -1,4 +1,4 @@
-![](//cacilhas.info/img/heaven-hell.jpg)
+![Heaven 𝑣𝑠 Hell](//cacilhas.info/img/heaven-hell.jpg)
 
 One can pass through life unaware of the evil, but not untouched by it.
 

@@ -1,4 +1,4 @@
-![Heaven / Hell](//cacilhas.info/img/heaven-hell.jpg)
+![Heaven 𝑣𝑠 Hell](//cacilhas.info/img/heaven-hell.jpg)
 
 The Ten Commandments:
 
