@@ -1,7 +1,7 @@
 (function() {
   (function() {
     var i, n, newMathJax, oldMathJax, replaceScript, results, script, scripts, src;
-    newMathJax = 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js';
+    newMathJax = '//montegasppa.cacilhas.info/js/mathjax.js';
     oldMathJax = 'cdn.mathjax.org/mathjax/latest/MathJax.js';
     replaceScript = function(script, src) {
       var newScript;
