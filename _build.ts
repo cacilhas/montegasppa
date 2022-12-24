@@ -30,6 +30,13 @@ const postsLimit = 5;
 const tags: Tags = {'': []};
 const today = moment();
 
+function mkAttrs(obj: {[key: string]: any}): string {
+  let res = '';
+  for (const [key, value] of _.toPairs(obj))
+    res += ` ${key}=${JSON.stringify(value)}`
+  return res.trim();
+}
+
 showdown.setFlavor('github');
 showdown.extension('ClassExtension', {
   type: 'output',
@@ -49,6 +56,10 @@ showdown.extension('ExternalLinksExtension', {
         return `<a href="${href}" target="_blank">`;
       return substr;
     }),
+});
+showdown.extension('AbbrExtension', {
+  type: 'lang',
+  filter: createIndentedFilter('^^abbr', (str, attrs) => `<abbr ${mkAttrs(attrs)}>${str.trim()}</abbr>`),
 });
 showdown.extension('IExtension', {
   type: 'lang',
@@ -92,6 +103,7 @@ showdown.extension('TableExtension', {
 
 function buildMdConverter(): Converter {
   const converter = new Converter({extensions: [
+    'AbbrExtension',
     'BrExtension',
     'ClassExtension',
     'ExternalLinksExtension',

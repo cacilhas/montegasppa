@@ -22,7 +22,7 @@ anyone, ’cause the behaviour I’m describing isn’t an isolated case, but co
 to many technicians, if not to most of us.
 
 I brought to my team
-<abbr title="I’m looking for that paper now, but I can’t found it. 😞">a paper</abbr>
+^^abbr(title="I’m looking for that paper now, but I can’t found it. 😞") a paper
 about [algebraic data types][] that was relevant to a project we was designing.
 The team reactions were since unbelief and repudiation to pure **horror**.
 
