@@ -9,9 +9,9 @@ permalink: /2020/12/stem-fiction.html
 [Any sufficiently advanced technology is indistinguishable from magic.]: http://lab.cccb.org/en/arthur-c-clarke-any-sufficiently-advanced-technology-is-indistinguishable-from-magic/
 [STEM]: https://www.livescience.com/43296-what-is-stem-education.html
 
-{:class="pull-right"} ![buildings][image]
+:right ![buildings][image]
 
-{:class="mg-first"} I’m a Marvel movies’ fan; in fact, I’m a Disney movies’ fan.
+:first I’m a Marvel movies’ fan; in fact, I’m a Disney movies’ fan.
 
 Of cource I have my complaints. For instance, I’m very bothered by the Disney’s
 sanitised æsthetics and its resultless violence.

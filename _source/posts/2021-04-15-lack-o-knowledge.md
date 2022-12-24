@@ -12,10 +12,10 @@ permalink: /2021/04/lack-o-knownledge.html
 [TEDEd]: https://ed.ted.com/
 [TEDx]: https://www.ted.com/about/programs-initiatives/tedx-program
 
-{:class="pull-right"} ![Hein?][image]
+:right ![Hein?][image]
 
-{:class="mg-first"} I’ve been really astonished by an unexpected fact: Computer
-technicians are afraid of knowledge. 😱
+:first I’ve been really astonished by an unexpected fact: Computer technicians
+are afraid of knowledge. 😱
 
 I’m telling you something happened with my team with no fear of diminishing
 anyone, ’cause the behaviour I’m describing isn’t an isolated case, but common
@@ -66,4 +66,4 @@ Please…
 
 -----
 
-{:class="small"} Also in [DEV.to][].
+:small Also in [DEV.to][].

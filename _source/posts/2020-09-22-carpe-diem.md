@@ -9,10 +9,10 @@ permalink: /2020/09/carpe-diem.html
 [image]: {{{image}}}
 [Just be here now]: https://www.youtube.com/watch?v=0kQWAqjFJS0
 
-{:class="pull-right"} ![Lamp][image]
+:right ![Lamp][image]
 
-{:class="mg-first"} In most job interviews, the interviewer ask to the
-interviewee: “Where do you see yourself in five years?”
+:first In most job interviews, the interviewer ask to the interviewee:
+“Where do you see yourself in five years?”
 
 Really? I cannot even tell if I’ll be alive in five years!
 

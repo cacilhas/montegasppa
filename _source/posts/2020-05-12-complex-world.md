@@ -8,11 +8,11 @@ permalink: /2020/05/complex-world.html
 [image]: {{{image}}}
 [Medium]: https://cacilhas.medium.com/a-complex-world-b22e18f2147f
 
-{:class="pull-right"} ![ζ(½+yi)][image]
+:right ![ζ(½+yi)][image]
 
-{:class="mg-first"} I’ve just seen a TV show named “Magic Number.” In the first
-episode, it tries to prove the Mathematics doesn’t exist itself, instead, it’s
-just a human mind’s creation.
+:first I’ve just seen a TV show named “Magic Number.” In the first episode, it
+tries to prove the Mathematics doesn’t exist itself, instead, it’s just a human
+mind’s creation.
 
 The TV show presents as defence the complex numbers: the 𝑖 (𝑖² = -1, sometimes
 𝑗) doesn’t exist in nature, so it just could be a human’s creation.
@@ -65,4 +65,4 @@ it.
 
 -----
 
-{:class="small"} Originally published in [Medium][].
+:small Originally published in [Medium][].

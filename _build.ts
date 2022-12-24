@@ -57,6 +57,33 @@ showdown.extension('ExternalLinksExtension', {
       return substr;
     }),
 });
+showdown.extension('FloatleftExtension', {
+  type: 'output',
+  regex: /<p>:left\b/g,
+  replace: '<p class="pull-left">',
+});
+showdown.extension('FloatRightExtension', {
+  type: 'output',
+  regex: /<p>:right\b/g,
+  replace: '<p class="pull-right">',
+});
+showdown.extension('CentreExtension', {
+  type: 'output',
+  regex: /<p>:centre\b/g,
+  replace: '<p class="text-center">',
+});
+showdown.extension('FirstParagraphExtension', {
+  type: 'output',
+  regex: /<p>:first\b/g,
+  replace: '<p class="mg-first">',
+});
+showdown.extension('SmallParagraphExtension', {
+  type: 'output',
+  regex: /<p>:small\b/g,
+  replace: '<p class="small">',
+});
+
+// Slangs
 showdown.extension('AbbrExtension', {
   type: 'lang',
   filter: createIndentedFilter('^^abbr', (str, attrs) => `<abbr ${mkAttrs(attrs)}>${str.trim()}</abbr>`),
@@ -105,11 +132,16 @@ function buildMdConverter(): Converter {
   const converter = new Converter({extensions: [
     'AbbrExtension',
     'BrExtension',
+    'CentreExtension',
     'ClassExtension',
     'ExternalLinksExtension',
+    'FirstParagraphExtension',
+    'FloatLeftExtension',
+    'FloatRightExtension',
     'IExtension',
     'ImgExtension',
     'PreExtension',
+    'SmallParagraphExtension',
     'TableExtension',
     'YoutubeExtension',
   ]});

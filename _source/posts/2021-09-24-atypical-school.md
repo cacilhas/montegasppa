@@ -8,9 +8,9 @@ permalink: /2021/09/atypical-school.html
 [image]: {{{image}}}
 [Medium]: https://cacilhas.medium.com/an-atypical-school-ddc429f3bb3f
 
-{:class="pull-right"} ![Atypical mind, typical world][image]
+:right ![Atypical mind, typical world][image]
 
-{:class="mg-first"} I’m telling you a personal fresh case.
+:first I’m telling you a personal fresh case.
 
 This week I and my wife were looking at the school camera images, and we saw a
 teacher grabbing our son’s arm fiercely.

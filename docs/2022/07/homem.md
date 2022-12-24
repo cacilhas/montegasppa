@@ -2,7 +2,7 @@
 
 *   [English version](#brazilian-national-men’s-day)
 
-Geralmente escrevo em inglês, não para favorecer o público angófono nativo, mas para atingir um público maior do que apenas o lusófono.
+Geralmente escrevo em inglês, não para favorecer o público anglófono nativo, mas para atingir um público maior do que apenas o lusófono.
 
 Porém este artigo tem como público alvo os brasileiros, então faz sentido escrever em português.
 

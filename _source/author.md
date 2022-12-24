@@ -34,18 +34,18 @@ date: 2020-09-30
 
 ![{{ author.name }}](//cacilhas.info/img/cacilhas-150x113.jpg){:class="pull-right"}
 
-{:class="text-center"}
-    ^^i{:class="glyphicon glyphicon-hand-right"}
-    &nbsp;&nbsp;**{{ author.name }}**, {{ description }}&nbsp;&nbsp;
-    ^^i{:class="glyphicon glyphicon-hand-left"}
+:centre
+  ^^i{:class="glyphicon glyphicon-hand-right"}
+  &nbsp;&nbsp;**{{ author.name }}**, {{ description }}&nbsp;&nbsp;
+  ^^i{:class="glyphicon glyphicon-hand-left"}
 <br />
 
-{:class="mg-first"} I was born **Rodrigo M. Cacilhas** at Petrópolis/RJ, Brazil,
-at 1975’s end, I got the nickname [Archimedes][] when I was 10, for math
-sciences are usually easy to me – and for bullying too, since some fellow
-students wanted to make fun of the gold crown incident. Later, I changed the
-spelling to **Arĥimedeς** when I became [esperantist][] (the final greek sigma
-has nothing to do with the Esperanto).
+:first I was born **Rodrigo M. Cacilhas** at Petrópolis/RJ, Brazil, at 1975’s
+end, I got the nickname [Archimedes][] when I was 10, for math sciences are
+usually easy to me – and for bullying too, since some fellow students wanted
+to make fun of the gold crown incident. Later, I changed the spelling to
+**Arĥimedeς** when I became [esperantist][] (the final greek sigma has nothing
+to do with the Esperanto).
 
 I’m autistic, high gifted and musician, I was learning music from an early age
 from my mother, who had been singer. I can play a lot of musical instruments –

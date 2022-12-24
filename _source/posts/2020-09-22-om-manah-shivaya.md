@@ -10,7 +10,7 @@ permalink: /2020/09/on-manah-shivaya.html
 [2012-07-01]: https://montegasppa.blogspot.com.br/2012/07/om-namah-shivaya.html
 [image]: {{{image}}}
 
-{:class="text-center"} ![Oṁ Namah Shivaya!][image]
+:centre ![Oṁ Namah Shivaya!][image]
 
 - {:class="small"} [2016-05-31][]
 - {:class="small"} [2012-07-01][]

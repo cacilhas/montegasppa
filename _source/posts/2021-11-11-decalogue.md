@@ -8,9 +8,9 @@ permalink: /2021/11/decalogue.html
 [image]: {{{image}}}
 [Medium]: https://cacilhas.medium.com/the-modern-christian-decalogue-f98b42a83baf
 
-{:class="pull-right"} ![Heaven 𝑣𝑠 Hell][image]
+:right ![Heaven 𝑣𝑠 Hell][image]
 
-{:class="mg-first"} The Ten Commandments:
+:first The Ten Commandments:
 
 1. I am the Void thou may use to justify any crime; thou shalt not listen to
    facts or science.
@@ -30,4 +30,4 @@ permalink: /2021/11/decalogue.html
 
 -----
 
-{:class="small"} Also published on [Medium][].
+:small Also published on [Medium][].

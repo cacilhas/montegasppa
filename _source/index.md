@@ -7,9 +7,9 @@ date: 2020-09-30
 [legacy page]: /legacy.html
 [personal websile]: {{{site}}}
 
-{:class="mg-first"} Everytime I was talking to a friend blogger, he proposed me
-to write a blog. I’d never thought seriously until [July 2006][], when I wrote
-the first **{{ blog.title }}** post.
+:first Everytime I was talking to a friend blogger, he proposed me to write a
+blog. I’d never thought seriously until [July 2006][], when I wrote the first
+**{{ blog.title }}** post.
 
 
 That blog was about Computing, Free Software and programming, but eventually

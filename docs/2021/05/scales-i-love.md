@@ -31,7 +31,7 @@ The subtonic contrasts powerfully with the tritone, creating two interesting pas
 
 ### Mixolydian Bebop
 
-![Mixolydian](//cacilhas.info/img/loved-scales/mixolydian.png)
+![Mixolidian](//cacilhas.info/img/loved-scales/mixolydian.png)
 
 This is a variant from the Ionian mode – basically it‘s the Ionian with added subtonic degree.
 

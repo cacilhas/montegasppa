@@ -8,10 +8,10 @@ permalink: /2021/04/small-natural.html
 [image]: {{{image}}}
 [Medium]: https://cacilhas.medium.com/the-beauty-of-small-natural-numbers-3732f1571fdd
 
-{:class="pull-right"} ![Glider][image]
+:right ![Glider][image]
 
-{:class="mg-first"} There’s something beautiful about small natural numbers,
-mainly about their relation to the human psyché.
+:first There’s something beautiful about small natural numbers, mainly about
+their relation to the human psyché.
 
 I’m taking zero out, ’cause, even some says zero is natural, natural numbers are
 countable; I challenge you to count zero.
@@ -65,4 +65,4 @@ Have you gotten any interesting natural number fact?
 
 -----
 
-{:class="small"} Also in [Medium][].
+:small Also in [Medium][].
