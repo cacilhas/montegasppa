@@ -10,7 +10,7 @@ Now I’m showing my plea why Mathematics really exists, and at end I’m gonna 
 
 Let’s consider this: we got a rock – just a rock. Now we got another rock. How many rocks is there?
 
-No way there’s other than two rocks. Well… you could break a rock. `¯\_㋡_/¯`
+No way there’s other than two rocks. Well… you could break a rock. 🤷
 
 Change rocks by protons.
 

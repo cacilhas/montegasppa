@@ -92,6 +92,10 @@ showdown.extension('IExtension', {
   type: 'lang',
   filter: createIndentedFilter('^^i', str => `<i>${str.trim()}</i>`),
 });
+showdown.extension('MathExtension', {
+  type: 'lang',
+  filter: createIndentedFilter('^^math', str => `\$\$\$\$${str.trim()}\$\$\$\$`),
+});
 showdown.extension('YoutubeExtension', {
   type: 'lang',
   filter: createIndentedFilter('^^youtube', str => {
@@ -140,6 +144,7 @@ function buildMdConverter(): Converter {
     'FloatRightExtension',
     'IExtension',
     'ImgExtension',
+    'MathExtension',
     'PreExtension',
     'SmallParagraphExtension',
     'TableExtension',

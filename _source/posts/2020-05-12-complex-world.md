@@ -26,7 +26,7 @@ Let’s consider this: we got a rock – just a rock. Now we got another rock. H
 many rocks is there?
 
 
-No way there’s other than two rocks. Well… you could break a rock. `¯\_㋡_/¯`
+No way there’s other than two rocks. Well… you could break a rock. 🤷
 
 Change rocks by protons.
 
