@@ -49,7 +49,7 @@ author: &author
     mastodon:
       name: Mastodon
       title: Mastodon
-      url: https://stranger.social/@cacilhas
+      url: https://mas.to/@cacilhas
       image:
         source: //cacilhas.info/img/mastodon.png
         style:
