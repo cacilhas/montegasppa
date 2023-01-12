@@ -1,21 +1,21 @@
-![Iwa](//cacilhas.info/img/iwa.png)
+![Nazism in Brazil](//cacilhas.info/img/brazinazi.jpg)
 
-Yesterday we were at a parent meeting from my son’s previous school. (Actually, I was the only “father,” there were only mothers beside me.)
+Brazil’s democracy is under attack. A large **fascist** group is performing coordinated **terrorist attacks**, asking for the end of Democracy – literally. Those people are united by a wide range of different kinds of hate.
 
-The aftermath of that meeting was that we found we no longer fit that group, perhaps we never did.
+Some don’t want poor people to have enough to eat.
 
-Those people think the solution to hunger is selling bones and whey to poor humble people. They also said that the problem with the world today is that the bad news comes to us – they don’t care whether bad things happen to others, they just want not to know.
+Others are angry with African-origin religions.
 
-And my wife and I were listening to those abominable ideas.
+There are those who hate black people and those who want gays dead.
 
-But the icing on the cake was when another kid simply punched my son in the face! Everyone came in defence of… the kid who punched!
+Every single one is under the anti-Communism excuse umbrella, even if most of them have no idea about what Communism is though.
 
-The kid’s mother told him that my son is “different,” so he couldn’t act like my son is “normal.”
+So when a group broke through into the Congress hall, the most violent ones started destroying everything they found, and then everyone else was following, compelled by the shared hatred and the crowd.
 
-In other words, according to those people, violent behaviour is not an issue; the issue is my son’s Autism.
+The (non-self-aware) fascists who weren’t there are saying they would never take part in that acts, but they aren’t considering they themselves are also reined by the same **hatred**.
 
-I don’t know what to do but keep us away and never go back there.
+That’s what’s going on in Brazil: undemocratic **HATE** against fairness.
 
 * * *
 
-Also published on [Medium](https://cacilhas.medium.com/we-dont-fit-9edf7584c29b).
+Also published on [Medium](https://cacilhas.medium.com/hate-and-nazis-in-brazil-b1ecd4c6c07c).
