@@ -1,4 +1,4 @@
-![Thoughtful](//cacilhas.info/img/alien.png)
+![Alien](//cacilhas.info/img/alien.png)
 
 ### The Dance of the Eternal Skies: a Mystery of Xalax Unfolded
 
@@ -162,7 +162,7 @@ And in Xalax’s skies, the purple and green thrive.
 
 * * *
 
-A tale by [ChatGPT](https://chat.openai.com/chat/).
+A tale by [ChatGPT](https://chat.openai.com/chat/). Read the [epilogue](/2023/02/xalax-epilogue.html).
 
 * * *
 
