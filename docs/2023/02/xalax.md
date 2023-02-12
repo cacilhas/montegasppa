@@ -163,3 +163,7 @@ And in Xalax’s skies, the purple and green thrive.
 * * *
 
 A tale by [ChatGPT](https://chat.openai.com/chat/).
+
+* * *
+
+Also published on [Medium](https://cacilhas.medium.com/the-dance-of-the-eternal-skies-4b5e567263ac).
