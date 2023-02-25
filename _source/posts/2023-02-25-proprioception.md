@@ -13,7 +13,7 @@ permalink: /2023/02/proprioception.html
 :first As an Autist, I’m got some issues with my proprioception. A very common
 situation is when I break my toes.
 
-Tomorrow I was in a carrier facility where there is a gap in the floor hard to
+Yesterday I was in a carrier facility where there is a gap in the floor hard to
 notice.
 
 So I stumbled it and fell to the floor, breaking my big toe and luxanting my
