@@ -1,4 +1,4 @@
-![Alien](//cacilhas.info/img/autistic.png)
+![Autistic mind](//cacilhas.info/img/autistic.png)
 
 As an Autist, I’m got some issues with my proprioception. A very common situation is when I break my toes.
 
@@ -17,3 +17,7 @@ Again, it took me a while to find out that it was a short stair step. So I crawl
 Meanwhile, people were worried, looking for a way to help, while I was trying to explain I was fine, I was just trying to figure out where I was.
 
 How to explain such an issue to someone who ain’t go through it?
+
+* * *
+
+Also published on [Medium](https://cacilhas.medium.com/proprioception-issues-a1a8695f9ecc).
