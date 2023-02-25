@@ -4,7 +4,7 @@ As an Autist, I’m got some issues with my proprioception. A very common situat
 
 Yesterday I was in a carrier facility where there is a gap in the floor hard to notice.
 
-So I stumbled it and fell to the floor, breaking my big toe and luxanting my knee.
+So I stumbled it and fell to the floor, breaking my big toe and luxating my knee.
 
 That’s not a big deal, but there was another issue that makes people confused.
 
