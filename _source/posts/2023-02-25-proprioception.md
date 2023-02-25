@@ -1,5 +1,5 @@
 ---
-title: Porprioception issues
+title: Proprioception issues
 date: 2023-02-23
 tags: autism health personal psychology
 image: //cacilhas.info/img/autistic.png
