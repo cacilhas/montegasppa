@@ -5,7 +5,7 @@ date: 2020-09-30
 [July 2006]: http://montegasppa.blogspot.com/2006/07/prlogo.html
 [kodumaro]: {{{kodumaro.url}}}
 [legacy page]: /legacy.html
-[personal websile]: {{{site}}}
+[personal website]: {{{site}}}
 
 :first Everytime I was talking to a friend blogger, he proposed me to write a
 blog. I’d never thought seriously until [July 2006][], when I wrote the first
