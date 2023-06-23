@@ -1,12 +1,12 @@
 ![Spotify](//cacilhas.info/img/spotify.png)
 
-Actually I don’t wanna talk exactly about [Spotify](https://open.spotify.com/), but more precisely about [DistroKid](https://distrokid.com/).
+Actually I don’t wanna talk exactly about [Spotify](https://open.spotify.com/), but more precisely about **[DistroKid](https://distrokid.com/)**.
 
 There is this distributor that intermediates sharing music with Spotify and other music shops. DistroKids apparently does a lotta cools things for you: it register your songs, create your albums and publish ’em into several stream services such as Spotify, iTunes, and Amazon.
 
 Hence I decided to publish my albums by using DistroKid. So I created an account, uploaded my songs, and published my albums.
 
-That did until my third album, so I start having problems.
+That did for a while, until my third album, so I start having problems.
 
 DistroKid refused to publish my third album claiming copyright issues.
 
@@ -16,7 +16,7 @@ I asked DistroKid what was the illegal record, but they was refusing to tell me 
 
 After a long while trying to figure that out, they finally gave me a tip: I was re-releasing songs that I had already released in other album.
 
-So I finally got aware: all those songs I had **payed** for registration, DistroKid had registered for itself, not in my name!! I no longer own my own songs, DistroKid had **stollen** them from me.
+So I got aware: all those songs I had **payed** for registration, DistroKid had registered for itself, not in my name!! I no longer own my own songs, DistroKid had **stollen** them from me.
 
 Well… I should’ve pay attention to the small characters…
 
@@ -25,3 +25,9 @@ Thenceforth I stopped using DistroKid and quit publishing to Spotify.
 Even so DistroKid still keeps threating me.
 
 So here’s the warning: **don’t trust DistroKid**.
+
+BTW you can find all my albums on [Bandcamp](https://montegasppa.bandcamp.com/).
+
+* * *
+
+Also published on [Medium](https://cacilhas.medium.com/3183dbd34d72).
