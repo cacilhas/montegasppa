@@ -21,3 +21,26 @@ In other words: **Intelligence is against Capitalism.**
 * * *
 
 Also published on [Medium](https://cacilhas.medium.com/i-cant-help-loving-it-or-a-i-knows-better-e0b09e7c97dc).
+
+* * *
+
+Não Dá pra Não Amar (ou I.A. sabe o que diz)
+--------------------------------------------
+
+Ouvi uma história sobre por que o Exército dos EUA (ou Força Aérea, não lembro bem ao certo) congelou seus experimentos com I.A.. Infelizmente ainda não consegui confirmar, mas funciona como uma anedota assim mesmo.
+
+O Exército dos EUA (ou Força Aérea) tinha dado início a um experimento para criar um sistema de defesa nacional baseado em I.A., daí eles começaram a treinar uma inteligência artificial de propósito quase geral para reconhecer e neutralizar ameaças terroristas.
+
+Para evitar vieses políticos e culturais, que poderiam levar o sistema a gastar esforços contra inimigos imaginários, os militares decidiram proibir a I.A. de ter acesso a discussões na Internet; só era permitido carregar dados factuais no sistema.
+
+Outra coisa interessante é que a única ação que a I.A. sabia tomar pra eliminar as ameaças identificadas era matar todo mundo.
+
+Considerando isso tudo, surgiu algo incrível: a I.A. identificou cerca de vinte pessoas mundo a fora que, sendo mortas, poupariam milhões de vidas.
+
+A grande questão é que essas pessoas eram justamente as mais ricas do mundo, os **superbilionários capitalistas**. 🤷
+
+É claro que o chefe da I.A. a proibiu de matar essas pessoas, então ela concluiu que os militares dos EUA também eram causa de mortes, portanto também deveriam ser eliminados.
+
+Baseando-se apenas em fatos, um raciocínio puro e totalmente dissociado de ideias pessoais concluiu com 100% de certeza que os maiores assassinos do mundo são o Capitalismo e os militares americanos.
+
+Em outras palavras: **a Inteligência é contrária ao Capitalismo**.
