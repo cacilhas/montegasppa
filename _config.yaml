@@ -1,5 +1,5 @@
 author: &author
-  name: Arĥimedeς Montegasppα Cacilhας
+  name: Montegasppα Cacilhας
   email: montegasppa@cacilhas.info
   url: //montegasppa.cacilhas.info/author.html
   contacts:
@@ -11,24 +11,6 @@ author: &author
       name: Itch.io
       title: Itch.io
       url: https://cacilhas.itch.io/
-    twitter:
-      name: Twitter
-      title: Arĥimedeς ℳontegasppα
-      url: https://twitter.com/Montegasppa
-      image:
-        source: //cacilhas.info/img/twitter.png
-        style:
-          width: 24px
-          height: 24px
-    patreon:
-      name: Patreon
-      title: ℳontegasppα
-      url: https://www.patreon.com/cacilhas
-      image:
-        source: //cacilhas.info/img/patreon.png
-        style:
-          width: 24px
-          height: 24px
     bandcamp:
       name: Bandcamp
       title: Le Obscur Essenteς
