@@ -4,7 +4,7 @@
   "description": "",
   "main": "docs/index.html",
   "scripts": {
-    "build": "yarn clean && tsc -p . && node _build.js",
+    "build": "tsc -p . && node _build.js; yarn clean",
     "clean": "rm -f _build.js",
     "mrproper": "yarn clean && rm -rf docs",
     "start": "yarn build && python3 -mhttp.server 8000 --directory docs"
