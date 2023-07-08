@@ -4,9 +4,10 @@
   "description": "",
   "main": "docs/index.html",
   "scripts": {
-    "build": "rm -f _build.js && tsc -p . && node _build.js",
-    "start": "npm run build && python3 -mhttp.server 8000 --directory docs",
-    "test": "npm start"
+    "build": "yarn clean && tsc -p . && node _build.js",
+    "clean": "rm -f _build.js",
+    "mrproper": "yarn clean && rm -rf docs",
+    "start": "yarn build && python3 -mhttp.server 8000 --directory docs"
   },
   "author": "Arĥimedeς Montegasppα Cacilhας",
   "license": "ISC",
@@ -36,6 +37,7 @@
     "@types/showdown": "^1.9.3",
     "@types/stylus": "^0.48.38",
     "@types/turndown": "^5.0.1",
-    "typescript": "^4.9.4"
+    "typescript": "^4.9.4",
+    "yarn": "^1.22.19"
   }
 }
