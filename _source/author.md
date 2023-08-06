@@ -32,7 +32,7 @@ date: 2020-09-30
 [TypeScript]: https://www.typescriptlang.org/
 [UFRJ’s Chemistry Institute]: https://www.iq.ufrj.br/
 
-![{{ author.name }}](//cacilhas.info/img/cacilhas-150x113.jpg){:class="pull-right"}
+![{{ author.name }}](//cacilhas.info/img/hub-lounge.jpg =150x112){:class="pull-right"}
 
 :centre
   ^^i{:class="glyphicon glyphicon-hand-right"}
