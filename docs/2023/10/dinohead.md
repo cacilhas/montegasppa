@@ -24,7 +24,7 @@ Yes, I know… disgraceful. However coherent with who I was, my breeding and who
 
 I had to go through a lot and radically change my worldview іn order to begin to become aware of those songs’ context, to see the album as a whole, and to understand it within the Titãs’ larger work. To capture the subtlety of metaphors and sarcasm, pain and background hiding between the lyrics lines.
 
-Well… at least my son got enlightened parents who to turn to when he has questions like mine.
+Well… at least my son is gonna get enlightened parents who to turn to when he has questions like mine.
 
 * * *
 
