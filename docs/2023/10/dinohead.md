@@ -16,7 +16,7 @@ At that time, I wasn’t smart enough to understand it. I used to hang with rock
 
 There were some good minds in the mix, just not me… I was only another hardliner, a sort of [Paulo Kogos](https://en.wikipedia.org/wiki/Paulo_Kogos): fascinated by Templar warriors (I wanted to be one of them) and I used to believe Hitler was just a misunderstood revolutionary. Life had to hit me hard to turn me into a human being – and how hard it did!
 
-Listening to Titãs, I was that military dictatorship sensor guy who went down in Brazil’s History for not being smart enough to understand [Raul Seixas](https://music.youtube.com/channel/UCF_ZemMVw8G6Kko3IeNtDCw) – fortunately for Raul.
+Listening to Titãs, I was that military dictatorship sensor guy who went down in Brazil’s History for not being smart enough to understand [Raul Seixas](https://music.youtube.com/channel/UCF_ZemMVw8G6Kko3IeNtDCw) – lucky Raul!
 
 When I as listening to [_Porrada_](https://youtu.be/35dCbu5lzFs) (_Assault_), I took it as they were telling us to beat _bums_ up; I listened to [_Polícia_](https://youtu.be/YjSsfbaQvAs) (_Plod_) and I thought they was defending we need more policing. 🤦
 
