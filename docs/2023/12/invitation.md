@@ -81,3 +81,7 @@ Você precisa acessar [Join Mastodon](https://joinmastodon.org/) e procurar um s
 Você ainda poder baixar e instalar um _app_ Mastodon pra _desktop_, mas pode acessar via navegador se preferir. Há _apps_ pra celular também.
 
 Imploro a você que não se limite apenas às mídias sociais da moda! Divirja!
+
+* * *
+
+Also published on [Medium](https://cacilhas.medium.com/manifest-against-big-techs-and-an-invitation-582676ba9422).

@@ -10,6 +10,7 @@ permalink: /2023/12/invitation.html
 [Instagram]: https://www.instagram.com/
 [Join Mastodon]: https://joinmastodon.org/
 [Mastodon]: https://mastodon.social/
+[Medium]: https://cacilhas.medium.com/manifest-against-big-techs-and-an-invitation-582676ba9422
 [Meta]: https://www.meta.com/
 [Twitter]: https://twitter.com/
 [WhatsApp]: https://www.whatsapp.com/
@@ -131,3 +132,7 @@ Você ainda poder baixar e instalar um *app* Mastodon pra *desktop*, mas pode
 acessar via navegador se preferir. Há *apps* pra celular também.
 
 Imploro a você que não se limite apenas às mídias sociais da moda! Divirja!
+
+-----
+
+:small Also published on [Medium][].
