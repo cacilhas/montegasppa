@@ -6,10 +6,13 @@ image: //cacilhas.info/img/autistic.png
 permalink: /2024/19/diagnostic-criteria.html
 ---
 [DSM-5]: https://www.cdc.gov/ncbddd/autism/hcp-dsm.html
+[image]: {{image}} =200x199
 [Medium]: https://cacilhas.medium.com/dsm-5-autism-diagnostic-criteria-f49fd732f744
 
-For those who say that everybody is a little bit Autistic, here are the [DSM-5][]
-Autistic diagnostic criteria:
+:right ![Autism][image]
+
+:first For those who say that everybody is a little bit Autistic, here are the
+[DSM-5][] Autistic diagnostic criteria:
 
 - **[A1]** Deficits in social-emotional reciprocity, ranging, from abnormal
   social approach and failure of normal back-and-forth conversation, to reduced
