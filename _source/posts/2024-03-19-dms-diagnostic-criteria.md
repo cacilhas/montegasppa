@@ -6,6 +6,7 @@ image: //cacilhas.info/img/autistic.png
 permalink: /2024/19/diagnostic-criteria.html
 ---
 [DSM-5]: https://www.cdc.gov/ncbddd/autism/hcp-dsm.html
+[Medium]: https://cacilhas.medium.com/dsm-5-autism-diagnostic-criteria-f49fd732f744
 
 For those who say that everybody is a little bit Autistic, here are the [DSM-5][]
 Autistic diagnostic criteria:
@@ -39,3 +40,7 @@ Autistic diagnostic criteria:
   smelling or touching of objects, visual fascination with lights or movement.
 
   Have you, that’s “everybody-little-bit-Autistic,” scored how many checks?
+
+-----
+
+:small Also available on [Medium][].

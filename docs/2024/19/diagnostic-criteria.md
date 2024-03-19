@@ -15,3 +15,8 @@ For those who say that everybody is a little bit Autistic, here are the [DSM-5](
 *   **\[B4\]** Hyper- or hyporeactivity to sensory input or unusual interest in sensory aspects of the environment – e.g. apparent indifference to pain/temperature, adverse response to specific sounds or textures, excessive smelling or touching of objects, visual fascination with lights or movement.
     
     Have you, that’s “everybody-little-bit-Autistic,” scored how many checks?
+    
+
+* * *
+
+Also available on [Medium](https://cacilhas.medium.com/dsm-5-autism-diagnostic-criteria-f49fd732f744).
