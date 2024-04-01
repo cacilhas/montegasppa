@@ -9,7 +9,7 @@ permalink: /2024/04/knowing-math.html
 [Dev.to]: https://dev.to/cacilhas/knowing-mathematics-53ol
 [Dunning-Kruger effect]: https://www.abebooks.com/9786130693619/DunningKruger-Effect-6130693613/plp
 [eᶿⁱ = cosθ + i sinθ]: //cacilhas.info/img/math/euler.svg
-[General Relativity]: //cacilhas.info/img/math/general-relativity.svg =114x24
+[General Relativity]: //cacilhas.info/img/math/general-relativity.svg =192x24
 [image]: {{image}}
 [sinπ = 0]: //cacilhas.info/img/math/sinpi.svg
 [w2e2+eipi]: //cacilhas.info/img/math/w2e2+eipi.svg
