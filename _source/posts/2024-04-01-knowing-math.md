@@ -6,6 +6,7 @@ image: //cacilhas.info/img/lambda.png
 permalink: /2024/04/knowing-math.html
 ---
 [cosπ = -1]: //cacilhas.info/img/math/cospi.svg
+[Dev.to]: https://dev.to/cacilhas/knowing-mathematics-53ol
 [Dunning-Kruger effect]: https://www.abebooks.com/9786130693619/DunningKruger-Effect-6130693613/plp
 [eᶿⁱ = cosθ + i sinθ]: //cacilhas.info/img/math/euler.svg
 [General Relativity]: //cacilhas.info/img/math/general-relativity.svg =114x24
@@ -56,3 +57,7 @@ I must reiterate: that doesn’t mean you are less than anyone! Maybe you fit in
 Social Sciences! Just in the same way some Exact Sciences people are fully
 witless when it comes to politics and other social subjects. Just don’t try to
 refute ![General Relativity][] if you didn’t get.
+
+-----
+
+:small Also available at [Dev.to][].

@@ -25,3 +25,7 @@ By the way, here are all the tools you need to solve the expression above:
 Only school algebra and these definitions are enough to reach the result; if you still need to google it or to refer to [Wolfram Alpha](https://www.wolframalpha.com/), Exact Sciences aren’t for you.
 
 I must reiterate: that doesn’t mean you are less than anyone! Maybe you fit into Social Sciences! Just in the same way some Exact Sciences people are fully witless when it comes to politics and other social subjects. Just don’t try to refute ![General Relativity](//cacilhas.info/img/math/general-relativity.svg) if you didn’t get.
+
+* * *
+
+Also available at [Dev.to](https://dev.to/cacilhas/knowing-mathematics-53ol).
