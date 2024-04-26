@@ -42,7 +42,7 @@ permalink: /2024/19/diagnostic-criteria.html
   pain/temperature, adverse response to specific sounds or textures, excessive
   smelling or touching of objects, visual fascination with lights or movement.
 
-  Have you, that’s “everybody-little-bit-Autistic,” scored how many checks?
+  Have you, who’s “everybody-little-bit-Autistic,” scored how many checks?
 
 -----
 
