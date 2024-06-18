@@ -37,4 +37,4 @@ Rely but don’t trust
 
 Use methodologies, but don’t let methodologies use you.
 
-Rely on [TDD](https://en.wikipedia.org/wiki/Test-driven_development), [TDD](https://www.manning.com/books/type-driven-development-with-idris), [SOLID](https://www.wikiwand.com/en/SOLID), [DDD](https://en.wikipedia.org/wiki/Domain-driven_design), [CDD](https://youtu.be/Kdpfhj3VM04), [AOP](https://en.wikipedia.org/wiki/Aspect-oriented_programming), [ADT](https://en.wikipedia.org/wiki/Algebraic_data_type), but always revisit the concepts and adapt them to your real-world needs.
+Rely on [TDD](https://www.wikiwand.com/en/Test-driven_development), [TDD](https://www.manning.com/books/type-driven-development-with-idris), [SOLID](https://www.wikiwand.com/en/SOLID), [DDD](https://www.wikiwand.com/en/Domain-driven_design), [CDD](https://youtu.be/Kdpfhj3VM04), [AOP](https://www.wikiwand.com/en/Aspect-oriented_programming), [ADT](https://www.wikiwand.com/en/Algebraic_data_type), but always revisit the concepts and adapt them to your real-world needs.
