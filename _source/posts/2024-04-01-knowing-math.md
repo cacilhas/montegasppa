@@ -5,22 +5,16 @@ tags:  career education-and-culture
 image: //cacilhas.info/img/lambda.png
 permalink: /2024/04/knowing-math.html
 ---
-[cosπ = -1]: //cacilhas.info/img/math/cospi.svg
 [Dev.to]: https://dev.to/cacilhas/knowing-mathematics-53ol
 [Dunning-Kruger effect]: https://www.abebooks.com/9786130693619/DunningKruger-Effect-6130693613/plp
-[eᶿⁱ = cosθ + i sinθ]: //cacilhas.info/img/math/euler.svg
-[General Relativity]: //cacilhas.info/img/math/general-relativity.svg =192x24
 [image]: {{image}}
-[sinπ = 0]: //cacilhas.info/img/math/sinpi.svg
-[w2e2+eipi]: //cacilhas.info/img/math/w2e2+eipi.svg
-[W(zeᶻ) = z]: //cacilhas.info/img/math/lamberts-W-function.svg
 [Wolfram Alpha]: https://www.wolframalpha.com/
 
 :right ![Mathematics][image]
 
 :first Consider the following expression:
 
-:centre ![W(2e²) + e^iπ][w2e2+eipi]
+:centre ^^math \textrm{W}(2e^2) + e^{i\pi}^^
 
 If you’re not a Mathematician, Physicist, Astronomer, or anything in hard
 sciences, you are not obliged to know how to solve it – no one has taught you it
@@ -41,13 +35,13 @@ haven’t gotten even the basics.
 
 By the way, here are all the tools you need to solve the expression above:
 
-:centre ![W(zeᶻ) = z][]
+:centre ^^math \textrm{W}(\varphi e^\varphi) = \varphi^^
 
-:centre ![eᶿⁱ = cosθ + i sinθ][]
+:centre ^^math e^{\theta i} = \cos\theta + i\sin\theta^^
 
-:centre ![sinπ = 0][]
+:centre ^^math \sin\pi = 0^^
 
-:centre ![cosπ = -1][]
+:centre ^^math \cos\pi = -1^^
 
 Only school algebra and these definitions are enough to reach the result; if you
 still need to google it or to refer to [Wolfram Alpha][], Exact Sciences aren’t
@@ -56,7 +50,8 @@ for you.
 I must reiterate: that doesn’t mean you are less than anyone! Maybe you fit into
 Social Sciences! Just in the same way some Exact Sciences people are fully
 witless when it comes to politics and other social subjects. Just don’t try to
-refute ![General Relativity][] if you didn’t get.
+refute ^^abbr(title="General Relativity")E² = (mc²)² + (pc)²^^ if you didn’t get
+it.
 
 -----
 
