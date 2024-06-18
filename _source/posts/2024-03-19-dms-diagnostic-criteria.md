@@ -3,7 +3,7 @@ title: DSM-5 Autism Diagnostic Criteria
 date: 2024-03-19
 tags: autism education-and-culture health personal politics psychology
 image: //cacilhas.info/img/autistic.png
-permalink: /2024/19/diagnostic-criteria.html
+permalink: /2024/03/diagnostic-criteria.html
 ---
 [DSM-5]: https://www.cdc.gov/ncbddd/autism/hcp-dsm.html
 [image]: {{image}} =200x199
