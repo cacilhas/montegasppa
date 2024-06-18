@@ -2,7 +2,7 @@
 
 Consider the following expression:
 
-![W(2e²) + e^iπ](//cacilhas.info/img/math/w2e2+eipi.svg)
+$$$$\\textrm{W}(2e^2) + e^{i\\pi}$$$$
 
 If you’re not a Mathematician, Physicist, Astronomer, or anything in hard sciences, you are not obliged to know how to solve it – no one has taught you it at school.
 
@@ -14,17 +14,17 @@ No, kid! You aren’t a new “Einstein,” able to understand things that no ex
 
 By the way, here are all the tools you need to solve the expression above:
 
-![W(zeᶻ) = z](//cacilhas.info/img/math/lamberts-W-function.svg)
+$$$$\\textrm{W}(\\varphi e^\\varphi) = \\varphi$$$$
 
-![eᶿⁱ = cosθ + i sinθ](//cacilhas.info/img/math/euler.svg)
+$$$$e^{\\theta i} = \\cos\\theta + i\\sin\\theta$$$$
 
-![sinπ = 0](//cacilhas.info/img/math/sinpi.svg)
+$$$$\\sin\\pi = 0$$$$
 
-![cosπ = -1](//cacilhas.info/img/math/cospi.svg)
+$$$$\\cos\\pi = -1$$$$
 
 Only school algebra and these definitions are enough to reach the result; if you still need to google it or to refer to [Wolfram Alpha](https://www.wolframalpha.com/), Exact Sciences aren’t for you.
 
-I must reiterate: that doesn’t mean you are less than anyone! Maybe you fit into Social Sciences! Just in the same way some Exact Sciences people are fully witless when it comes to politics and other social subjects. Just don’t try to refute ![General Relativity](//cacilhas.info/img/math/general-relativity.svg) if you didn’t get.
+I must reiterate: that doesn’t mean you are less than anyone! Maybe you fit into Social Sciences! Just in the same way some Exact Sciences people are fully witless when it comes to politics and other social subjects. Just don’t try to refute E² = (mc²)² + (pc)² if you didn’t get it.
 
 * * *
 
