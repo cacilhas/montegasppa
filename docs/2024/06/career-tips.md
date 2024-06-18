@@ -48,4 +48,4 @@ Never ever be fully satisfied by yourself. I never know enough, I’m always loo
 
 Those are the tips I have for you today.
 
-in [DEV.to](https://dev.to/cacilhas/career-tips-242a).
+Also in [DEV.to](https://dev.to/cacilhas/career-tips-242a).
