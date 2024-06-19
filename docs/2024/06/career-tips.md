@@ -1,6 +1,6 @@
 ![Lambda](//cacilhas.info/img/lambda.png)
 
-Excuse my lack of modesty, but I’m good at what I do. I’m not even close to be the best though, but I’m way above average. It’s due to what I’ve learned over more than 20 years of work experience, and I’d like to share some of the simpler and more efficient tips I got.
+Excuse my lack of modesty, but I’m pretty good at what I do. I’m not even close to be the best though, but I’m way above average. It’s due to what I’ve learned over more than 20 years of work experience, and I’d like to share some of the simpler and more efficient tips I got.
 
 Affection
 ---------
