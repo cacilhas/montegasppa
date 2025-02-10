@@ -86,9 +86,8 @@ renamed to Julia Monte.
 - <a href="{{{ author.contacts.devto.url }}}">{{ author.contacts.devto.name }}</a>
 - <a href="{{{ author.contacts.github.url }}}">{{ author.contacts.github.name }}</a>
 - <a href="{{{ author.contacts.itch.url }}}">{{ author.contacts.itch.name }}</a>
-- <a href="{{{ author.contacts.linkedin.url }}}">{{ author.contacts.linkedin.name }}</a>
-- <a href="{{{ author.contacts.twitter.url }}}">{{ author.contacts.twitter.name }}</a>
-- <a href="{{{ author.contacts.patreon.url }}}">{{ author.contacts.patreon.name }}</a>
-- <a href="{{{ author.contacts.bandcamp.url }}}">{{ author.contacts.bandcamp.name }}</a>
 - <a rel="me" href="{{{ author.contacts.mastodon.url }}}">{{ author.contacts.mastodon.name }}</a>
-- <a href="{{{ author.contacts.facebook.url }}}">{{ author.contacts.facebook.name }}</a>
+- <a rel="me" href="{{{ author.contacts.peertube.url }}}">{{ author.contacts.peertube.name }}</a>
+- <a rel="me" href="{{{ author.contacts.pixelfed.url }}}">{{ author.contacts.pixelfed.name }}</a>
+- <a href="{{{ author.contacts.linkedin.url }}}">{{ author.contacts.linkedin.name }}</a>
+- <a href="{{{ author.contacts.bandcamp.url }}}">{{ author.contacts.bandcamp.name }}</a>

@@ -29,6 +29,15 @@ author: &author
         style:
           width: 24px
           height: 24px
+    facebook:
+      name: Facebook
+      title: Archimedes Montegasppa
+      url: https://www.facebook.com/archimedes.montegasppa.3
+      image:
+        source: //cacilhas.info/img/facebook.png
+        style:
+          width: 24px
+          height: 24px
     github:
       name: Github
       url: https://github.com/cacilhas/
@@ -37,6 +46,15 @@ author: &author
         style:
           width: 24px
           height: 20px
+    linkedin:
+      name: LinkedIn
+      title: Rodrigo Cacilhas
+      url: https://br.linkedin.com/in/rodrigocacilhas
+      image:
+        source: //cacilhas.info/img/linkedin.png
+        style:
+          width: 24px
+          height: 24px
     mastodon:
       name: Mastodon
       title: Mastodon
@@ -48,21 +66,21 @@ author: &author
           height: 24px
           swidth: 11px
           sheight: 12px
-    facebook:
-      name: Facebook
-      title: Archimedes Montegasppa
-      url: https://www.facebook.com/archimedes.montegasppa.3
+    peertube:
+      name: PeerTube
+      title: PeerTube
+      url: https://tilvids.com/a/cacilhas
       image:
-        source: //cacilhas.info/img/facebook.png
+        source: //cacilhas.info/img/tilvids.png
         style:
           width: 24px
           height: 24px
-    linkedin:
-      name: LinkedIn
-      title: Rodrigo Cacilhas
-      url: https://br.linkedin.com/in/rodrigocacilhas
+    pixelfed:
+      name: Pixelfed
+      title: Pixelfed
+      url: https://pixelfed.social/i/web/profile/792727597534225459
       image:
-        source: //cacilhas.info/img/linkedin.png
+        source: //cacilhas.info/img/pixelfed.png
         style:
           width: 24px
           height: 24px
