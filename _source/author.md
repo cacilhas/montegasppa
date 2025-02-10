@@ -70,7 +70,7 @@ I went to FAETERJ BTech college, completing the course with 9.5 achievement, and
 was removed by political persecution. Later I was reintegrated, and I graduated
 at the end of 2018.
 
-I worked as hodman, tent loader, even storyteller, network administrator, IT
+I worked as holdman, tent loader, even storyteller, network administrator, IT
 consultant and software developer.
 
 Due to my [Apraxia of Speech][], it’s easy to me learning new languages’
@@ -83,11 +83,56 @@ renamed to Julia Monte.
 
 ### Contacts
 
-- <a href="{{{ author.contacts.devto.url }}}">{{ author.contacts.devto.name }}</a>
-- <a href="{{{ author.contacts.github.url }}}">{{ author.contacts.github.name }}</a>
-- <a href="{{{ author.contacts.itch.url }}}">{{ author.contacts.itch.name }}</a>
-- <a rel="me" href="{{{ author.contacts.mastodon.url }}}">{{ author.contacts.mastodon.name }}</a>
-- <a rel="me" href="{{{ author.contacts.peertube.url }}}">{{ author.contacts.peertube.name }}</a>
-- <a rel="me" href="{{{ author.contacts.pixelfed.url }}}">{{ author.contacts.pixelfed.name }}</a>
-- <a href="{{{ author.contacts.linkedin.url }}}">{{ author.contacts.linkedin.name }}</a>
-- <a href="{{{ author.contacts.bandcamp.url }}}">{{ author.contacts.bandcamp.name }}</a>
+- <a rel="me" href="{{{ author.contacts.mastodon.url }}}">
+    <img src="{{{author.contacts.mastodon.image.source}}}"
+      width="{{{author.contacts.mastodon.image.style.width}}}"
+      height="{{{author.contacts.mastodon.image.style.height}}}"
+    />
+    {{ author.contacts.mastodon.name }}
+  </a>
+- <a rel="me" href="{{{ author.contacts.peertube.url }}}">
+    <img src="{{{author.contacts.peertube.image.source}}}"
+      width="{{{author.contacts.peertube.image.style.width}}}"
+      height="{{{author.contacts.peertube.image.style.height}}}"
+    />
+    {{ author.contacts.peertube.name }}
+  </a>
+- <a href="{{{ author.contacts.github.url }}}">
+    <img src="{{{author.contacts.github.image.source}}}"
+      width="{{{author.contacts.github.image.style.width}}}"
+      height="{{{author.contacts.github.image.style.height}}}"
+    />
+    {{ author.contacts.github.name }}
+  </a>
+- <a href="{{{ author.contacts.itch.url }}}">
+    <img src="{{{author.contacts.itch.image.source}}}"
+      width="{{{author.contacts.itch.image.style.width}}}"
+      height="{{{author.contacts.itch.image.style.height}}}"
+    />
+    {{ author.contacts.itch.name }}
+  </a>
+- <a href="{{{ author.contacts.devto.url }}}">
+  👩‍💻👨‍💻
+  DEV Profile
+  </a>
+- <a rel="me" href="{{{ author.contacts.pixelfed.url }}}">
+    <img src="{{{author.contacts.pixelfed.image.source}}}"
+      width="{{{author.contacts.pixelfed.image.style.width}}}"
+      height="{{{author.contacts.pixelfed.image.style.height}}}"
+    />
+    {{ author.contacts.pixelfed.name }}
+  </a>
+- <a href="{{{ author.contacts.linkedin.url }}}">
+    <img src="{{{author.contacts.linkedin.image.source}}}"
+      width="{{{author.contacts.linkedin.image.style.width}}}"
+      height="{{{author.contacts.linkedin.image.style.height}}}"
+    />
+    {{ author.contacts.linkedin.name }}
+  </a>
+- <a href="{{{ author.contacts.bandcamp.url }}}">
+    <img src="{{{author.contacts.bandcamp.image.source}}}"
+      width="{{{author.contacts.bandcamp.image.style.width}}}"
+      height="{{{author.contacts.bandcamp.image.style.height}}}"
+    />
+    {{ author.contacts.bandcamp.name }}
+  </a>

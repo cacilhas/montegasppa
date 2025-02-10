@@ -11,12 +11,17 @@ author: &author
       name: Itch.io
       title: Itch.io
       url: https://cacilhas.itch.io/
+      image:
+        source: //cacilhas.info/img/itch-io-icon.png
+        style:
+          width: 24px
+          height: 24px
     bandcamp:
       name: Bandcamp
       title: Le Obscur Essenteς
       url: https://montegasppa.bandcamp.com/releases
       image:
-        source: //cacilhas.info/img/le-obscur-essentes.jpg
+        source: //cacilhas.info/img/bandcamp.png
         style:
           width: 24px
           height: 24px
