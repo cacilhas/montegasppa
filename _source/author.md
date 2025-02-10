@@ -22,6 +22,7 @@ date: 2020-09-30
 [Perl 5]: https://www.perl.org/
 [Prolog]: http://www.swi-prolog.org/
 [Python]: https://www.python.org/
+[Rust]: https://www.rust-lang.org/
 [San Marino]: https://en.wikipedia.org/wiki/San_Marino
 [Scala]: https://www.scala-lang.org/
 [Scheme]: http://racket-lang.org/
@@ -59,8 +60,8 @@ using MS XColour BASIC programming language.
 Later I switched to [Perl 5][], [C][], [Python][], at that time in the version
 1.5, which became my main programming language. I’ve also developed
 professionaly in [Lua][], [Java][], [C++][], [Cython][], and about 2016
-[ECMAScript 2015 / Javascript][], [TypeScript][], and [Go][]. Currently I’m
-working in [Scala][].
+[ECMAScript 2015 / Javascript][], [TypeScript][], [Go][], and [Scala][].
+Currently I’m working with [Rust][], Java, and TypeScript.
 
 I’ve learned a lot of programming languages just for self-improvement, among
 them [Scheme][], [MoonScript][], [Erlang][], [Prolog][], [Standard ML][],
@@ -84,30 +85,30 @@ renamed to Julia Monte.
 ### Contacts
 
 - <a rel="me" href="{{{ author.contacts.mastodon.url }}}">
-    <img src="{{{author.contacts.mastodon.image.source}}}"
-      width="{{{author.contacts.mastodon.image.style.width}}}"
-      height="{{{author.contacts.mastodon.image.style.height}}}"
+    <img src="{{{ author.contacts.mastodon.image.source }}}"
+      width="{{ author.contacts.mastodon.image.style.width }}"
+      height="{{ author.contacts.mastodon.image.style.height }}"
     />
     {{ author.contacts.mastodon.name }}
   </a>
 - <a rel="me" href="{{{ author.contacts.peertube.url }}}">
-    <img src="{{{author.contacts.peertube.image.source}}}"
-      width="{{{author.contacts.peertube.image.style.width}}}"
-      height="{{{author.contacts.peertube.image.style.height}}}"
+    <img src="{{{ author.contacts.peertube.image.source }}}"
+      width="{{ author.contacts.peertube.image.style.width }}"
+      height="{{ author.contacts.peertube.image.style.height }}"
     />
     {{ author.contacts.peertube.name }}
   </a>
 - <a href="{{{ author.contacts.github.url }}}">
-    <img src="{{{author.contacts.github.image.source}}}"
-      width="{{{author.contacts.github.image.style.width}}}"
-      height="{{{author.contacts.github.image.style.height}}}"
+    <img src="{{{ author.contacts.github.image.source }}}"
+      width="{{ author.contacts.github.image.style.width }}"
+      height="{{ author.contacts.github.image.style.height }}"
     />
     {{ author.contacts.github.name }}
   </a>
 - <a href="{{{ author.contacts.itch.url }}}">
-    <img src="{{{author.contacts.itch.image.source}}}"
-      width="{{{author.contacts.itch.image.style.width}}}"
-      height="{{{author.contacts.itch.image.style.height}}}"
+    <img src="{{{ author.contacts.itch.image.source }}}"
+      width="{{ author.contacts.itch.image.style.width }}"
+      height="{{ author.contacts.itch.image.style.height }}"
     />
     {{ author.contacts.itch.name }}
   </a>
@@ -116,23 +117,23 @@ renamed to Julia Monte.
   DEV Profile
   </a>
 - <a rel="me" href="{{{ author.contacts.pixelfed.url }}}">
-    <img src="{{{author.contacts.pixelfed.image.source}}}"
-      width="{{{author.contacts.pixelfed.image.style.width}}}"
-      height="{{{author.contacts.pixelfed.image.style.height}}}"
+    <img src="{{{ author.contacts.pixelfed.image.source }}}"
+      width="{{ author.contacts.pixelfed.image.style.width }}"
+      height="{{ author.contacts.pixelfed.image.style.height }}"
     />
     {{ author.contacts.pixelfed.name }}
   </a>
 - <a href="{{{ author.contacts.linkedin.url }}}">
-    <img src="{{{author.contacts.linkedin.image.source}}}"
-      width="{{{author.contacts.linkedin.image.style.width}}}"
-      height="{{{author.contacts.linkedin.image.style.height}}}"
+    <img src="{{{ author.contacts.linkedin.image.source }}}"
+      width="{{ author.contacts.linkedin.image.style.width }}"
+      height="{{ author.contacts.linkedin.image.style.height }}"
     />
     {{ author.contacts.linkedin.name }}
   </a>
 - <a href="{{{ author.contacts.bandcamp.url }}}">
-    <img src="{{{author.contacts.bandcamp.image.source}}}"
-      width="{{{author.contacts.bandcamp.image.style.width}}}"
-      height="{{{author.contacts.bandcamp.image.style.height}}}"
+    <img src="{{{ author.contacts.bandcamp.image.source }}}"
+      width="{{ author.contacts.bandcamp.image.style.width }}"
+      height="{{ author.contacts.bandcamp.image.style.height }}"
     />
     {{ author.contacts.bandcamp.name }}
   </a>
