@@ -12,7 +12,7 @@ All [gore](https://www.wikiwand.com/en/articles/Graphic_violence) and adult cont
 
 In other hand, content from [Neil deGrasse Tyson](https://www.biography.com/scientists/neil-degrasse-tyson), for instance, and science content refuting antivax, Flat Earth, or any other conspiracy bullshit, **are now blocked by YouTube**, classified as **inappropriate for children**.
 
-Obviously antivax content, Flat Earth, and so are also considered _okay_ for children by YouTube, as well as gore.
+Obviously antivax content, Flat Earth, violence, and so are also considered _okay_ for children by YouTube, as well as gore.
 
 Lemme put it in a clearer way:
 
