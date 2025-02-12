@@ -8,7 +8,7 @@ So I decided the worst: I gave my son’s real age to Alphabet, assuming YouTube
 
 That was quite the opposite.
 
-All [gore](https://www.wikiwand.com/en/articles/Graphic_violence) and adult content is still being recommended, even though his account is now childish. I’m spending hours blocking violent, horror, and sexual content from its account, and **YouTube keeps making them come anyway**, no matter what I do.
+All [gore](https://www.wikiwand.com/en/articles/Graphic_violence) and adult content is still being recommended, even though his account is now childish. I’ve been spending hours blocking violent, horror, and sexual content from its account, and **YouTube keeps making them come anyway**, no matter what I do.
 
 In other hand, content from [Neil deGrasse Tyson](https://www.biography.com/scientists/neil-degrasse-tyson), for instance, and science content refuting antivax, Flat Earth, or any other conspiracy bullshit, **are now blocked by YouTube**, classified as **inappropriate for children**.
 
