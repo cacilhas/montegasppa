@@ -22,4 +22,4 @@ But…
 
 **GOOGLE** CONSIDERS GORE, SCIENTIFIC DENIALISM, AND SEXUAL INNUENDO OKAY FOR CHILDREN.
 
-_Heil USA and their transnational big techs…_
+_Heil USA and their transnational big techs…_ ![Sieg Heil](//cacilhas.info/img/elon-musk-sieg-heil.png) 😢
