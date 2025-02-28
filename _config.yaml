@@ -25,6 +25,15 @@ author: &author
         style:
           width: 24px
           height: 24px
+    codeberg:
+      name: Codeberg
+      title: Codeberg
+      url: https://codeberg.org/cacilhas
+      image:
+        source: //cacilhas.info/img/codeberg.png
+        style:
+          width: 24px
+          height: 24px
     exercism:
       name: Exercism
       title: Exercism

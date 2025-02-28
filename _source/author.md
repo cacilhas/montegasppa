@@ -123,6 +123,13 @@ renamed to Julia Monte.
     />
     {{ author.contacts.pixelfed.name }}
   </a>
+- <a rel="me" href="{{{ author.contacts.codeberg.url }}}" target="_blank">
+    <img src="{{{ author.contacts.codeberg.image.source }}}"
+      width="{{ author.contacts.codeberg.image.style.width }}"
+      height="{{ author.contacts.codeberg.image.style.height }}"
+    />
+    {{ author.contacts.codeberg.name }}
+  </a>
 - <a rel="me" href="{{{ author.contacts.linkedin.url }}}" target="_blank">
     <img src="{{{ author.contacts.linkedin.image.source }}}"
       width="{{ author.contacts.linkedin.image.style.width }}"
