@@ -91,19 +91,12 @@ renamed to Julia Monte.
     />
     {{ author.contacts.mastodon.name }}
   </a>
-- <a rel="me" href="{{{ author.contacts.peertube.url }}}" target="_blank">
-    <img src="{{{ author.contacts.peertube.image.source }}}"
-      width="{{ author.contacts.peertube.image.style.width }}"
-      height="{{ author.contacts.peertube.image.style.height }}"
+- <a rel="me" href="{{{ author.contacts.codeberg.url }}}" target="_blank">
+    <img src="{{{ author.contacts.codeberg.image.source }}}"
+      width="{{ author.contacts.codeberg.image.style.width }}"
+      height="{{ author.contacts.codeberg.image.style.height }}"
     />
-    {{ author.contacts.peertube.name }}
-  </a>
-- <a rel="me" href="{{{ author.contacts.github.url }}}" target="_blank">
-    <img src="{{{ author.contacts.github.image.source }}}"
-      width="{{ author.contacts.github.image.style.width }}"
-      height="{{ author.contacts.github.image.style.height }}"
-    />
-    {{ author.contacts.github.name }}
+    {{ author.contacts.codeberg.name }}
   </a>
 - <a rel="me" href="{{{ author.contacts.itch.url }}}" target="_blank">
     <img src="{{{ author.contacts.itch.image.source }}}"
@@ -116,19 +109,19 @@ renamed to Julia Monte.
   👩‍💻👨‍💻
   DEV Profile
   </a>
+- <a rel="me" href="{{{ author.contacts.github.url }}}" target="_blank">
+    <img src="{{{ author.contacts.github.image.source }}}"
+      width="{{ author.contacts.github.image.style.width }}"
+      height="{{ author.contacts.github.image.style.height }}"
+    />
+    {{ author.contacts.github.name }}
+  </a>
 - <a rel="me" href="{{{ author.contacts.pixelfed.url }}}" target="_blank">
     <img src="{{{ author.contacts.pixelfed.image.source }}}"
       width="{{ author.contacts.pixelfed.image.style.width }}"
       height="{{ author.contacts.pixelfed.image.style.height }}"
     />
     {{ author.contacts.pixelfed.name }}
-  </a>
-- <a rel="me" href="{{{ author.contacts.codeberg.url }}}" target="_blank">
-    <img src="{{{ author.contacts.codeberg.image.source }}}"
-      width="{{ author.contacts.codeberg.image.style.width }}"
-      height="{{ author.contacts.codeberg.image.style.height }}"
-    />
-    {{ author.contacts.codeberg.name }}
   </a>
 - <a rel="me" href="{{{ author.contacts.linkedin.url }}}" target="_blank">
     <img src="{{{ author.contacts.linkedin.image.source }}}"
@@ -143,4 +136,11 @@ renamed to Julia Monte.
       height="{{ author.contacts.bandcamp.image.style.height }}"
     />
     {{ author.contacts.bandcamp.name }}
+  </a>
+- <a rel="me" href="{{{ author.contacts.peertube.url }}}" target="_blank">
+    <img src="{{{ author.contacts.peertube.image.source }}}"
+      width="{{ author.contacts.peertube.image.style.width }}"
+      height="{{ author.contacts.peertube.image.style.height }}"
+    />
+    {{ author.contacts.peertube.name }}
   </a>
