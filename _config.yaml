@@ -89,6 +89,34 @@ author: &author
         style:
           width: 24px
           height: 24px
+    youtube:
+      montegasppa:
+        name: youtube/@Montegasppa
+        title: youtube/@Montegasppa
+        url: https://www.youtube.com/@Montegasppa
+        image:
+          source: //cacilhas.info/img/youtube.png
+          style:
+            width: 24px
+            height: 21px
+      kodumaro:
+        name: youtube/@kodumaro
+        title: youtube/@kodumaro
+        url: https://www.youtube.com/@kodumaro
+        image:
+          source: //cacilhas.info/img/kodumaro.png
+          style:
+            width: 24px
+            height: 24px
+      devdacerto:
+        name: Dev Dá Certo 👍
+        title: youtube/@DevDaCerto
+        url: https://www.youtube.com/@DevDaCerto
+        image:
+          source: //cacilhas.info/img/devdacerto.png
+          style:
+            width: 24px
+            height: 24px
     pixelfed:
       name: Pixelfed
       title: Pixelfed

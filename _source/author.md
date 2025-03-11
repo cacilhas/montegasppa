@@ -109,6 +109,27 @@ renamed to Julia Monte.
   👩‍💻👨‍💻
   DEV Profile
   </a>
+- <a rel="me" href="{{{ author.contacts.youtube.montegasppa.url }}}" target="_blank">
+    <img src="{{{ author.contacts.youtube.montegasppa.image.source }}}"
+      width="{{ author.contacts.youtube.montegasppa.image.style.width }}"
+      height="{{ author.contacts.youtube.montegasppa.image.style.height }}"
+    />
+    {{ author.contacts.youtube.montegasppa.name }}
+  </a>
+- <a rel="me" href="{{{ author.contacts.youtube.kodumaro.url }}}" target="_blank">
+    <img src="{{{ author.contacts.youtube.kodumaro.image.source }}}"
+      width="{{ author.contacts.youtube.kodumaro.image.style.width }}"
+      height="{{ author.contacts.youtube.kodumaro.image.style.height }}"
+    />
+    {{ author.contacts.youtube.kodumaro.name }}
+  </a>
+- <a rel="me" href="{{{ author.contacts.youtube.devdacerto.url }}}" target="_blank">
+    <img src="{{{ author.contacts.youtube.devdacerto.image.source }}}"
+      width="{{ author.contacts.youtube.devdacerto.image.style.width }}"
+      height="{{ author.contacts.youtube.devdacerto.image.style.height }}"
+    />
+    {{ author.contacts.youtube.devdacerto.name }}
+  </a>
 - <a rel="me" href="{{{ author.contacts.github.url }}}" target="_blank">
     <img src="{{{ author.contacts.github.image.source }}}"
       width="{{ author.contacts.github.image.style.width }}"
