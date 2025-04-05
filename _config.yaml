@@ -69,8 +69,17 @@ author: &author
         style:
           width: 24px
           height: 24px
+    makertube:
+      name: "@kodumaro@makertube.net"
+      title: "PeerTube :: MakerTube"
+      url: https://makertube.net/c/kodumaro
+      image:
+        source: //cacilhas.info/img/makertube.png
+        style:
+          width: 24px
+          height: 24px
     mastodon:
-      name: Mastodon
+      name: "@cacilhas@mas.to"
       title: Mastodon
       url: https://mas.to/@cacilhas
       image:
@@ -81,8 +90,8 @@ author: &author
           swidth: 11px
           sheight: 12px
     peertube:
-      name: PeerTube
-      title: PeerTube
+      name: "@cacilhas@tilvids.com"
+      title: "PeerTube :: TILvids"
       url: https://tilvids.com/a/cacilhas
       image:
         source: //cacilhas.info/img/tilvids.png
@@ -91,8 +100,8 @@ author: &author
           height: 24px
     youtube:
       montegasppa:
-        name: youtube/@Montegasppa
-        title: youtube/@Montegasppa
+        name: YouTube/@Montegasppa
+        title: YouTube/@Montegasppa
         url: https://www.youtube.com/@Montegasppa
         image:
           source: //cacilhas.info/img/youtube.png
@@ -100,8 +109,8 @@ author: &author
             width: 24px
             height: 21px
       kodumaro:
-        name: youtube/@kodumaro
-        title: youtube/@kodumaro
+        name: YouTube/@kodumaro
+        title: YouTube/@kodumaro
         url: https://www.youtube.com/@kodumaro
         image:
           source: //cacilhas.info/img/kodumaro.png

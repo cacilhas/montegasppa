@@ -89,7 +89,7 @@ renamed to Julia Monte.
       width="{{ author.contacts.mastodon.image.style.width }}"
       height="{{ author.contacts.mastodon.image.style.height }}"
     />
-    {{ author.contacts.mastodon.name }}
+    {{ author.contacts.mastodon.name }} <small>({{ author.contacts.mastodon.title }})</small>
   </a>
 - <a rel="me" href="{{{ author.contacts.codeberg.url }}}" target="_blank">
     <img src="{{{ author.contacts.codeberg.image.source }}}"
@@ -108,6 +108,13 @@ renamed to Julia Monte.
 - <a rel="me" href="{{{ author.contacts.devto.url }}}" target="_blank">
   👩‍💻👨‍💻
   DEV Profile
+  </a>
+- <a rel="me" href="{{{ author.contacts.makertube.url }}}" target="_blank">
+    <img src="{{{ author.contacts.makertube.image.source }}}"
+      width="{{ author.contacts.makertube.image.style.width }}"
+      height="{{ author.contacts.makertube.image.style.height }}"
+    />
+    {{ author.contacts.makertube.name }} <small>({{ author.contacts.makertube.title }})</small>
   </a>
 - <a rel="me" href="{{{ author.contacts.youtube.montegasppa.url }}}" target="_blank">
     <img src="{{{ author.contacts.youtube.montegasppa.image.source }}}"
@@ -163,5 +170,5 @@ renamed to Julia Monte.
       width="{{ author.contacts.peertube.image.style.width }}"
       height="{{ author.contacts.peertube.image.style.height }}"
     />
-    {{ author.contacts.peertube.name }}
+    {{ author.contacts.peertube.name }} <small>({{ author.contacts.peertube.title }})</small>
   </a>
