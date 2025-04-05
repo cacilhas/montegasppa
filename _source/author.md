@@ -165,10 +165,3 @@ renamed to Julia Monte.
     />
     {{ author.contacts.bandcamp.name }}
   </a>
-- <a rel="me" href="{{{ author.contacts.peertube.url }}}" target="_blank">
-    <img src="{{{ author.contacts.peertube.image.source }}}"
-      width="{{ author.contacts.peertube.image.style.width }}"
-      height="{{ author.contacts.peertube.image.style.height }}"
-    />
-    {{ author.contacts.peertube.name }} <small>({{ author.contacts.peertube.title }})</small>
-  </a>

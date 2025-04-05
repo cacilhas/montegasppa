@@ -71,7 +71,7 @@ author: &author
           height: 24px
     makertube:
       name: "@kodumaro@makertube.net"
-      title: "PeerTube :: MakerTube"
+      title: "PeerTube"
       url: https://makertube.net/c/kodumaro
       image:
         source: //cacilhas.info/img/makertube.png
@@ -89,15 +89,6 @@ author: &author
           height: 24px
           swidth: 11px
           sheight: 12px
-    peertube:
-      name: "@cacilhas@tilvids.com"
-      title: "PeerTube :: TILvids"
-      url: https://tilvids.com/a/cacilhas
-      image:
-        source: //cacilhas.info/img/tilvids.png
-        style:
-          width: 24px
-          height: 24px
     youtube:
       montegasppa:
         name: YouTube/@Montegasppa
