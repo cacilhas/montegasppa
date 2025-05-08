@@ -1,4 +1,4 @@
-![Hein?](//cacilhas.info/img/hein.png)
+![Hein?](//cacilhas.cc/img/hein.png)
 
 I’ve been really astonished by an unexpected fact: Computer technicians are afraid of knowledge. 😱
 

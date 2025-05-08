@@ -52,7 +52,7 @@ showdown.extension('ExternalLinksExtension', {
     str.replace(/<a href="[^"]*" *>/g, substr => {
       const match = /<a href="(?<href>[^"]*)" *>/.exec(substr);
       const href = match?.groups?.href || '.';
-      if (href.startsWith('http') && (href.indexOf('cacilhas.info') === -1))
+      if (href.startsWith('http') && (href.indexOf('cacilhas.cc') === -1))
         return `<a href="${href}" target="_blank">`;
       return substr;
     }),

@@ -1,4 +1,4 @@
-![Lamp](//cacilhas.info/img/lamp.png)
+![Lamp](//cacilhas.cc/img/lamp.png)
 
 In most job interviews, the interviewer ask to the interviewee: “Where do you see yourself in five years?”
 

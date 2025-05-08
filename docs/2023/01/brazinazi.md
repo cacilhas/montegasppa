@@ -1,4 +1,4 @@
-![Nazism in Brazil](//cacilhas.info/img/brazinazi.jpg)
+![Nazism in Brazil](//cacilhas.cc/img/brazinazi.jpg)
 
 Brazil’s democracy is under attack. A large **fascist** group is performing coordinated **terrorist attacks**, asking for the end of Democracy – literally. Those people are united by a wide range of different kinds of hate.
 

@@ -1,4 +1,4 @@
-![Thoughtful](//cacilhas.info/img/lamp.png)
+![Thoughtful](//cacilhas.cc/img/lamp.png)
 
 Life is no rehearsal, so live it straight, be kind though.
 

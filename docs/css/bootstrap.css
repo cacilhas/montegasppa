@@ -263,8 +263,8 @@ th {
 @font-face {
   font-family: 'Glyphicons Halflings';
 
-  src: url('//cacilhas.info/misc/fonts/glyphicons-halflings-regular.eot');
-  src: url('//cacilhas.info/misc/fonts/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'), url('//cacilhas.info/misc/fonts/glyphicons-halflings-regular.woff2') format('woff2'), url('//cacilhas.info/misc/fonts/glyphicons-halflings-regular.woff') format('woff'), url('//cacilhas.info/misc/fonts/glyphicons-halflings-regular.ttf') format('truetype'), url('//cacilhas.info/misc/fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular') format('svg');
+  src: url('//cacilhas.cc/misc/fonts/glyphicons-halflings-regular.eot');
+  src: url('//cacilhas.cc/misc/fonts/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'), url('//cacilhas.cc/misc/fonts/glyphicons-halflings-regular.woff2') format('woff2'), url('//cacilhas.cc/misc/fonts/glyphicons-halflings-regular.woff') format('woff'), url('//cacilhas.cc/misc/fonts/glyphicons-halflings-regular.ttf') format('truetype'), url('//cacilhas.cc/misc/fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular') format('svg');
 }
 .glyphicon {
   position: relative;

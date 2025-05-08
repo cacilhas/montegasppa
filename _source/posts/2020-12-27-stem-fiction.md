@@ -2,7 +2,7 @@
 title: STEM Fiction and Its Alikes
 date: 2020-12-27
 tags: movies personal
-image: //cacilhas.info/img/building.png
+image: //cacilhas.cc/img/building.png
 permalink: /2020/12/stem-fiction.html
 ---
 [image]: {{{image}}} =200x127

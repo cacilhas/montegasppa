@@ -1,4 +1,4 @@
-![Il Fascio](//cacilhas.info/img/fascio.png)
+![Il Fascio](//cacilhas.cc/img/fascio.png)
 
 Umberto Eco warned us about the [Ur-Fascism](http://interglacial.com/pub/text/Umberto_Eco_-_Eternal_Fascism.html), that visceral one, beginningless and endless, as old as man.
 

@@ -1,4 +1,4 @@
-![Mindless workers](//cacilhas.info/img/mindless-worker.jpg)
+![Mindless workers](//cacilhas.cc/img/mindless-worker.jpg)
 
 *   [English version](#english-version)
 

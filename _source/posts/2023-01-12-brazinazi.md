@@ -2,7 +2,7 @@
 title: Hate and Nazis in Brazil
 date: 2023-01-12
 tags: education-and-culture politics
-image: //cacilhas.info/img/brazinazi.jpg
+image: //cacilhas.cc/img/brazinazi.jpg
 permalink: /2023/01/brazinazi.html
 ---
 [image]: {{{image}}} =180x180

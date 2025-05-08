@@ -1,4 +1,4 @@
-![Cabeça Dinossauro](//cacilhas.info/img/cabeca-dinossauro.jpg)
+![Cabeça Dinossauro](//cacilhas.cc/img/cabeca-dinossauro.jpg)
 
 It has been a while since I wrote my last post, no excuses though, let’s get right to the point.
 

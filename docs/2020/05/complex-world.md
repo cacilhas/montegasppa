@@ -1,4 +1,4 @@
-![ζ(½+yi)](//cacilhas.info/img/zeta.png)
+![ζ(½+yi)](//cacilhas.cc/img/zeta.png)
 
 I’ve just seen a TV show named “Magic Number.” In the first episode, it tries to prove the Mathematics doesn’t exist itself, instead, it’s just a human mind’s creation.
 

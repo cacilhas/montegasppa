@@ -1,4 +1,4 @@
-![Light](//cacilhas.info/img/lamp.png)
+![Light](//cacilhas.cc/img/lamp.png)
 
 **Christianism** doesn’t need to be oppressing, but, unfortunately, things aren’t like you and I would like it were.
 

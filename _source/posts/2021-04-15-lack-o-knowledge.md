@@ -2,7 +2,7 @@
 title: The Surprising Technicians’ Lack o’ Knowledge
 date: 2021-04-15
 tags: career education-and-culture technology
-image: //cacilhas.info/img/hein.png
+image: //cacilhas.cc/img/hein.png
 permalink: /2021/04/lack-o-knownledge.html
 ---
 [image]: {{{image}}}

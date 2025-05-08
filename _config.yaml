@@ -1,7 +1,7 @@
 author: &author
   name: Montegasppα Cacilhας
-  email: montegasppa@cacilhas.info
-  url: //montegasppa.cacilhas.info/author.html
+  email: montegasppa@cacilhas.cc
+  url: //montegasppa.cacilhas.cc/author.html
   contacts:
     devto:
       name: DEV Profile 👩‍💻👨‍💻
@@ -12,7 +12,7 @@ author: &author
       title: Itch.io
       url: https://cacilhas.itch.io/
       image:
-        source: //cacilhas.info/img/itch-io-icon.png
+        source: //cacilhas.cc/img/itch-io-icon.png
         style:
           width: 24px
           height: 24px
@@ -21,7 +21,7 @@ author: &author
       title: Le Obscur Essenteς
       url: https://montegasppa.bandcamp.com/releases
       image:
-        source: //cacilhas.info/img/bandcamp.png
+        source: //cacilhas.cc/img/bandcamp.png
         style:
           width: 24px
           height: 24px
@@ -30,7 +30,7 @@ author: &author
       title: Codeberg
       url: https://codeberg.org/cacilhas
       image:
-        source: //cacilhas.info/img/codeberg.png
+        source: //cacilhas.cc/img/codeberg.png
         style:
           width: 24px
           height: 24px
@@ -39,7 +39,7 @@ author: &author
       title: Exercism
       url: https://exercism.org/profiles/cacilhas
       image:
-        source: //cacilhas.info/img/exercism.png
+        source: //cacilhas.cc/img/exercism.png
         style:
           width: 24px
           height: 24px
@@ -48,7 +48,7 @@ author: &author
       title: Archimedes Montegasppa
       url: https://www.facebook.com/archimedes.montegasppa.3
       image:
-        source: //cacilhas.info/img/facebook.png
+        source: //cacilhas.cc/img/facebook.png
         style:
           width: 24px
           height: 24px
@@ -56,7 +56,7 @@ author: &author
       name: Github
       url: https://github.com/cacilhas/
       image:
-        source: //cacilhas.info/img/github.png
+        source: //cacilhas.cc/img/github.png
         style:
           width: 24px
           height: 20px
@@ -65,7 +65,7 @@ author: &author
       title: Rodrigo Cacilhas
       url: https://br.linkedin.com/in/rodrigocacilhas
       image:
-        source: //cacilhas.info/img/linkedin.png
+        source: //cacilhas.cc/img/linkedin.png
         style:
           width: 24px
           height: 24px
@@ -74,7 +74,7 @@ author: &author
       title: "PeerTube"
       url: https://makertube.net/c/kodumaro
       image:
-        source: //cacilhas.info/img/makertube.png
+        source: //cacilhas.cc/img/makertube.png
         style:
           width: 24px
           height: 24px
@@ -83,7 +83,7 @@ author: &author
       title: Mastodon
       url: https://mas.to/@cacilhas
       image:
-        source: //cacilhas.info/img/mastodon.png
+        source: //cacilhas.cc/img/mastodon.png
         style:
           width: 22px
           height: 24px
@@ -95,7 +95,7 @@ author: &author
         title: YouTube/@Montegasppa
         url: https://www.youtube.com/@Montegasppa
         image:
-          source: //cacilhas.info/img/youtube.png
+          source: //cacilhas.cc/img/youtube.png
           style:
             width: 24px
             height: 21px
@@ -104,7 +104,7 @@ author: &author
         title: YouTube/@kodumaro
         url: https://www.youtube.com/@kodumaro
         image:
-          source: //cacilhas.info/img/kodumaro.png
+          source: //cacilhas.cc/img/kodumaro.png
           style:
             width: 24px
             height: 24px
@@ -113,7 +113,7 @@ author: &author
         title: youtube/@DevDaCerto
         url: https://www.youtube.com/@DevDaCerto
         image:
-          source: //cacilhas.info/img/devdacerto.png
+          source: //cacilhas.cc/img/devdacerto.png
           style:
             width: 24px
             height: 24px
@@ -122,7 +122,7 @@ author: &author
       title: Pixelfed
       url: https://pixelfed.social/@Cacilhas
       image:
-        source: //cacilhas.info/img/pixelfed.png
+        source: //cacilhas.cc/img/pixelfed.png
         style:
           width: 24px
           height: 24px
@@ -131,7 +131,7 @@ description: Musician, senior software engineer, autistic person, and autistic p
 favicon: /img/favicon.ico
 lang: en
 image: /img/title-background.jpg
-site: &site //montegasppa.cacilhas.info
+site: &site //montegasppa.cacilhas.cc
 title: &title ℳontegasppα and Giulia C.’s Thoughts
 
 license:
@@ -146,15 +146,15 @@ blog:
 
 cacilhas:
   title: ℭacilhας.INFO
-  url: //cacilhas.info
+  url: //cacilhas.cc
 
 hondaj:
   title: ĤøŅĐΔj̆₀
-  url: //hondaj.cacilhas.info/
+  url: //hondaj.cacilhas.cc/
 
 kodumaro:
   title: Kodumaro
-  url: //kodumaro.cacilhas.info/
+  url: //kodumaro.cacilhas.cc/
 
 mosaicolivre:
   title: Mosaico Livre
@@ -166,7 +166,7 @@ todasfridas:
 
 vortaro:
   title: Konsulta Vortaro
-  url: //vortaro.cacilhas.info/
+  url: //vortaro.cacilhas.cc/
 
 waltercruz:
   title: Walter Cruz

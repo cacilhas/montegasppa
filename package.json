@@ -14,7 +14,7 @@
   "bugs": {
     "url": "https://github.com/cacilhas/montegasppa/issues"
   },
-  "homepage": "https://montegasppa.cacilhas.info/",
+  "homepage": "https://montegasppa.cacilhas.cc/",
   "dependencies": {
     "coffeescript": "^2.5.1",
     "indented-filter": "^0.1.1",

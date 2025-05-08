@@ -1,4 +1,4 @@
-![Autism](//cacilhas.info/img/autistic.png)
+![Autism](//cacilhas.cc/img/autistic.png)
 
 For those who say that everybody is a little bit Autistic, here are the [DSM-5](https://www.cdc.gov/ncbddd/autism/hcp-dsm.html) Autistic diagnostic criteria:
 

@@ -1,4 +1,4 @@
-![Blocked](//cacilhas.info/img/facebook-block.jpg)
+![Blocked](//cacilhas.cc/img/facebook-block.jpg)
 
 Versão em Português [logo abaixo](#pt).
 

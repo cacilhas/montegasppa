@@ -2,7 +2,7 @@
 title: Manifest against Big Techs (and an Invitation)
 date: 2023-12-12
 tags: personal politics technology
-image: //cacilhas.info/img/facebook-block.jpg
+image: //cacilhas.cc/img/facebook-block.jpg
 permalink: /2023/12/invitation.html
 ---
 [Facebook]: https://www.facebook.com/

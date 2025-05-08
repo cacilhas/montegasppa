@@ -1,4 +1,4 @@
-![Lamp](//cacilhas.info/img/lamp.png)
+![Lamp](//cacilhas.cc/img/lamp.png)
 
 In the depths of the cosmos, there was a planet that drifted aimlessly through the void, an untouched world teeming with exotic life and unknown wonders. This was Xalax, a place of mystery and mystery, where no foot of man had ever set.
 

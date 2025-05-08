@@ -1,6 +1,6 @@
-![Lamp](//cacilhas.info/img/lamp.png)
+![Lamp](//cacilhas.cc/img/lamp.png)
 
-Sorry, I just get tired of my [old platform](//cacilhas.info/montegasppa/) and started over.
+Sorry, I just get tired of my [old platform](//cacilhas.cc/montegasppa/) and started over.
 
 What annoyed me the most was the [Pug](https://pugjs.org/) notation. Don’t take me wrong, I really like Pug, but every single content transport required a translation to [Markdown](https://www.markdownguide.org/), and I’m pissed off.
 

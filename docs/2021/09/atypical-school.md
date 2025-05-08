@@ -1,4 +1,4 @@
-![Atypical mind, typical world](//cacilhas.info/img/autistic.png)
+![Atypical mind, typical world](//cacilhas.cc/img/autistic.png)
 
 I’m telling you a personal fresh case.
 

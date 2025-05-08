@@ -2,7 +2,7 @@
 title: Knowing Mathematics
 date: 2024-04-01
 tags:  career education-and-culture
-image: //cacilhas.info/img/lambda.png
+image: //cacilhas.cc/img/lambda.png
 permalink: /2024/04/knowing-math.html
 ---
 [Dev.to]: https://dev.to/cacilhas/knowing-mathematics-53ol

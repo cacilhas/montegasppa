@@ -1,4 +1,4 @@
-![Autistic mind](//cacilhas.info/img/autistic.png)
+![Autistic mind](//cacilhas.cc/img/autistic.png)
 
 As an Autist, I’m got some issues with my proprioception. A very common situation is when I break my toes.
 

@@ -1,4 +1,4 @@
-![Mathematics](//cacilhas.info/img/lambda.png)
+![Mathematics](//cacilhas.cc/img/lambda.png)
 
 Consider the following expression:
 

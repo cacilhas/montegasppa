@@ -1,4 +1,4 @@
-![Autistic mind](//cacilhas.info/img/autistic.png)
+![Autistic mind](//cacilhas.cc/img/autistic.png)
 
 I’ve been watching [Steven Universe: The Movie](https://steven-universe.fandom.com/wiki/Steven_Universe:_The_Movie) over and over again (my son is autistic and likes repetition), and there’s something in that movie that caught my attention.
 
@@ -16,7 +16,7 @@ They say:
 
 Okay, “normal” people would get it and go on, but that thought disregards the character’s personality.
 
-![Pink Diamond and Spinel](//cacilhas.info/img/steven-universe/pink-diamond-spinel.jpg)
+![Pink Diamond and Spinel](//cacilhas.cc/img/steven-universe/pink-diamond-spinel.jpg)
 
 Put yourself in an atypical place of mind: she was **built** to play, knowing nothing else, and she trusted [Pink Diamond](https://steven-universe.fandom.com/wiki/Pink_Diamond) with no shade of doubt on her mind. She spent her entire nearly-2,000-year life mostly in the same place, the Garden, with the same person, not knowing anything else.
 
@@ -28,7 +28,7 @@ Now take it for three times her lifetime in the Garden – or more… _Happily l
 
 It’s easier for us autistics to get it than for neurotypical people. Why?
 
-![Steven Universe](//cacilhas.info/img/steven-universe/fly.jpg)
+![Steven Universe](//cacilhas.cc/img/steven-universe/fly.jpg)
 
 That’s the gotcha:
 

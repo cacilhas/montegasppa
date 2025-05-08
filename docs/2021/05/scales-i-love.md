@@ -1,4 +1,4 @@
-![G Key](//cacilhas.info/img/clave-sol.jpg)
+![G Key](//cacilhas.cc/img/clave-sol.jpg)
 
 There are seven musical scales I keep using frequently, they fit my needs perfectly.
 
@@ -16,7 +16,7 @@ From brighter to darker they are:
 
 ### Lydian ♭7
 
-![Lydian ♭7](//cacilhas.info/img/loved-scales/lydian-b7.png)
+![Lydian ♭7](//cacilhas.cc/img/loved-scales/lydian-b7.png)
 
 Also called Brazilian Northeastern scale, Lydian ♭7 is a very bright scale, mostly present in the Brazilian Northeastern Music.
 
@@ -31,7 +31,7 @@ The subtonic contrasts powerfully with the tritone, creating two interesting pas
 
 ### Mixolydian Bebop
 
-![Mixolidian](//cacilhas.info/img/loved-scales/mixolydian.png)
+![Mixolidian](//cacilhas.cc/img/loved-scales/mixolydian.png)
 
 This is a variant from the Ionian mode – basically it‘s the Ionian with added subtonic degree.
 
@@ -49,7 +49,7 @@ Its tonal and modal functions are granted by the same Mixolydian structure:
 
 ### Mixolydian ♭9♭13
 
-![Mixolydian ♭9♭13](//cacilhas.info/img/loved-scales/mixolydian-b9b13.png)
+![Mixolydian ♭9♭13](//cacilhas.cc/img/loved-scales/mixolydian-b9b13.png)
 
 This scale has an Arabic atmosphere, adding some darkness to the previous one, but it’s still quite bright.
 
@@ -65,7 +65,7 @@ There’s a peculiar sesquitonal interval between the minor subtonic and the maj
 
 ### Overlaid Diminished
 
-![Overlaid Diminished](//cacilhas.info/img/loved-scales/overlaid.png)
+![Overlaid Diminished](//cacilhas.cc/img/loved-scales/overlaid.png)
 
 This is a tricky scale: despite its dimished third intervals, the overlaying add major degrees, making this scale brighter.
 
@@ -82,7 +82,7 @@ The functions are:
 
 ### Dorian
 
-![Dorian](//cacilhas.info/img/loved-scales/dorian.png)
+![Dorian](//cacilhas.cc/img/loved-scales/dorian.png)
 
 Dorian mode is the scales’ brightness median, not too bright, not too dark, straight in the middle.
 
@@ -96,7 +96,7 @@ It’s got the minor mediant, but the major submediant. The adjunct modal degree
 
 ### Phrygian
 
-![Phrygian](//cacilhas.info/img/loved-scales/phrygian.png)
+![Phrygian](//cacilhas.cc/img/loved-scales/phrygian.png)
 
 The Phrygian mode is **The Dark Mode** by definition, it still respects the tonal requirements, but every modal degree is minor.
 
@@ -110,7 +110,7 @@ I recommend [this video](https://www.youtube.com/watch?v=ZxQWbyaMzfg) if you wan
 
 ### Superlocrian Bebop
 
-![Superlocrian](//cacilhas.info/img/loved-scales/superlocrian.png)
+![Superlocrian](//cacilhas.cc/img/loved-scales/superlocrian.png)
 
 This scale is so gravity-lacking, that it only works if made Bebop.
 

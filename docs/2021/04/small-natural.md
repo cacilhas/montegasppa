@@ -1,4 +1,4 @@
-![Glider](//cacilhas.info/img/glider.png)
+![Glider](//cacilhas.cc/img/glider.png)
 
 There’s something beautiful about small natural numbers, mainly about their relation to the human psyché.
 

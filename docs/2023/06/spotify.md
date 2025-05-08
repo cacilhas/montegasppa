@@ -1,4 +1,4 @@
-![Spotify](//cacilhas.info/img/spotify.png)
+![Spotify](//cacilhas.cc/img/spotify.png)
 
 Actually I don’t wanna talk exactly about [Spotify](https://open.spotify.com/), but more precisely about **[DistroKid](https://distrokid.com/)**.
 
