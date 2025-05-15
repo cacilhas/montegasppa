@@ -1,6 +1,7 @@
 *~
 .*
 /*.js
+/docs
 node_modules
 yarn.lock
 !.gitignore
