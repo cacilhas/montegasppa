@@ -2,7 +2,7 @@
 title: An Atypical School
 date: 2021-09-24
 tags: education-and-culture personal politics
-image: //cacilhas.cc/img/autistic.png
+image: //img.cacilhas.cc/autistic.png
 permalink: /2021/09/atypical-school.html
 ---
 [image]: {{{image}}}

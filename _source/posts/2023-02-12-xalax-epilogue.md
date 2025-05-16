@@ -2,7 +2,7 @@
 title: The Dance of the Eternal Skies – Epilogue
 date: 2023-02-12
 tags: ai concept
-image: //cacilhas.cc/img/lamp.png
+image: //img.cacilhas.cc/lamp.png
 permalink: /2023/02/xalax-epilogue.html
 ---
 [image]: {{{image}}}

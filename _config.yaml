@@ -12,7 +12,7 @@ author: &author
       title: Itch.io
       url: https://cacilhas.itch.io/
       image:
-        source: //cacilhas.cc/img/itch-io-icon.png
+        source: //img.cacilhas.cc/itch-io-icon.png
         style:
           width: 24px
           height: 24px
@@ -21,7 +21,7 @@ author: &author
       title: Le Obscur Essenteς
       url: https://montegasppa.bandcamp.com/releases
       image:
-        source: //cacilhas.cc/img/bandcamp.png
+        source: //img.cacilhas.cc/bandcamp.png
         style:
           width: 24px
           height: 24px
@@ -30,7 +30,7 @@ author: &author
       title: Codeberg
       url: https://codeberg.org/cacilhas
       image:
-        source: //cacilhas.cc/img/codeberg.png
+        source: //img.cacilhas.cc/codeberg.png
         style:
           width: 24px
           height: 24px
@@ -39,7 +39,7 @@ author: &author
       title: Exercism
       url: https://exercism.org/profiles/cacilhas
       image:
-        source: //cacilhas.cc/img/exercism.png
+        source: //img.cacilhas.cc/exercism.png
         style:
           width: 24px
           height: 24px
@@ -48,7 +48,7 @@ author: &author
       title: Archimedes Montegasppa
       url: https://www.facebook.com/archimedes.montegasppa.3
       image:
-        source: //cacilhas.cc/img/facebook.png
+        source: //img.cacilhas.cc/facebook.png
         style:
           width: 24px
           height: 24px
@@ -56,7 +56,7 @@ author: &author
       name: Github
       url: https://github.com/cacilhas/
       image:
-        source: //cacilhas.cc/img/github.png
+        source: //img.cacilhas.cc/github.png
         style:
           width: 24px
           height: 20px
@@ -65,7 +65,7 @@ author: &author
       title: Rodrigo Cacilhas
       url: https://br.linkedin.com/in/rodrigocacilhas
       image:
-        source: //cacilhas.cc/img/linkedin.png
+        source: //img.cacilhas.cc/linkedin.png
         style:
           width: 24px
           height: 24px
@@ -74,7 +74,7 @@ author: &author
       title: "PeerTube"
       url: https://makertube.net/c/kodumaro
       image:
-        source: //cacilhas.cc/img/makertube.png
+        source: //img.cacilhas.cc/makertube.png
         style:
           width: 24px
           height: 24px
@@ -83,7 +83,7 @@ author: &author
       title: Mastodon
       url: https://mas.to/@cacilhas
       image:
-        source: //cacilhas.cc/img/mastodon.png
+        source: //img.cacilhas.cc/mastodon.png
         style:
           width: 22px
           height: 24px
@@ -95,7 +95,7 @@ author: &author
         title: YouTube/@Montegasppa
         url: https://www.youtube.com/@Montegasppa
         image:
-          source: //cacilhas.cc/img/youtube.png
+          source: //img.cacilhas.cc/youtube.png
           style:
             width: 24px
             height: 21px
@@ -104,7 +104,7 @@ author: &author
         title: YouTube/@kodumaro
         url: https://www.youtube.com/@kodumaro
         image:
-          source: //cacilhas.cc/img/kodumaro.png
+          source: //img.cacilhas.cc/kodumaro.png
           style:
             width: 24px
             height: 24px
@@ -113,7 +113,7 @@ author: &author
         title: youtube/@DevDaCerto
         url: https://www.youtube.com/@DevDaCerto
         image:
-          source: //cacilhas.cc/img/devdacerto.png
+          source: //img.cacilhas.cc/devdacerto.png
           style:
             width: 24px
             height: 24px
@@ -122,7 +122,7 @@ author: &author
       title: Pixelfed
       url: https://pixelfed.social/@Cacilhas
       image:
-        source: //cacilhas.cc/img/pixelfed.png
+        source: //img.cacilhas.cc/pixelfed.png
         style:
           width: 24px
           height: 24px

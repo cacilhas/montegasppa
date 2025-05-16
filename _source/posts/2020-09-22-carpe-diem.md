@@ -3,7 +3,7 @@ title: Carpe diem
 date: 2020-09-22
 description: Hic et nunc.
 tags: personal education-and-culture
-image: //cacilhas.cc/img/lamp.png
+image: //img.cacilhas.cc/lamp.png
 permalink: /2020/09/carpe-diem.html
 ---
 [image]: {{{image}}}

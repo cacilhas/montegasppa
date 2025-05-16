@@ -3,7 +3,7 @@ title: ॐ नमः शिवाय
 date: 2020-09-22
 description: Oṁ Namah Shivaya!
 tags: education-and-culture religion
-image: //cacilhas.cc/img/shiva-back.jpg
+image: //img.cacilhas.cc/shiva-back.jpg
 permalink: /2020/09/on-manah-shivaya.html
 ---
 [2016-05-31]: https://montegasppa.cacilhas.cc/2016/05/om-namah-shivaya.html

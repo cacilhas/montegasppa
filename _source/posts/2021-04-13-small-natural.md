@@ -2,7 +2,7 @@
 title: The Beauty of Small Natural Numbers
 date: 2021-04-13
 tags: concept education-and-culture
-image: //cacilhas.cc/img/glider.png
+image: //img.cacilhas.cc/glider.png
 permalink: /2021/04/small-natural.html
 ---
 [image]: {{{image}}}

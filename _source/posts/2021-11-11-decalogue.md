@@ -2,7 +2,7 @@
 title: The Modern Christian Decalogue
 date: 2021-11-11
 tags: education-and-culture personal religion
-image: //cacilhas.cc/img/heaven-hell.jpg
+image: //img.cacilhas.cc/heaven-hell.jpg
 permalink: /2021/11/decalogue.html
 ---
 [image]: {{{image}}}
