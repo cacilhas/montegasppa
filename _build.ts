@@ -11,26 +11,22 @@ import stylus from 'stylus';
 import Turndown from 'turndown';
 import yaml from 'js-yaml';
 
-interface Context {
-  [key: string]: any
-};
+type Context = Record<string, unknown>
 
 interface Tag {
-  date: string,
+  date: string
   title: string
   url: string
 };
 
-interface Tags {
-  [key: string]: Tag[]
-};
+type Tags = Record<string, Tag[]>
 
 const postsLimit = 5;
 
-const tags: Tags = {'': []};
+const tags: Tags = { '': [] };
 const today = moment();
 
-function mkAttrs(obj: {[key: string]: any}): string {
+function mkAttrs(obj: Record<string, unknown>): string {
   let res = '';
   for (const [key, value] of _.toPairs(obj))
     res += ` ${key}=${JSON.stringify(value)}`
@@ -133,23 +129,25 @@ showdown.extension('TableExtension', {
 });
 
 function buildMdConverter(): Converter {
-  const converter = new Converter({extensions: [
-    'AbbrExtension',
-    'BrExtension',
-    'CentreExtension',
-    'ClassExtension',
-    'ExternalLinksExtension',
-    'FirstParagraphExtension',
-    'FloatLeftExtension',
-    'FloatRightExtension',
-    'IExtension',
-    'ImgExtension',
-    'MathExtension',
-    'PreExtension',
-    'SmallParagraphExtension',
-    'TableExtension',
-    'YoutubeExtension',
-  ]});
+  const converter = new Converter({
+    extensions: [
+      'AbbrExtension',
+      'BrExtension',
+      'CentreExtension',
+      'ClassExtension',
+      'ExternalLinksExtension',
+      'FirstParagraphExtension',
+      'FloatLeftExtension',
+      'FloatRightExtension',
+      'IExtension',
+      'ImgExtension',
+      'MathExtension',
+      'PreExtension',
+      'SmallParagraphExtension',
+      'TableExtension',
+      'YoutubeExtension',
+    ]
+  });
 
   converter.setOption('completeHTMLDocument', false);
   converter.setOption('literalMidWordUnderscores', true);
@@ -174,7 +172,7 @@ async function walk(directory: string, context: Context, layout: string): Promis
   const promises: Promise<void>[] = [];
 
   const files = fs.readdirSync(directory).filter(e => !(e.startsWith('.') || e.startsWith('_')));
-  for (let cname of files) {
+  for (const cname of files) {
     const file = path.join(directory, cname);
     const stats = fs.statSync(file);
     let target = file.replace(/^.+?\/(.*)$/, './docs/$1');
@@ -183,7 +181,7 @@ async function walk(directory: string, context: Context, layout: string): Promis
       if (!fs.existsSync(target)) createDirSync(target);
       promises.push(walk(file, currentContext, currentLayout));
     } else {
-      let output: string|null = null;
+      let output: string | null = null;
       if (cname.endsWith('.coffee')) {
         target = target.replace(/\.coffee$/, '.js');
         output = CoffeeScript.compile(fs.readFileSync(file, 'utf8'));
@@ -193,7 +191,7 @@ async function walk(directory: string, context: Context, layout: string): Promis
         output = await new Promise<string>((resolve, reject) =>
           stylus(fs.readFileSync(file, 'utf8'))
             .set('filename', target)
-            .set('paths', [ directory ])
+            .set('paths', [directory])
             .render((err: Error, css: string) => err ? reject(err) : resolve(css))
         );
 
@@ -228,13 +226,13 @@ async function walk(directory: string, context: Context, layout: string): Promis
 
         if (metadata.post) {
           const current: Tag = {
-            date: metadata.date,
-            title: metadata.title,
-            url: metadata.url,
+            date: metadata.date as string,
+            title: metadata.title as string,
+            url: metadata.url as string,
           };
           tags[''].push(current);
           if (metadata.tags)
-            for (let tag of <string[]>metadata.tags.split(/\s+/).filter((e: string) => !!e))
+            for (const tag of (metadata.tags as string).split(/\s+/).filter((e: string) => !!e))
               if (tags[tag]) tags[tag].push(current);
               else tags[tag] = [current];
 
@@ -257,7 +255,7 @@ function buildAlternative(block: string, metadata: Context, target: string): voi
   fs.writeFileSync(
     target,
     converter.turndown(mustache.render(block, metadata)),
-    {encoding: 'utf8'},
+    { encoding: 'utf8' },
   );
 }
 
@@ -269,8 +267,8 @@ function createDirSync(dirname: string): void {
 
 function copyFile(source: string, target: string): Promise<void> {
   return new Promise((resolve, reject) => {
-    const output = fs.createWriteStream(target, {autoClose: true});
-    const input = fs.createReadStream(source, {autoClose: true});
+    const output = fs.createWriteStream(target, { autoClose: true });
+    const input = fs.createReadStream(source, { autoClose: true });
     input
       .on('ready', () => input.pipe(output))
       .on('error', err => reject(err))
@@ -280,7 +278,7 @@ function copyFile(source: string, target: string): Promise<void> {
 
 function writeFile(file: string, content: string): Promise<void> {
   return new Promise((resolve, reject) => {
-    fs.writeFile(file, content, {encoding: 'utf8'}, err =>
+    fs.writeFile(file, content, { encoding: 'utf8' }, err =>
       err ? reject(err) : resolve()
     );
   });
@@ -293,7 +291,7 @@ function loadYaml(file: string): Context {
 function loadContext(directory: string, context: Context): Context {
   let res: Context = _.cloneDeep(context);
   const files = fs.readdirSync(directory).filter(e => e.startsWith('_') && e.endsWith('.yaml'));
-  for (let cname of files) {
+  for (const cname of files) {
     const file = path.join(directory, cname);
     res = _.assign(res, loadYaml(file));
   }
@@ -304,7 +302,7 @@ async function ordenateTags(output: string): Promise<void> {
   await Promise.all(_.map(tags, (value: Tag[]) => Promise.resolve(value.sort((a, b) => a.date > b.date ? -1 : 1))));
   const postsFile = path.join(output, 'posts.json');
   console.log(`writing ${postsFile}`);
-  fs.writeFileSync(postsFile, JSON.stringify(tags[''].slice(0, postsLimit)), {encoding: 'utf8'});
+  fs.writeFileSync(postsFile, JSON.stringify(tags[''].slice(0, postsLimit)), { encoding: 'utf8' });
 
   const tagDir = path.join(output, 'tags');
   fs.mkdirSync(tagDir);
@@ -318,7 +316,7 @@ async function ordenateTags(output: string): Promise<void> {
 
   const tagsFile = path.join(output, 'tags.json');
   console.log(`writing ${tagsFile}`);
-  fs.writeFileSync(tagsFile, JSON.stringify(_.keys(tags).filter(e => !!e).sort()), {encoding: 'utf8'});
+  fs.writeFileSync(tagsFile, JSON.stringify(_.keys(tags).filter(e => !!e).sort()), { encoding: 'utf8' });
 }
 
 async function main(): Promise<void> {
