@@ -1,6 +1,6 @@
 ---
 title: About the author
-type: page
+type: profile
 date: 2020-09-30
 ---
 [Apraxia of Speech]: https://www.chop.edu/conditions-diseases/childhood-apraxia-speech
