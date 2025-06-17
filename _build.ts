@@ -11,6 +11,13 @@ import stylus from 'stylus';
 import Turndown from 'turndown';
 import yaml from 'js-yaml';
 
+interface Author {
+  name: string
+  email: string
+  url: string
+  username: string
+}
+
 type Context = Record<string, unknown>
 
 interface Tag {
@@ -204,8 +211,7 @@ async function walk(directory: string, context: Context, layout: string): Promis
         metadata.identifier = metadata.identifier
           ? metadata.identifier
           : file.replace(/\.[^.]+$/, '').replace(/\//g, '.');
-        metadata.type = metadata.type ? metadata.type : 'post';
-        metadata.post = metadata.type === 'post';
+        metadata.type = metadata.type ? metadata.type : 'article';
         if (metadata.date)
           metadata.isoDate = moment(metadata.date).format('MMM. DD, YYYY');
         else {
@@ -219,25 +225,51 @@ async function walk(directory: string, context: Context, layout: string): Promis
           if (!fs.existsSync(dirname)) createDirSync(dirname);
         } else
           metadata.url = `${metadata.site}/${target.replace(/^\.\/docs/, '')}`;
+
+        const author = metadata.author as Author
+        switch (metadata.type as string) {
+          case 'article': {
+            const current: Tag = {
+              date: metadata.date as string,
+              title: metadata.title as string,
+              url: metadata.url as string,
+            };
+            metadata.ogProperties = `
+              <meta property="article:author" content="${author.name}" />
+              <meta property="article:published_time" content="${metadata.date}" />
+              <meta property="article:tag" content="${metadata.tags}" />
+            `
+              .trim()
+              .replace(/  +/, '    ');
+            tags[''].push(current);
+            if (metadata.tags)
+              for (const tag of (metadata.tags as string).split(/\s+/).filter((e: string) => !!e))
+                if (tags[tag]) tags[tag].push(current);
+                else tags[tag] = [current];
+
+            buildAlternative(block, metadata, target.replace(/\.html$/, '.md'));
+            break;
+          }
+
+          case 'profile':
+            metadata.ogProperties = `
+              <meta property="profile:first_name" content="${author.name.split(' ')[0]}" />
+              <meta property="profile:last_name" content="${author.name.split(' ')[1]}" />
+              <meta property="profile:username" content="${author.username}" />
+            `
+              .trim()
+              .replace(/  +/, '    ');
+            break;
+
+          case 'website':
+            metadata.ogProperties = '';
+            break;
+        }
+
         output = mustache.render(
           fs.readFileSync(currentLayout, 'utf8').replace(/\{%\s*yield\s*%\}/, block),
           metadata,
         );
-
-        if (metadata.post) {
-          const current: Tag = {
-            date: metadata.date as string,
-            title: metadata.title as string,
-            url: metadata.url as string,
-          };
-          tags[''].push(current);
-          if (metadata.tags)
-            for (const tag of (metadata.tags as string).split(/\s+/).filter((e: string) => !!e))
-              if (tags[tag]) tags[tag].push(current);
-              else tags[tag] = [current];
-
-          buildAlternative(block, metadata, target.replace(/\.html$/, '.md'));
-        }
 
       } else
         promises.push(copyFile(file, target));

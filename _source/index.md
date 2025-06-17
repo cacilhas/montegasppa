@@ -1,5 +1,5 @@
 ---
-type: page
+type: website
 date: 2020-09-30
 ---
 [July 2006]: http://montegasppa.blogspot.com/2006/07/prlogo.html
