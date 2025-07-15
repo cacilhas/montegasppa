@@ -7,7 +7,7 @@
     "build": "yarn mrproper && tsc -p . && node _build.js; yarn clean",
     "clean": "rm -f _build.js",
     "mrproper": "yarn clean && rm -rf docs",
-    "start": "yarn build && python3 -mhttp.server 8000 --directory docs"
+    "start": "yarn build && cd docs/ && miniserve --port=8000 --index=index.html"
   },
   "author": "Arĥimedeς Montegasppα Cacilhας",
   "license": "ISC",
