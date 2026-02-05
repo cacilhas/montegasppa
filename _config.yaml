@@ -1,8 +1,8 @@
 author: &author
-  name: Montegasppα Cacilhας
-  email: montegasppa@cacilhas.cc
-  username: cacilhas
-  url: //montegasppa.cacilhas.cc/author.html
+  name: Montegasppα
+  email: dad@montegasppa.cc
+  username: montegasppa
+  url: //montegasppa.cc/author.html
   contacts:
     devto:
       name: DEV Profile 👩‍💻👨‍💻
@@ -13,7 +13,7 @@ author: &author
       title: Itch.io
       url: https://cacilhas.itch.io/
       image:
-        source: //img.cacilhas.cc/itch-io-icon.png
+        source: //img.montegasppa.cc/itch-io-icon.png
         style:
           width: 24px
           height: 24px
@@ -22,7 +22,7 @@ author: &author
       title: Le Obscur Essenteς
       url: https://montegasppa.bandcamp.com/releases
       image:
-        source: //img.cacilhas.cc/bandcamp.png
+        source: //img.montegasppa.cc/bandcamp.png
         style:
           width: 24px
           height: 24px
@@ -31,7 +31,7 @@ author: &author
       title: Codeberg
       url: https://codeberg.org/cacilhas
       image:
-        source: //img.cacilhas.cc/codeberg.png
+        source: //img.montegasppa.cc/codeberg.png
         style:
           width: 24px
           height: 24px
@@ -40,7 +40,7 @@ author: &author
       title: Exercism
       url: https://exercism.org/profiles/cacilhas
       image:
-        source: //img.cacilhas.cc/exercism.png
+        source: //img.montegasppa.cc/exercism.png
         style:
           width: 24px
           height: 24px
@@ -49,7 +49,7 @@ author: &author
       title: Archimedes Montegasppa
       url: https://www.facebook.com/archimedes.montegasppa.3
       image:
-        source: //img.cacilhas.cc/facebook.png
+        source: //img.montegasppa.cc/facebook.png
         style:
           width: 24px
           height: 24px
@@ -57,7 +57,7 @@ author: &author
       name: Github
       url: https://github.com/cacilhas/
       image:
-        source: //img.cacilhas.cc/github.png
+        source: //img.montegasppa.cc/github.png
         style:
           width: 24px
           height: 20px
@@ -66,7 +66,7 @@ author: &author
       title: Rodrigo Cacilhas
       url: https://br.linkedin.com/in/rodrigocacilhas
       image:
-        source: //img.cacilhas.cc/linkedin.png
+        source: //img.montegasppa.cc/linkedin.png
         style:
           width: 24px
           height: 24px
@@ -75,7 +75,7 @@ author: &author
       title: "PeerTube"
       url: https://makertube.net/c/kodumaro
       image:
-        source: //img.cacilhas.cc/makertube.png
+        source: //img.montegasppa.cc/makertube.png
         style:
           width: 24px
           height: 24px
@@ -84,7 +84,7 @@ author: &author
       title: Mastodon
       url: https://mas.to/@cacilhas
       image:
-        source: //img.cacilhas.cc/mastodon.png
+        source: //img.montegasppa.cc/mastodon.png
         style:
           width: 22px
           height: 24px
@@ -96,7 +96,7 @@ author: &author
         title: YouTube/@Montegasppa
         url: https://www.youtube.com/@Montegasppa
         image:
-          source: //img.cacilhas.cc/youtube.png
+          source: //img.montegasppa.cc/youtube.png
           style:
             width: 24px
             height: 21px
@@ -105,7 +105,7 @@ author: &author
         title: YouTube/@kodumaro
         url: https://www.youtube.com/@kodumaro
         image:
-          source: //img.cacilhas.cc/kodumaro.png
+          source: //img.montegasppa.cc/kodumaro.png
           style:
             width: 24px
             height: 24px
@@ -114,7 +114,7 @@ author: &author
         title: youtube/@DevDaCerto
         url: https://www.youtube.com/@DevDaCerto
         image:
-          source: //img.cacilhas.cc/devdacerto.png
+          source: //img.montegasppa.cc/devdacerto.png
           style:
             width: 24px
             height: 24px
@@ -123,7 +123,7 @@ author: &author
       title: Pixelfed
       url: https://pixelfed.social/@Cacilhas
       image:
-        source: //img.cacilhas.cc/pixelfed.png
+        source: //img.montegasppa.cc/pixelfed.png
         style:
           width: 24px
           height: 24px
@@ -132,7 +132,7 @@ description: Musician, senior software engineer, autistic person, and autistic p
 favicon: /img/favicon.ico
 lang: en
 image: /img/title-background.jpg
-site: &site //montegasppa.cacilhas.cc
+site: &site //montegasppa.cc
 title: &title ℳontegasppα and Giulia C.’s Thoughts
 
 license:
@@ -167,7 +167,7 @@ todasfridas:
 
 vortaro:
   title: Konsulta Vortaro
-  url: //vortaro.cacilhas.cc/
+  url: //vortaro.montegasppa.cc/
 
 waltercruz:
   title: Walter Cruz
