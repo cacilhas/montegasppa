@@ -2,7 +2,7 @@ author: &author
   name: Montegasppα
   email: dad@montegasppa.cc
   username: montegasppa
-  url: //montegasppa.cc/author.html
+  url: //blog.montegasppa.cc/author.html
   contacts:
     devto:
       name: DEV Profile 👩‍💻👨‍💻
@@ -132,7 +132,7 @@ description: Musician, senior software engineer, autistic person, and autistic p
 favicon: /img/favicon.ico
 lang: en
 image: /img/title-background.jpg
-site: &site //montegasppa.cc
+site: &site //blog.montegasppa.cc
 title: &title ℳontegasppα and Giulia C.’s Thoughts
 
 license:
@@ -146,7 +146,7 @@ blog:
   title: *title
 
 cacilhas:
-  title: ℭacilhας.INFO
+  title: ℭacilhας Sertec
   url: //cacilhas.cc
 
 hondaj:
