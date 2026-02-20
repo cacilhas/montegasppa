@@ -2,7 +2,7 @@
 title: A Complex World
 date: 2020-05-12
 tags: concept logical reblog
-image: //img.cacilhas.cc/zeta.png
+image: //img.montegasppa.cc/zeta.png
 permalink: /2020/05/complex-world.html
 ---
 [image]: {{{image}}}

@@ -2,7 +2,7 @@
 title: Life is no rehearsal
 date: 2023-02-05
 tags: education-and-culture psychology
-image: //img.cacilhas.cc/lamp.png
+image: //img.montegasppa.cc/lamp.png
 permalink: /2023/02/no-rehearsal.html
 ---
 [image]: {{{image}}}

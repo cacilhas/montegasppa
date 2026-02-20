@@ -2,7 +2,7 @@
 title: Proprioception issues
 date: 2023-02-23
 tags: autism health personal psychology
-image: //img.cacilhas.cc/autistic.png
+image: //img.montegasppa.cc/autistic.png
 permalink: /2023/02/proprioception.html
 ---
 [image]: {{{image}}}
